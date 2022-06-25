@@ -1,0 +1,1055 @@
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1 Algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.1 Analysis_of_algorithms
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.1.1 Big_O_notation
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.1.2 Deterministic_algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.1.3 Divide-and-conquer_algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.2 Cache_replacement_policies
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.3 Search_algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.3.1 Binary_search_algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.3.2 Breadth-first_search
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.3.3 Brute-force_search
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.3.4 Depth-first_search
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.3.5 String-searching_algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4 Sorting_algorithm
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.1 Bubble_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.2 Bucket_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.3 Gnome_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.4 Heapsort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.5 Insertion_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.6 Merge_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.7 Quicksort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.8 Radix_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.9 Selection_sort
+Science/1854 Computer Science/- Algorithms and Data Structures/2.1.4.10 Shellsort
+Science/1854 Computer Science/- Algorithms and Data Structures/3.1 Abstract_data_type
+Science/1854 Computer Science/- Algorithms and Data Structures/3.1.1 Associative_array
+Science/1854 Computer Science/- Algorithms and Data Structures/3.1.2 Graph_(abstract_data_type)
+Science/1854 Computer Science/- Algorithms and Data Structures/3.1.3 Queue_(abstract_data_type)
+Science/1854 Computer Science/- Algorithms and Data Structures/3.1.4 Stack_(abstract_data_type)
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2 Data_structure
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.1 Hash_table
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.2 Heap_(data_structure)
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.3 Linked_list
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.4 Array_data_structure
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.4.1 Triangular_array
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.5 Tree_(data_structure)
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.5.1 B-tree
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.5.2 Binary_search_tree
+Science/1854 Computer Science/- Algorithms and Data Structures/3.2.5.3 Red–black_tree
+Science/1854 Computer Science/- Algorithms and Data Structures/780-847 Muhammad_ibn_Musa_al-Khwarizmi
+Science/1854 Computer Science/- Algorithms and Data Structures/1938- Donald_Knuth
+Science/1854 Computer Science/- Algorithms and Data Structures/List_of_algorithms
+Science/1854 Computer Science/- Algorithms and Data Structures/List_of_data_structures
+Science/1854 Computer Science/- Algorithms and Data Structures/Timeline_of_algorithms
+Science/1854 Computer Science/1. Theoretical_computer_science
+Science/1854 Computer Science/1843 Programming/1815-1852 Ada_Lovelace
+Science/1854 Computer Science/1843 Programming/1972 C/1941-2011 Dennis_Ritchie
+Science/1854 Computer Science/1843 Programming/1972 C/1942- Brian_Kernighan
+Science/1854 Computer Science/1843 Programming/1985 C++/1950- Bjarne_Stroustrup
+Science/1854 Computer Science/1843 Programming/1995 Java/1955- James_Gosling
+Science/1854 Computer Science/1843 Programming/1995 Java/1961- Joshua_Bloch
+Science/1854 Computer Science/1936 Computation/1.1 Abstract_machine
+Science/1854 Computer Science/1936 Computation/1.1.1 Nondeterministic_Turing_machine
+Science/1854 Computer Science/1936 Computation/1.2 Theory_of_computation
+Science/1854 Computer Science/1936 Computation/1903-1957 John_von_Neumann
+Science/1854 Computer Science/1936 Computation/1903-1995 Alonzo_Church
+Science/1854 Computer Science/1936 Computation/1906-1978 Kurt_Gödel
+Science/1854 Computer Science/1936 Computation/1912-1954 Alan_Turing
+Science/1854 Computer Science/1936 Computation/1916-2001 Claude_Shannon
+Science/1854 Computer Science/1936 Computation/1959- Stephen_Wolfram
+Science/1854 Computer Science/1936 Computation/Computability Theory/1. Computability_theory
+Science/1854 Computer Science/1936 Computation/Computability Theory/1.1 Church–Turing_thesis
+Science/1854 Computer Science/1936 Computation/Computability Theory/2. Model_of_computation
+Science/1854 Computer Science/1936 Computation/Computability Theory/2.1 Combinatory_logic
+Science/1854 Computer Science/1936 Computation/Computability Theory/2.2 Lambda_calculus
+Science/1854 Computer Science/1936 Computation/Computability Theory/2.3 Turing_machine
+Science/1854 Computer Science/1936 Computation/Computability Theory/3. Computable_function
+Science/1854 Computer Science/1936 Computation/Computability Theory/3.1 General_recursive_function
+Science/1854 Computer Science/1936 Computation/Computability Theory/3.1.1 Primitive_recursive_function
+Science/1854 Computer Science/1936 Computation/Computability Theory/3.1.2 Μ_operator
+Science/1854 Computer Science/1936 Computation/Computability Theory/3.2 Gödel_numbering
+Science/1854 Computer Science/1936 Computation/Computability Theory/3.2.1 Gödel's_incompleteness_theorems
+Science/1854 Computer Science/1936 Computation/Computability Theory/3.2.2 UTM_theorem
+Science/1854 Computer Science/1936 Computation/Computability Theory/4. Decision_problem
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.1 Entscheidungsproblem
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.1.1 Halting_problem
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.1.2 Rice's_theorem
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.1.3 Turing's_proof
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.1.4 Universal_Turing_machine
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.2 Computably_enumerable
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.2.1 Computable_set
+Science/1854 Computer Science/1936 Computation/Computability Theory/4.2.2 Computably_inseparable
+Science/1854 Computer Science/1936 Computation/Computability Theory/5. Oracle_machine
+Science/1854 Computer Science/1936 Computation/Computability Theory/5.1 Turing_reduction
+Science/1854 Computer Science/1936 Computation/Computability Theory/5.1.1 Many-one_reduction
+Science/1854 Computer Science/1936 Computation/Computability Theory/5.1.2 Turing_degree
+Science/1854 Computer Science/1936 Computation/Computing
+Science/1854 Computer Science/1936 Computation/Timeline_of_information_theory
+Science/1854 Computer Science/1950 Systems/1938, 1970s Cryptography/Bletchley_Park
+Science/1854 Computer Science/1950 Systems/1938, 1970s Cryptography/Cryptography
+Science/1854 Computer Science/1950 Systems/1953- Richard_Stallman
+Science/1854 Computer Science/1950 Systems/1958 Networking/1. Computer_network
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.2 OSI_model
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.3 Email
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.4 Ethernet
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.5 Router_(computing)
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.6 Routing
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.7 Wi-Fi
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.9 Cellular_network
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.10 Server_(computing)
+Science/1854 Computer Science/1950 Systems/1958 Networking/1.11 Client–server_model
+Science/1854 Computer Science/1950 Systems/1958 Networking/2. Internet
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.4 Communication_protocol
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.5 Common_Gateway_Interface
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.6 File_Transfer_Protocol
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.8 HTML
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.9 Hypertext_Transfer_Protocol
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.9.1 HTTPS
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.11 Internet_protocol_suite
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.11.1 Internet_Protocol
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.11.2 IP_address
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.11.3 IPv4
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.11.4 IPv6
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.11.5 Transmission_Control_Protocol
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.12 Internet_service_provider
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.13 Peer-to-peer_file_sharing
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.14 Social_media
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.15 Web_2.0
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.16 Search_engine
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.17 Tor_(network)
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.18 Website
+Science/1854 Computer Science/1950 Systems/1958 Networking/2.19 World_Wide_Web
+Science/1854 Computer Science/1950 Systems/1958 Networking/1990 World Wide Web/1955- Tim_Berners-Lee
+Science/1854 Computer Science/1950 Systems/1962 Databases/Database
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/1. Firmware
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/2. Operating_system
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/3. Virtual_machine
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/4. Kernel_(operating_system)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/5. Job_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/6. Task_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/7. Thrashing_(computer_science)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/8. Thread_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/9. Preemption_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/10. Process_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/10.1 Process_management_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/11. Computer_multitasking
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/12. Scheduling_(computing)
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/13. System_call
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/14. Time-sharing
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/1969 UNIX/Device_file
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/1969 UNIX/Network-attached_storage
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/1969 UNIX/Procfs
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/1969 UNIX/Tmpfs
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/1991 Linux/1969- Linus_Torvalds
+Science/1854 Computer Science/1950 Systems/1962 Operating Systems/Timeline_of_operating_systems
+Science/1854 Computer Science/1955 Artificial Intelligence and Data Science/Timeline_of_machine_learning
+Science/1854 Computer Science/1965 Software Engineering/1993 DevOps (Software Development and IT operations)/2011 Jenkins_(software)
+Science/1854 Computer Science/1965 Software Engineering/1993 DevOps (Software Development and IT operations)/2011 Kafka/2011 Apache_Kafka
+Science/1854 Computer Science/List_of_pioneers_in_computer_science
+Theoretical_computer_science
+Abstract_machine
+Nondeterministic_Turing_machine
+Theory_of_computation
+Algorithm
+Analysis_of_algorithms
+Big_O_notation
+Deterministic_algorithm
+Divide-and-conquer_algorithm
+Cache_replacement_policies
+Search_algorithm
+Binary_search_algorithm
+Breadth-first_search
+Brute-force_search
+Depth-first_search
+String-searching_algorithm
+Sorting_algorithm
+Bubble_sort
+Bucket_sort
+Gnome_sort
+Heapsort
+Insertion_sort
+Merge_sort
+Quicksort
+Radix_sort
+Selection_sort
+Shellsort
+Formal_language
+Chomsky_hierarchy
+Context-free_grammar
+Computational_complexity_theory
+Blum_axioms
+Blum's_speedup_theorem
+Gap_theorem
+Constructible_function
+Kolmogorov_complexity
+Chain_rule_for_Kolmogorov_complexity
+Kolmogorov_structure_function
+Space_complexity
+Space_hierarchy_theorem
+Time_complexity
+NP
+P
+P_versus_NP_problem
+Boolean_satisfiability_problem
+NP-hardness
+Time_hierarchy_theorem
+Abstract_data_type
+Associative_array
+Graph
+Queue
+Stack
+Data_model
+Data_structure
+Hash_table
+Heap
+Linked_list
+Array
+Triangular_array
+Tree
+B-tree
+Binary_search_tree
+Red–black_tree
+Science/1854 Computer Science/Computability theory/Computability_theory
+Science/1854 Computer Science/Computability theory/Church–Turing_thesis
+Science/1854 Computer Science/Computability theory/Model_of_computation
+Science/1854 Computer Science/Computability theory/Combinatory_logic
+Science/1854 Computer Science/Computability theory/Lambda_calculus
+Science/1854 Computer Science/Computability theory/Turing_machine
+Science/1854 Computer Science/Computability theory/Computable_function
+Science/1854 Computer Science/Computability theory/General_recursive_function
+Science/1854 Computer Science/Computability theory/Primitive_recursive_function
+Science/1854 Computer Science/Computability theory/μ_operator
+Science/1854 Computer Science/Computability theory/Gödel_numbering
+Science/1854 Computer Science/Computability theory/Gödel's_incompleteness_theorems
+Science/1854 Computer Science/Computability theory/UTM_theorem
+Science/1854 Computer Science/Computability theory/Decision_problem
+Science/1854 Computer Science/Computability theory/Entscheidungsproblem
+Science/1854 Computer Science/Computability theory/Halting_problem
+Science/1854 Computer Science/Computability theory/Rice's_theorem
+Science/1854 Computer Science/Computability theory/Turing's_proof
+Science/1854 Computer Science/Computability theory/Universal_Turing_machine
+Science/1854 Computer Science/Computability theory/Computably_enumerable
+Science/1854 Computer Science/Computability theory/Computable_set
+Science/1854 Computer Science/Computability theory/Computably_inseparable
+Science/1854 Computer Science/Computability theory/Oracle_machine
+Science/1854 Computer Science/Computability theory/Turing_reduction
+Science/1854 Computer Science/Computability theory/Many-one_reduction
+Science/1854 Computer Science/Computability theory/Turing_degree
+Computing
+Information_technology
+Abacus
+Calculator
+Counting_board
+Data
+Data_communication
+Metadata
+File_sharing
+Human–computer_interaction
+Open_source
+Computer_science
+Artificial_intelligence
+Computer_architecture
+Computer_simulation
+Parallel_computing
+General-purpose_computing_on_graphics_processing_units
+Augmented_reality
+Mixed_reality
+Virtual_reality
+Concurrent_computing
+Monitor
+Floating-point_arithmetic
+Automata_theory
+Information_visualization
+Real-time_computing
+Computer_graphics
+Pixel
+Cache
+Cache_coherence
+Distributed_computing
+Computer_cluster
+Grid_computing
+Cloud_computing
+Optical_computing
+DNA_computing
+Quantum_computing
+Von_Neumann_architecture
+8-bit_computing
+16-bit_computing
+32-bit_computing
+64-bit_computing
+Endianness
+Multithreading
+Multiprocessing
+Instruction_set_architecture
+x86
+x86-64
+ARM_architecture_family
+IBM_POWER_architecture
+MIPS_architecture
+Very_long_instruction_word
+System_time
+Epoch_(computing)
+Unix_time
+Computer_security
+Firewall
+Transport_Layer_Security
+Security_bug
+Zero-day
+Cybercrime
+Botnet
+Phishing
+Zombie
+Denial-of-service_attack
+Copy_protection
+Digital_rights_management
+Malware
+Computer_virus
+Computer_worm
+Trojan_horse
+Ransomware
+Spyware
+Keystroke_logging
+Cryptography
+Block_cipher
+Brute-force_attack
+Caesar_cipher
+Cipher
+Cryptanalysis
+Digital_signature
+Encryption
+Enigma_machine
+Key
+One-time_pad
+Public-key_cryptography
+Diffie–Hellman_key_exchange
+RSA
+Symmetric-key_algorithm
+Authentication
+Password
+Security_token
+Multi-factor_authentication
+Security_through_obscurity
+Obfuscation_(software)
+Steganography
+Computer_hardware
+Computer
+Personal_computer
+Home_computer
+Desktop_computer
+Laptop
+2-in-1_PC
+Mobile_device
+Tablet_computer
+Wearable_computer
+Gaming_computer
+IBM_PC_compatible
+Mainframe_computer
+Supercomputer
+Booting
+BIOS
+Unified_Extensible_Firmware_Interface
+Multi-booting
+Reboot
+Central_processing_unit
+Microprocessor
+Multi-core_processor
+Motherboard
+Processor_register
+Floating-point_unit
+Graphics_processing_unit
+Arithmetic_logic_unit
+Digital_signal_processor
+Bus
+Serial_ATA
+Parallel_ATA
+Industry_Standard_Architecture
+Peripheral_Component_Interconnect
+PCI_Express
+Front-side_bus
+Controller
+Expansion_card
+Sound_card
+Graphics_card
+PC_Card
+ExpressCard
+Modem
+Device_driver
+Intel_High_Definition_Audio
+Moore's_law
+Embedded_system
+Real-time_clock
+Computer_case
+Computer_cooling
+Analog_computer
+Stored-program_computer
+User_interface
+Graphical_user_interface
+Window
+X_Window_System
+Command-line_interface
+Cut,_copy,_and_paste
+Peripheral
+Computer_keyboard
+Computer_monitor
+Pointing_device
+Computer_mouse
+Touchpad
+Touchscreen
+Computer_port
+IEEE_1394
+USB
+USB-C
+D-subminiature
+Digital_Visual_Interface
+DisplayPort
+HDMI
+VGA_connector
+Thunderbolt
+Webcam
+Software
+Application_software
+Database
+Data_mining
+Big_data
+Mobile_app
+Open-source_software
+Spreadsheet
+System_software
+Web_application
+Webmail
+Web_content_management_system
+Web_browser
+Word_processor
+Desktop_publishing
+Plug-in
+POSIX
+Input_method
+Firmware
+Operating_system
+Real-time_operating_system
+Virtual_machine
+Kernel
+Job
+Task
+Thrashing
+Thread
+Preemption
+Process
+Computer_multitasking
+Scheduling
+System_call
+Time-sharing
+Working_set
+Antivirus_software
+Backup_software
+Computer_file
+Backup
+Barcode
+File_system
+HFS_Plus
+File_Allocation_Table
+NTFS
+ext4
+ISO_9660
+Universal_Disk_Format
+Directory
+Filename_extension
+Data_storage
+Computer_data_storage
+Cloud_storage
+RAID
+Disk_partitioning
+Computer_memory
+Binary_file
+Text_file
+Formatted_text
+Plain_text
+File_format
+Archive_file
+ZIP_(file_format)
+RAR_(file_format)
+7z
+Document_file_format
+Office_Open_XML
+OpenDocument
+PDF
+Image_file_format
+GIF
+JPEG
+TIFF
+PNG
+SVG
+Audio_coding_format
+WAV
+MP3
+AAC
+MIDI_file_[Wikidata]
+Video_coding_format
+Advanced_Video_Coding
+DivX
+Container_format
+MPEG-4
+WebM
+Ogg
+Volatile_memory
+Random-access_memory
+Dynamic_random-access_memory
+Static_random-access_memory
+Virtual_memory
+Non-volatile_memory
+Read-only_memory
+Magnetic_storage
+Floppy_disk
+Hard_disk_drive
+Magnetic_tape
+Magnetic-tape_data_storage
+VHS
+Betamax
+Flash_memory
+NAND_flash_memory_[Wikidata]
+USB_flash_drive
+Solid-state_drive
+Memory_card
+CompactFlash
+SD_card
+MultiMediaCard
+Universal_Flash_Storage
+Optical_disc
+CD
+DVD
+LaserDisc
+HD_DVD
+Blu-ray
+Computer_network
+OSI_model
+Email
+Spamming
+Simple_Mail_Transfer_Protocol
+Internet_Message_Access_Protocol
+Ethernet
+Router
+Routing
+Wi-Fi
+Bluetooth
+Cellular_network
+GSM
+Server
+Client–server_model
+Network_topology
+Network_switch
+Network_packet
+Network_interface_controller
+Node
+Internet_of_things
+Wireless_mesh_network
+Content_delivery_network
+Private_network
+Subnetwork
+Tunneling_protocol
+Proxy_server
+Reverse_proxy
+Internet
+ARPANET
+CSS
+Communication_protocol
+Common_Gateway_Interface
+File_Transfer_Protocol
+Hashtag
+HTML
+HTML5
+Hypertext_Transfer_Protocol
+HTTPS
+Online_chat
+Internet_Relay_Chat
+Internet_protocol_suite
+Internet_Protocol
+IP_address
+IPv4
+IPv6
+Transmission_Control_Protocol
+Internet_service_provider
+Peer-to-peer_file_sharing
+BitTorrent
+EDonkey_network
+Napster
+Social_media
+Blog
+Bulletin_board_system
+Chat_room
+Internet_forum
+Online_dating_service
+Social_networking_service
+Usenet
+Web_2.0
+Search_engine
+Tor
+Website
+Wiki
+World_Wide_Web
+Dark_web
+Deep_web
+Software_development
+Software_prototyping
+Reusability
+Software_portability
+Transparency
+Library
+Formal_specification
+Formal_verification
+Software_design
+Abstraction
+Variable
+Subroutine
+Pointer
+Recursion
+Iteration
+Computer_programming
+Flowchart
+Source_code
+Bytecode
+Object_code
+Executable
+.exe
+Parameter
+Collation
+Universal_Product_Code
+Character_encoding
+ASCII
+Mojibake
+Unicode
+UTF-8
+Error_correction_code
+Compiler
+Interpreter
+Control_flow
+Macro
+Regular_expression
+Calling_convention
+Programming_language
+Programming_paradigm
+Functional_programming
+Structured_programming
+Modular_programming
+Object-oriented_programming
+Declarative_programming
+Imperative_programming
+Logic_programming
+API
+Advanced_SCSI_Programming_Interface
+Carbon
+Cocoa
+EHLLAPI
+Open_Database_Connectivity
+Windows_API
+DirectX
+Direct3D
+OpenGL
+Vulkan
+Glide
+Software_testing
+Software_bug
+Debugging
+Application_checkpointing
+Exception_handling
+Version_control
+Software_maintenance
+Software_documentation
+Syntax
+Metasyntax
+Backus–Naur_form
+Type_conversion
+Delimiter
+Operator_overloading
+Language_binding
+Low-level_programming_language
+Machine_code
+Assembly_language
+High-level_programming_language
+C
+C++
+C#
+Objective-C
+Delphi
+Haskell
+Java
+Kotlin
+Lisp
+Lua_(programming_language)
+Prolog
+Scala
+Swift
+Visual_Basic_.NET
+Shading_language
+R_(programming_language)
+SQL
+XML
+Python
+Ruby
+PHP
+Perl
+JavaScript
+Shell_script
+ALGOL
+BASIC
+Pascal
+Fortran
+Ada
+COBOL
+Logo
+Artificial_general_intelligence
+Computer_chess
+Computer_Go
+Existential_risk_from_artificial_general_intelligence
+Friendly_artificial_intelligence
+Machine_learning
+Natural_language_processing
+Speech_recognition
+Machine_translation
+Artificial_neural_network
+Philosophy_of_artificial_intelligence
+Technological_singularity
+Turing_test
+Weak_AI
+Amazon_Kindle
+Amiga
+Amstrad_CPC
+Arduino
+Asus_Eee_PC
+Chromebook
+Commodore_64
+Deep_Blue
+iMac
+iPad
+iPhone
+iPod
+Macintosh
+MSX
+Netbook
+PC-9800_series
+Raspberry_Pi
+ThinkPad
+Timex_Sinclair_1000
+Walkman
+ZX_Spectrum
+Analytical_Engine
+Antikythera_mechanism
+Atanasoff–Berry_computer
+Atlas
+Colossus_computer
+Difference_engine
+EDSAC
+EDVAC
+ENIAC
+IBM_Personal_Computer
+ILLIAC
+SEAC
+SWAC
+IBM_7030_Stretch
+UNIVAC_LARC
+Manchester_computers
+Manchester_Baby
+Manchester_Mark_1
+Harvard_Mark_I
+TRS-80
+UNIVAC_I
+Whirlwind_I
+Z3
+Apple_II
+AlphaGo
+TensorFlow
+Firefox
+Google_Chrome
+Internet_Explorer
+Netscape_(web_browser)
+Opera_(web_browser)
+mIRC
+Microsoft_Outlook
+Electron_(software_framework)
+"Hello,_World!"_program
+Microsoft_Visual_Studio
+Adobe_Creative_Suite
+Adobe_After_Effects
+Adobe_Flash
+Adobe_Photoshop
+FFmpeg
+Final_Cut_Studio
+Foobar2000
+GarageBand
+GIMP
+Inkscape
+iTunes
+Microsoft_Paint
+OBS_Studio
+VLC_media_player
+Adobe_Acrobat
+BitTorrent_(software)
+Emacs
+FileZilla
+LibreOffice
+Microsoft_Office
+MySQL
+Recuva
+TeX
+WinRAR
+Vim_(text_editor)
+Android
+iOS
+DOS
+MS-DOS
+FreeRTOS
+Macintosh_operating_systems
+Classic_Mac_OS
+macOS
+Microsoft_Windows
+Windows_3.1x
+Windows_9x
+Windows_95
+Windows_98
+Windows_NT
+Windows_XP
+Windows_Vista
+Windows_7
+Windows_10
+Symbian
+Unix
+Unix-like
+Linux
+AutoCAD
+MATLAB
+System_(3_articles)
+GDK
+KDE
+Wine_(software)
+Java_virtual_machine
+VirtualBox
+VMware
+Akamai_Technologies
+Amazon_Web_Services
+Cloudflare
+Google_Cloud_Platform
+Flickr
+Netflix
+Pornhub
+Spotify
+Steam
+YouTube
+Airbnb
+Craigslist
+eBay
+PayPal
+Tmall
+Uber
+Baidu
+Google
+MSN
+Sohu
+Yahoo!
+Yandex
+GitHub
+Google_Maps
+Internet_Archive
+IMDb
+Rotten_Tomatoes
+Urban_Dictionary
+Wikipedia
+Wix.com
+Berkeley_Open_Infrastructure_for_Network_Computing
+Google_Search
+Microsoft_Bing
+Yahoo!_Search
+2channel
+4chan
+Blogger
+DeviantArt
+Discord
+Facebook
+Instagram
+ICQ
+KakaoTalk
+Line_(software)
+LinkedIn
+Myspace
+Pinterest
+Reddit
+Slack_(software)
+Skype
+Snapchat
+Tencent_QQ
+TikTok
+Tinder
+Tumblr
+Twitch
+Twitter
+Sina_Weibo
+Vine
+VK
+WeChat
+WhatsApp
+Electronics
+Analogue_electronics
+Digital_electronics
+Circuit_design
+Electronic_design_automation
+Printed_circuit_board
+SPICE
+Electronic_circuit
+Multimeter
+Electronic_component
+Amplifier
+Operational_amplifier
+Vacuum_tube
+Capacitor
+Ceramic_capacitor
+Electrolytic_capacitor
+Film_capacitor
+Leyden_jar
+Supercapacitor
+Variable_capacitor
+Diode
+Light-emitting_diode
+Electrical_connector
+Inductor
+Power_supply
+Current_source
+Voltage_source
+Resistor
+Potentiometer
+Switch
+Knife_switch
+Relay
+Rotary_switch
+Transducer
+Actuator
+Solenoid
+Sensor
+Avalanche_photodiode
+Photodiode
+Photomultiplier_tube
+Phototube
+Stretch_sensor
+Thermistor
+Thermocouple
+Transformer
+Consumer_electronics
+AC_adapter
+Remote_control
+Asynchronous_circuit
+Globally_asynchronous_locally_synchronous
+Logic_gate
+AND_gate
+Digital_buffer
+Inverter
+NAND_gate
+NOR_gate
+OR_gate
+XOR_gate
+XNOR_gate
+Adder
+Binary_multiplier
+Subtractor
+Flip-flop
+Synchronous_circuit
+Clock_domain_crossing
+Bridge_circuit
+Wheatstone_bridge
+Electronic_oscillator
+Clock_generator
+Clock_signal
+Crystal_oscillator
+Variable-frequency_oscillator
+Frequency_mixer
+Gyrator
+Negative_impedance_converter
+Power_inverter
+Rectifier
+Diode_bridge
+Voltage_regulator
+Semiconductor_device
+Integrated_circuit
+Application-specific_integrated_circuit
+Charge-coupled_device
+Field-programmable_gate_array
+System_on_a_chip
+Network_on_a_chip
+Very_Large_Scale_Integration
+Transistor
+Bipolar_junction_transistor
+Field-effect_transistor
+MOSFET
+Transistor–transistor_logic
+CMOS
+Signal_processing
+Digital_signal
+Analog-to-digital_converter
+Digital-to-analog_converter
+Filter
+All-pass_filter
+Lattice_phase_equaliser
+Band-pass_filter
+Mechanical_filter
+High-pass_filter
+Low-pass_filter
+Multiplexing
+Noise
+Signal-to-noise_ratio
+Oscilloscope
+Sampling
+Nyquist–Shannon_sampling_theorem
+Antenna
+Antenna_array
+Electromagnetic_shielding
+Faraday_cage
+Transmission_line
+Coaxial_cable
+Waveguide
+Howard_H._Aiken
+Gene_Amdahl
+Charles_Babbage
+Tim_Berners-Lee
+Arthur_E._Bryson
+Vint_Cerf
+Alonzo_Church
+Wesley_A._Clark
+Stephen_Cook
+Seymour_Cray
+Ward_Cunningham
+Dave_Cutler
+Edsger_W._Dijkstra
+J._Presper_Eckert
+Brendan_Eich
+Douglas_Engelbart
+Shawn_Fanning
+Jay_Wright_Forrester
+James_Gosling
+Tony_Hoare
+Grace_Hopper
+Jean_Ichbiah
+Bob_Kahn
+Richard_M._Karp
+Mary_Kenneth_Keller
+Gary_Kildall
+Donald_Knuth
+Herman_Hollerith
+Leslie_Lamport
+Barbara_Liskov
+Ada_Lovelace
+John_McAfee
+John_McCarthy_(computer_scientist)
+Marvin_Minsky
+Satoshi_Nakamoto
+Dennis_Ritchie
+Adi_Shamir
+Roger_Sisson
+Richard_Stallman
+Bjarne_Stroustrup
+Aaron_Swartz
+Ken_Thompson
+Linus_Torvalds
+Alan_Turing
+John_Warnock
+Maurice_Wilkes
+Niklaus_Wirth
+Andrew_Yao
+Lotfi_A._Zadeh
+George_Zames
+Konrad_Zuse

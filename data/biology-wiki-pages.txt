@@ -1,0 +1,1132 @@
+Science/-384 Biology/-800-(-700) Sushruta
+Science/-384 Biology/1. Basics/1. Life
+Science/-384 Biology/1. Basics/1.1 Death
+Science/-384 Biology/1. Basics/1.1.1 Suicide
+Science/-384 Biology/1. Basics/1.1.1.1 Suicide_crisis
+Science/-384 Biology/1. Basics/1.1.1.2 Suicide_methods
+Science/-384 Biology/1. Basics/1.2 Abiogenesis
+Science/-384 Biology/1. Basics/1.3 Organism
+Science/-384 Biology/1. Basics/1.3.1 Earliest_known_life_forms
+Science/-384 Biology/1. Basics/1.3.2 Model_organism
+Science/-384 Biology/1. Basics/1.3.3 Microorganism
+Science/-384 Biology/1. Basics/1.3.3.1 Bacteriophage
+Science/-384 Biology/1. Basics/1.4 Carbon-based_life
+Science/-384 Biology/1. Basics/1.5 Non-cellular_life
+Science/-384 Biology/1. Basics/1.6 Artificial_life
+Science/-384 Biology/1. Basics/2. Biology
+Science/-384 Biology/1. Basics/2.1 Human_biology
+Science/-384 Biology/1. Basics/2.2 Microbiology
+Science/-384 Biology/1. Basics/2.3 Mycology
+Science/-384 Biology/1. Basics/2.4 Synthetic_biology
+Science/-384 Biology/1. Basics/3. Evolution
+Science/-384 Biology/1. Basics/3.1 History_of_life
+Science/-384 Biology/1. Basics/3.2 Introduction_to_evolution
+Science/-384 Biology/1. Basics/4. Neuroscience
+Science/-384 Biology/1. Basics/4.1 Sense
+Science/-384 Biology/1. Basics/5. Paleontology
+Science/-384 Biology/1. Basics/5.1 Fossil
+Science/-384 Biology/1. Basics/5.1.1 Living_fossil
+Science/-384 Biology/1. Basics/5.1.2 Transitional_fossil
+Science/-384 Biology/1. Basics/5.1.3 Trace_fossil
+Science/-384 Biology/1. Basics/5.1.4 Petrified_wood
+Science/-384 Biology/1. Basics/5.2 Micropaleontology
+Science/-384 Biology/1. Basics/5.3 Paleobotany
+Science/-384 Biology/1. Basics/5.4 Paleoecology
+Science/-384 Biology/1. Basics/6. Phylogenetics
+Science/-384 Biology/1. Basics/6.1 Binomial_nomenclature
+Science/-384 Biology/1. Basics/6.2 Taxonomy
+Science/-384 Biology/1. Basics/6.2.1 Domain
+Science/-384 Biology/1. Basics/6.2.2 Kingdom
+Science/-384 Biology/1. Basics/6.2.3 Phylum
+Science/-384 Biology/1. Basics/6.2.4 Class
+Science/-384 Biology/1. Basics/6.2.5 Order
+Science/-384 Biology/1. Basics/6.2.6 Family
+Science/-384 Biology/1. Basics/6.2.7 Genus
+Science/-384 Biology/1. Basics/6.2.8 Species
+Science/-384 Biology/1. Basics/6.2.9 Subspecies
+Science/-384 Biology/1. Basics/7. Bioinformatics
+Science/-384 Biology/1. Basics/7.1 Computational_biology
+Science/-384 Biology/1. Basics/7.2 Proteomics
+Science/-384 Biology/1. Basics/8. Biomechanics
+Science/-384 Biology/1. Basics/9. Systems_biology
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/1. Endocrine_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/1.1 Adrenal_gland
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/1.2 Hypothalamus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/1.3 Pituitary_gland
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/1.4 Thyroid
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/2. Abdomen
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/2.1 Navel
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/2.2 Peritoneum
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/3. Head
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/4. Thorax
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/5. Body_fluid
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/5.1 Extracellular_fluid
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/6. Beak
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/7. Claw
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/8. Fin
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/9. Gland
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/10. Tail
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/1. Circulatory_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2. Blood
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.1 Blood_plasma
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.2 Platelet
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.3 Red_blood_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.4 White_blood_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.4.1 Neutrophil
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.4.2 Eosinophil
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.4.3 Basophil
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/2.4.4 Mast_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/3. Blood_vessel
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/3.1 Artery
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/3.2 Capillary
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/3.3 Vein
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/4. Heart
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/4.1 Aorta
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/4.2 Atrium
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/4.3 Heart_valve
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/4.4 Ventricle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/5. Lymphatic_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/5.1 Lymph
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/5.2 Lymph_node
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/5.3 Lymphatic_vessel
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/6. Spleen
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Circulatory system/7. Blood–brain_barrier
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/1. Mouth
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/1.1 Saliva
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/1.2 Tooth
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/2. Esophagus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/3. Throat
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/4. Pharynx
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/5. Liver
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/6. Large_intestine
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/7. Small_intestine
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/8. Pancreas
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Gastrointestinal tract/9. Stomach
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/1. Immune_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/2. Antibody
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/3. Antigen
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/4. B_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/5. Dendritic_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/6. Macrophage
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/7. Natural_killer_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/8. T_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Immune system/9. Thymus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/1. Integumentary_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/2. Breast
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/2.1 Nipple
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/3. Feather
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/4. Fingerprint
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/5. Fur
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/6. Hair
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/6.1 Hair_follicle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/7. Nail
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/8. Scale
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/9. Skin
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/9.1 Epidermis
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Integumentary system/9.2 Dermis
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Muscular system/1. Muscular_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Muscular system/2. Cardiac_muscle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Muscular system/3. Muscle_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Muscular system/4. Sarcomere
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Muscular system/5. Skeletal_muscle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Muscular system/6. Smooth_muscle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/1. Nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/1.1 Central_nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/1.2 Peripheral_nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2. Brain
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.1 Brainstem
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.1.1 Medulla_oblongata
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.1.2 Midbrain
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.1.3 Pons
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.2 Cerebellum
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.3 Cerebral_cortex
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.4 Cerebrum
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.4.1 Frontal_lobe
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.4.2 Occipital_lobe
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.4.3 Parietal_lobe
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/2.4.4 Temporal_lobe
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/3. Cerebrospinal_fluid
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/4. Neuron
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/4.1 Axon
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/4.2 Dendrite
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/4.3 Synapse
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/5. Spinal_cord
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/6. Autonomic_nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/6.1 Parasympathetic_nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/6.2 Sympathetic_nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/7. Sensory_nervous_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/7.1 Synesthesia
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8. Auditory_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.1 Ear
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.1.1 Eardrum
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.1.2 Ossicles
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.1.3 Cochlea
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.1.4 Hair_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.2 Hearing
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/8.2.1 Auditory_cortex
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/9. Taste
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/9.1 Tongue
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/9.2 Sweetness
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/9.3 Umami
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/10. Olfactory_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/10.1 Nose
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/10.2 Sense_of_smell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/11. Somatosensory_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/11.1 Pain
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12. Visual_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1 Eye
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.1 Cornea
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.2 Iris
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.3 Lens
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.4 Optic_nerve
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.5 Photoreceptor_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.5.1 Cone_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.5.2 Rod_cell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.6 Pupil
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.7 Retina
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.1.8 Vitreous_body
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2 Visual_perception
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.1 Accommodation
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.2 Color_vision
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.2.1 Monochromacy
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.2.2 Dichromacy
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.2.3 Trichromacy
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.2.4 Tetrachromacy
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.2.5 Purkinje_effect
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Nervous system/12.2.3 Visual_cortex
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1. Reproductive_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.1 Sex_organ
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2 Female_reproductive_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.1 Clitoris
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.2 Labia
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.3 Ovary
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.4 Placenta
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.5 Uterus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.5.1 Cervix
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.6 Vagina
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.2.6.1 G-spot
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.3 Male_reproductive_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.3.1 Penis
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.3.1.1 Foreskin
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.3.1.2 Glans_penis
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.3.2 Testicle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Reproductive system/1.3.2.1 Scrotum
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/1. Respiratory_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/2. Gill
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/3. Lung
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/3.1 Bronchus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/3.2 Pulmonary_alveolus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/4. Larynx
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Respiratory system/5. Trachea
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/. Skeletal_system_(25_articles)
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/1. Skeleton
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/2. Bone
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/3. Carpal_bones
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/4. Clavicle
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/5. Fibula
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/6. Humerus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/7. Jaw
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/8. Joint
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/8.1 Elbow
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/8.2 Knee
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/9. Metacarpal_bones
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/10. Metatarsal_bones
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/11. Patella
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/12. Pelvis
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/13. Phalanx_bone
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/14. Radius
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/15. Rib
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/16. Skull
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/17. Sternum
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/18. Tarsus
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/19. Tibia
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/20. Ulna
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/21. Vertebral_column
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/22. Exoskeleton
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Skeletal system/23. Mollusc_shell
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/1. Connective_tissue
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/1.1 Adipocyte
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/1.2 Adipose_tissue
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/1.3 Cartilage
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/1.4 Fibroblast
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/1.5 Tendon
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/2. Epithelium
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/2.1 Basement_membrane
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/3. Muscle_tissue
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Tissues/4. Nervous_tissue
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Urinary system/1. Urinary_bladder
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Urinary system/2. Kidney
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Urinary system/3. Urinary_system
+Science/-384 Biology/2. Anatomy and morphology/Animal anatomy and morphology/Urinary system/3.1 Urine
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/1. Anatomy
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/2. Anatomical_variation
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/3. Dissection
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/4. Morphology
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/5. Organ
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/6. Tissue
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/7. Sexual_dimorphism
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/8. Bacterial_cell_structure
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/8.1 Bacterial_capsule
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/8.2 Endospore
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/8.3 Pilus
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/9. Biofilm
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/10. Bird_anatomy
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/11. Fish_anatomy
+Science/-384 Biology/2. Anatomy and morphology/Basic anatomy/12. Insect_morphology
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/1. Plant_anatomy
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/2. Plant_morphology
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/3. Plant_nutrition
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/4. Bulb
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/5. Flower
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/5.1 Gynoecium
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/5.2 Petal
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/5.3 Sepal
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/5.4 Stamen
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/6. Fruit
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/6.1 Berry
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/6.2 Nut
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/7. Leaf
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/8. Root
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/8.1 Aerial_root
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/8.2 Taproot
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/9. Stoma
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/10. Seed
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/11. Seedling
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/11.1 Cotyledon
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/11.2 Hypocotyl
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/11.3 Radicle
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/12. Shrub
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/13. Tree
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/14. Vine
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/General/14.1 Tendril
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/1. Plant_stem
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/2. Bark
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/3. Branch
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/4. Cortex
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/5. Pith
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/6. Stele
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/7. Trunk
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant stem/8. Twig
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/1. Epidermis
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/2. Endodermis
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/3. Ground_tissue
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/4. Meristem
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/5. Vascular_tissue
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/5.1 Phloem
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/5.2 Xylem
+Science/-384 Biology/2. Anatomy and morphology/Plant anatomy and morphology/Plant tissues/6. Vascular_cambium
+Science/-384 Biology/140-208 Hua_Tuo
+Science/-384 Biology/1300-1368 Guy_de_Chauliac
+Science/-384 Biology/1479- Giovanni_de_Ventura
+Science/-384 Biology/1493-1541 Paracelsus
+Science/-384 Biology/1509-1553 Michael_Servetus
+Science/-384 Biology/1510-1590 Ambroise_Paré
+Science/-384 Biology/1514-1564 Andreas_Vesalius
+Science/-384 Biology/1516-1565 Conrad_Gessner
+Science/-384 Biology/1518-1593 Li_Shizhen
+Science/-384 Biology/1523-1562 Gabriele_Falloppio
+Science/-384 Biology/1526-1603 Carolus_Clusius
+Science/-384 Biology/1533-1619 Hieronymus_Fabricius
+Science/-384 Biology/1563-1653 Niall_Ó_Glacáin
+Science/-384 Biology/1578-1657 William_Harvey
+Science/-384 Biology/1620-1704 Ralph_Bathurst
+Science/-384 Biology/1624-1689 Thomas_Sydenham
+Science/-384 Biology/1626-1697 Francesco_Redi
+Science/-384 Biology/1627-1705 John_Ray
+Science/-384 Biology/1628-1694 Marcello_Malpighi
+Science/-384 Biology/1632-1723 Antonie_van_Leeuwenhoek
+Science/-384 Biology/1633-1714 Bernardino_Ramazzini
+Science/-384 Biology/1637-1680 Jan_Swammerdam
+Science/-384 Biology/1677-1761 Stephen_Hales
+Science/-384 Biology/1679-1761 Pierre_Fauchard
+Science/-384 Biology/1683-1757 René_Antoine_Ferchault_de_Réaumur
+Science/-384 Biology/1705-1735 Peter_Artedi
+Science/-384 Biology/1707-1778 Carl_Linnaeus
+Science/-384 Biology/1708-1777 Albrecht_von_Haller
+Science/-384 Biology/1716-1794 James_Lind
+Science/-384 Biology/1728-1793 John_Hunter_(surgeon)
+Science/-384 Biology/1729-1799 Lazzaro_Spallanzani
+Science/-384 Biology/1735-1804 Bernard_Peyrilhe
+Science/-384 Biology/1737-1798 Luigi_Galvani
+Science/-384 Biology/1743-1820 Joseph_Banks
+Science/-384 Biology/1744-1829 Jean-Baptiste_Lamarck
+Science/-384 Biology/1745-1808 Johan_Christian_Fabricius
+Science/-384 Biology/1749-1823 Edward_Jenner
+Science/-384 Biology/1752-1840 Johann_Friedrich_Blumenbach
+Science/-384 Biology/1757-1819 Erik_Acharius
+Science/-384 Biology/1759-1850 William_Kirby_(entomologist)
+Science/-384 Biology/1760-1835 Hanaoka_Seishū
+Science/-384 Biology/1769-1832 Georges_Cuvier
+Science/-384 Biology/1771-1830 Ephraim_McDowell
+Science/-384 Biology/1772-1844 Étienne_Geoffroy_Saint-Hilaire
+Science/-384 Biology/1773-1858 Robert_Brown_(botanist,_born_1773)
+Science/-384 Biology/1774-1842 Charles_Bell
+Science/-384 Biology/1774-1845 Johnny_Appleseed
+Science/-384 Biology/1776-1837 Gottfried_Reinhold_Treviranus
+Science/-384 Biology/1779-1851 Lorenz_Oken
+Science/-384 Biology/1779-1864 Ludolph_Christian_Treviranus
+Science/-384 Biology/1781-1826 René_Laennec
+Science/-384 Biology/1785-1851 John_James_Audubon
+Science/-384 Biology/1787-1869 Jan_Evangelista_Purkyně
+Science/-384 Biology/1790-1857 Johann_Jakob_Heckel
+Science/-384 Biology/1791-1862 Robert_Knox
+Science/-384 Biology/1792-1876 Karl_Ernst_von_Baer
+Science/-384 Biology/1802-1887 Dorothea_Dix
+Science/-384 Biology/1804-1892 Richard_Owen
+Science/-384 Biology/1805-1880 Charles_Thomas_Jackson
+Science/-384 Biology/1807-1873 Louis_Agassiz
+Science/-384 Biology/1808-1890 John_Hancock_(ornithologist)
+Science/-384 Biology/1809-1882 Charles_Darwin
+Science/-384 Biology/1810-1882 Theodor_Schwann
+Science/-384 Biology/1810-1888 Philip_Henry_Gosse
+Science/-384 Biology/1813-1858 John_Snow
+Science/-384 Biology/1813-1878 Claude_Bernard
+Science/-384 Biology/1813-1883 J._Marion_Sims
+Science/-384 Biology/1815-1878 Crawford_Long
+Science/-384 Biology/1817-1911 Joseph_Dalton_Hooker
+Science/-384 Biology/1818-1865 Ignaz_Semmelweis
+Science/-384 Biology/1818-1896 Emil_du_Bois-Reymond
+Science/-384 Biology/1819-1868 William_T._G._Morton
+Science/-384 Biology/1820-1910 Florence_Nightingale
+Science/-384 Biology/1822-1884 Gregor_Mendel
+Science/-384 Biology/1822-1895 Louis_Pasteur
+Science/-384 Biology/1822-1898 Rudolf_Leuckart
+Science/-384 Biology/1823-1913 Alfred_Russel_Wallace
+Science/-384 Biology/1825-1893 Jean-Martin_Charcot
+Science/-384 Biology/1825-1895 Thomas_Henry_Huxley
+Science/-384 Biology/1827-1912 Joseph_Lister
+Science/-384 Biology/1828-1870 Albrecht_von_Graefe
+Science/-384 Biology/1828-1898 Ferdinand_Cohn
+Science/-384 Biology/1830-1914 Albert_Günther
+Science/-384 Biology/1831-1892 Christian_Wilhelm_Braune
+Science/-384 Biology/1831-1899 Othniel_Charles_Marsh
+Science/-384 Biology/1834-1891 Hugh_Owen_Thomas
+Science/-384 Biology/1834-1914 August_Weismann
+Science/-384 Biology/1834-1919 Ernst_Haeckel
+Science/-384 Biology/1836-1915 Greene_Vardiman_Black
+Science/-384 Biology/1840-1897 Edward_Drinker_Cope
+Science/-384 Biology/1841-1924 Eugenius_Warming
+Science/-384 Biology/1843-1910 Robert_Koch
+Science/-384 Biology/1845-1906 William_Farrer
+Science/-384 Biology/1845-1916 Élie_Metchnikoff
+Science/-384 Biology/1848-1935 Hugo_de_Vries
+Science/-384 Biology/1849-1919 William_Osler
+Science/-384 Biology/1849-1926 Luther_Burbank
+Science/-384 Biology/1850-1934 William_H._Welch
+Science/-384 Biology/1851-1931 Martinus_Beijerinck
+Science/-384 Biology/1852-1914 Carl_Chun
+Science/-384 Biology/1852-1922 William_Stewart_Halsted
+Science/-384 Biology/1852-1934 Santiago_Ramón_y_Cajal
+Science/-384 Biology/1852-1943 John_Harvey_Kellogg
+Science/-384 Biology/1853-1931 Kitasato_Shibasaburō
+Science/-384 Biology/1854-1915 Paul_Ehrlich
+Science/-384 Biology/1854-1917 Emil_von_Behring
+Science/-384 Biology/1855-1930 Edward_Angle
+Science/-384 Biology/1858-1937 George_Albert_Boulenger
+Science/-384 Biology/1858-1943 Howard_Atwood_Kelly
+Science/-384 Biology/1860-1936 John_Scott_Haldane
+Science/-384 Biology/1861-1926 William_Bateson
+Science/-384 Biology/1863-1945 Alexandre_Yersin
+Science/-384 Biology/1864-1920 Dmitri_Ivanovsky
+Science/-384 Biology/1864-1926 Carl_Akeley
+Science/-384 Biology/1864-1943 George_Washington_Carver
+Science/-384 Biology/1864-1944 Arthur_Smith_Woodward
+Science/-384 Biology/1866-1945 Thomas_Hunt_Morgan
+Science/-384 Biology/1868-1943 Karl_Landsteiner
+Science/-384 Biology/1869-1939 Harvey_Cushing
+Science/-384 Biology/1869-1970 Alice_Hamilton
+Science/-384 Biology/1873-1944 Alexis_Carrel
+Science/-384 Biology/1873-1949 Félix_d'Hérelle
+Science/-384 Biology/1876-1928 Hideyo_Noguchi
+Science/-384 Biology/1879-1958 Ernest_Sachs
+Science/-384 Biology/1879-1960 Wu_Lien-teh
+Science/-384 Biology/1879-1967 Elmer_McCollum
+Science/-384 Biology/1880-1952 Elizabeth_Kenny
+Science/-384 Biology/1881-1955 Alexander_Fleming
+Science/-384 Biology/1882-1960 Harold_Gillies
+Science/-384 Biology/1883-1970 Otto_Heinrich_Warburg
+Science/-384 Biology/1886-1982 Karl_von_Frisch
+Science/-384 Biology/1887-1943 Nikolai_Vavilov
+Science/-384 Biology/1887-1967 Marguerite_Davis
+Science/-384 Biology/1890-1967 Hermann_Joseph_Muller
+Science/-384 Biology/1892-1959 Shirō_Ishii
+Science/-384 Biology/1892-1964 J._B._S._Haldane
+Science/-384 Biology/1893-1992 Robert_A._Kehoe
+Science/-384 Biology/1895-1950 Rudolph_Boysen
+Science/-384 Biology/1895-1964 Gerhard_Domagk
+Science/-384 Biology/1895-1972 Walter_Jackson_Freeman_II
+Science/-384 Biology/1897-1931 Joan_Beauchamp_Procter
+Science/-384 Biology/1897-1991 Austin_Bradford_Hill
+Science/-384 Biology/1898-1968 Howard_Florey
+Science/-384 Biology/1898-1976 Trofim_Lysenko
+Science/-384 Biology/1898-1986 Hubertus_Strughold
+Science/-384 Biology/1899-1959 Ian_Clunies_Ross
+Science/-384 Biology/1899-1985 Macfarlane_Burnet
+Science/-384 Biology/1900-1975 Theodosius_Dobzhansky
+Science/-384 Biology/1900-1981 Hans_Krebs_(biochemist)
+Science/-384 Biology/1900-1989 James_Bond_(ornithologist)
+Science/-384 Biology/1902-1992 Barbara_McClintock
+Science/-384 Biology/1903-1989 Konrad_Lorenz
+Science/-384 Biology/1903-1991 G._Evelyn_Hutchinson
+Science/-384 Biology/1903-1998 Benjamin_Spock
+Science/-384 Biology/1904-1950 Charles_R._Drew
+Science/-384 Biology/1904-2004 Ancel_Keys
+Science/-384 Biology/1905-2005 Ernst_Mayr
+Science/-384 Biology/1906-1980 Hans_Asperger
+Science/-384 Biology/1906-2002 Alice_Stewart
+Science/-384 Biology/1907-1964 Rachel_Carson
+Science/-384 Biology/1907-1976 Alexander_S._Wiener
+Science/-384 Biology/1907-1988 Nikolaas_Tinbergen
+Science/-384 Biology/1908-2008 Michael_DeBakey
+Science/-384 Biology/1910-1995 John_Yudkin
+Science/-384 Biology/1910-2009 Armen_Takhtajan
+Science/-384 Biology/1911-1979 Josef_Mengele
+Science/-384 Biology/1912-2005 Richard_Doll
+Science/-384 Biology/1914-1995 Jonas_Salk
+Science/-384 Biology/1914-2009 Norman_Borlaug
+Science/-384 Biology/1914-2018 David_Goodall_(botanist)
+Science/-384 Biology/1916-2004 Francis_Crick
+Science/-384 Biology/1916-2004 Frank_Pantridge
+Science/-384 Biology/1916-2013 C._Everett_Koop
+Science/-384 Biology/1918-2018 T._Berry_Brazelton
+Science/-384 Biology/1919-2005 Maurice_Hilleman
+Science/-384 Biology/1920-1958 Rosalind_Franklin
+Science/-384 Biology/1920-1980 Robert_Whittaker_(ecologist)
+Science/-384 Biology/1921-2008 Victor_A._McKusick
+Science/-384 Biology/1922-2001 Christiaan_Barnard
+Science/-384 Biology/1923-1995 Takeshi_Hirayama
+Science/-384 Biology/1924-1994 Motoo_Kimura
+Science/-384 Biology/1924-2003 Peter_Safar
+Science/-384 Biology/1926-1994 Jérôme_Lejeune
+Science/-384 Biology/1926-2017 Frank_Gotch_(physician)
+Science/-384 Biology/1926-2017 Thomas_Starzl
+Science/-384 Biology/1927- Thomas_Noguchi
+Science/-384 Biology/1927-2017 Herbert_Needleman
+Science/-384 Biology/1928- James_Watson
+Science/-384 Biology/1928-2016 Bill_Mollison
+Science/-384 Biology/1929-1993 Fred_Hollows
+Science/-384 Biology/1929-2018 Newton_Morton
+Science/-384 Biology/1929-2021 E._O._Wilson
+Science/-384 Biology/1930-2003 Robert_Atkins_(physician)
+Science/-384 Biology/1932- Paul_R._Ehrlich
+Science/-384 Biology/1932-2022 Luc_Montagnier
+Science/-384 Biology/1933- Caldwell_Esselstyn
+Science/-384 Biology/1933-2015 Oliver_Sacks
+Science/-384 Biology/1934- Jane_Goodall
+Science/-384 Biology/1935- Sylvia_Earle
+Science/-384 Biology/1936- Harald_zur_Hausen
+Science/-384 Biology/1936-1991 Victor_Chang
+Science/-384 Biology/1936-2000 W._D._Hamilton
+Science/-384 Biology/1938-2011 Lynn_Margulis
+Science/-384 Biology/1940- Anthony_Fauci
+Science/-384 Biology/1941- Richard_Dawkins
+Science/-384 Biology/1941-2002 Stephen_Jay_Gould
+Science/-384 Biology/1941-2009 George_Tiller
+Science/-384 Biology/1942- Michael_M._C._Lai
+Science/-384 Biology/1942- Philip_J._Landrigan
+Science/-384 Biology/1943- Robert_Trivers
+Science/-384 Biology/1944- Ian_Wilmut
+Science/-384 Biology/1946- Craig_Venter
+Science/-384 Biology/1947- Françoise_Barré-Sinoussi
+Science/-384 Biology/1947- Temple_Grandin
+Science/-384 Biology/1950- Francis_Collins
+Science/-384 Biology/1951- Barry_Marshall
+Science/-384 Biology/1951- Ben_Carson
+Science/-384 Biology/1955- Denis_Mukwege
+Science/-384 Biology/1957- Robert_Lustig
+Science/-384 Biology/1984- He_Jiankui
+Science/-384 Biology/1986-2020 Li_Wenliang
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/1. Biochemistry
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/1. Nucleic_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/2. Chemical_biology
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/2. DNA
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/3. Biomolecule
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/3. RNA
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/3.1 Messenger_RNA
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/3.2 Transfer_RNA
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/3.3 Ribosomal_RNA
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/4. Adenosine_triphosphate
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/4. Structural_biology
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5. Hypothetical_types_of_biochemistry
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5. Nucleic_acid_structure
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.1 Base_pair
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.2 Nucleotide
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.3 Adenine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.4 Cytosine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.5 Guanine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.6 Thymine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/5.7 Uracil
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Alkaloids/1. Alkaloid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Alkaloids/2. Caffeine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Alkaloids/3. Cocaine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Alkaloids/4. Morphine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Alkaloids/5. Nicotine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/1. Biological_pigment
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/2. Carotenoid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/2.1 Β-Carotene
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/2.2 Lutein
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/3. Chlorophyll
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/4. Melanin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Biological pigments/5. Rhodopsin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/1. Carbohydrate
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/2. Sugar
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3. Monosaccharide
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3.1 Deoxyribose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3.2 Fructose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3.3 Galactose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3.4 Glucose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3.5 Glyceraldehyde
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/3.6 Ribose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/4. Disaccharide
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/4.1 Lactose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/4.2 Maltose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/4.3 Sucrose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/5. Polysaccharide
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/5.1 Cellulose
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/5.2 Chitin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/5.3 Glycogen
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/5.4 Pectin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Carbohydrates/5.5 Starch
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/1. Hormone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/2. Adrenaline
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/3. Androgen
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/4. Aldosterone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/5. Cortisol
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/6. Dopamine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/7. Endorphins
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/8. Estrogen
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/9. Glucocorticoid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/10. Growth_hormone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/11. Insulin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/12. Leptin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/13. Melatonin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/14. Oxytocin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/15. Progestogen
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/16. Secretin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/17. Testosterone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/18. Thyroid_hormones
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/19. Vasopressin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20. Plant_hormone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.1 Abscisic_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.2 Auxin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.3 Brassinosteroid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.4 Cytokinin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.5 Gibberellin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.6 Jasmonate
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.7 Salicylic_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Hormones/20.8 Strigolactone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Lipids/1. Lipid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Lipids/2. Fat
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Lipids/3. Fatty_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Lipids/4. Lipopolysaccharide
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Lipids/5. Lipoprotein
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Lipids/6. Phospholipid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Neurotransmitters/1. Neurotransmitter
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Neurotransmitters/2. Acetylcholine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Neurotransmitters/3. Catecholamine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Neurotransmitters/4. γ-Aminobutyric_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Neurotransmitters/5. Glutathione
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/1. Protein
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2. Amino_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.1 Proteinogenic_amino_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.2 Essential_amino_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.3 Alanine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.4 Arginine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.5 Asparagine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.6 Aspartic_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.7 Cysteine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.8 Glutamic_acid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.9 Glutamine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.10 Glycine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.11 Histidine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.12 Isoleucine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.13 Leucine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.14 Lysine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.15 Methionine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.16 Phenylalanine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.17 Proline
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.18 Serine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.19 Threonine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.20 Tryptophan
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.21 Tyrosine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/2.22 Valine
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/3. Collagen
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/4. Enzyme
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/5. Glycoprotein
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/6. Hemoglobin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/7. Histone
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/8. Keratin
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/9. Peptide
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/10. Peptidoglycan
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/11. Protein
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/12. Protein_biosynthesis
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/13. Protein_structure
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/14. Proteome
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Proteins/15. Gluten
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Steroids/1. Steroid
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Steroids/2. Cholesterol
+Science/-384 Biology/Biochemistry and molecular biology/Biochemistry/Steroids/3. Steroid_hormone
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/1. Molecular_biology
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/2. Gene_expression
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/3. Central_dogma
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/4. Genetic_code
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/5. DNA_replication
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/5.1 DNA_polymerase
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/5.2 DNA_ligase
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/5.3 Helicase
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/6. DNA_repair
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/7. Transposable_element
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/8. Non-coding_DNA
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9. Transcription
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9.1 Enhancer
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9.2 Operon
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9.3 Promoter
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9.4 RNA_polymerase
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9.5 Terminator
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/9.6 Transcription_factor
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/10. Post-transcriptional_modification
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/10.1 RNA_splicing
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/10.1.1 Exon
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/10.1.2 Intron
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/10.2 MicroRNA
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/10.3 RNA_interference
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/11. Translation
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/12. Post-translational_modification
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/12.1 Protein_folding
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/12.2 Ubiquitin
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/13. Regulation_of_gene_expression
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/14. Non-coding_RNA
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/15. Reverse_transcription
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/15.1 Complementary_DNA
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/16. Recombinant_DNA
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/16.1 Restriction_enzyme
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/17. Cloning_vector
+Science/-384 Biology/Biochemistry and molecular biology/Molecular biology/18. Expression_vector
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/1. Cuticle
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/2. Embryo
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/3. Embryology
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/4. Fetus
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/5. Imago
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/6. Larva
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/7. Longevity
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/8. Metamorphosis
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/9. Moulting
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/10. Nymph
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/11. Ontogeny
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/12. Puberty
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/13. Pupa
+Science/-384 Biology/Biological processes and physiology/Animal ontogeny/14. Tadpole
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/1. Egg
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/1.1 Oogenesis
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/1.2 Egg_white
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/1.3 Yolk
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/2. Birth
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/3. Lactation
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/4. Pregnancy
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/5. Pregnancy_in_fish
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/6. Semen
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/6.1 Ejaculation
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/6.2 Insemination
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/7. Sperm
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/7.1 Spermatogenesis
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8. Animal_embryonic_development
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8.1 Zygote
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8.2 Cleavage
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8.3 Morula
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8.4 Blastulation
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8.5 Gastrulation
+Science/-384 Biology/Biological processes and physiology/Animal reproduction/8.6 Germ_layer
+Science/-384 Biology/Biological processes and physiology/Basics/1. Physiology
+Science/-384 Biology/Biological processes and physiology/Basics/1.1 Plant_physiology
+Science/-384 Biology/Biological processes and physiology/Basics/2. Chemosynthesis
+Science/-384 Biology/Biological processes and physiology/Basics/3. Circadian_rhythm
+Science/-384 Biology/Biological processes and physiology/Basics/4. Digestion
+Science/-384 Biology/Biological processes and physiology/Basics/5. Excretion
+Science/-384 Biology/Biological processes and physiology/Basics/6. Healing
+Science/-384 Biology/Biological processes and physiology/Basics/6.1 Coagulation
+Science/-384 Biology/Biological processes and physiology/Basics/6.2 Hemostasis
+Science/-384 Biology/Biological processes and physiology/Basics/6.3 Wound_healing
+Science/-384 Biology/Biological processes and physiology/Basics/7. Homeostasis
+Science/-384 Biology/Biological processes and physiology/Basics/7.1 Acid–base_homeostasis
+Science/-384 Biology/Biological processes and physiology/Basics/7.2 Blood_sugar_level
+Science/-384 Biology/Biological processes and physiology/Basics/7.3 Osmoregulation
+Science/-384 Biology/Biological processes and physiology/Basics/8. Metabolism
+Science/-384 Biology/Biological processes and physiology/Basics/8.1 Bradymetabolism
+Science/-384 Biology/Biological processes and physiology/Basics/8.2 Catabolism
+Science/-384 Biology/Biological processes and physiology/Basics/8.3 Gluconeogenesis
+Science/-384 Biology/Biological processes and physiology/Basics/9. Muscle_contraction
+Science/-384 Biology/Biological processes and physiology/Basics/10. Photosynthesis
+Science/-384 Biology/Biological processes and physiology/Basics/10.1 Light-dependent_reactions
+Science/-384 Biology/Biological processes and physiology/Basics/10.2 Calvin_cycle
+Science/-384 Biology/Biological processes and physiology/Basics/11. Respiration
+Science/-384 Biology/Biological processes and physiology/Basics/12. Thermoregulation
+Science/-384 Biology/Biological processes and physiology/Basics/12.1 Warm-blooded
+Science/-384 Biology/Biological processes and physiology/Basics/12.2 Thermogenesis
+Science/-384 Biology/Biological processes and physiology/Basics/12.3 Ectotherm
+Science/-384 Biology/Biological processes and physiology/Basics/12.4 Endotherm
+Science/-384 Biology/Biological processes and physiology/Basics/12.5 Eurytherm
+Science/-384 Biology/Biological processes and physiology/Basics/12.6 Poikilotherm
+Science/-384 Biology/Biological processes and physiology/Basics/12.7 Mesotherm
+Science/-384 Biology/Biological processes and physiology/Basics/12.8 Homeothermy
+Science/-384 Biology/Biological processes and physiology/Basics/12.9 Heterothermy
+Science/-384 Biology/Biological processes and physiology/Basics/12.10 Stenothermic
+Science/-384 Biology/Biological processes and physiology/Basics/12.11 Kleptothermy
+Science/-384 Biology/Biological processes and physiology/Basics/12.12 Gigantothermy
+Science/-384 Biology/Biological processes and physiology/Basics/12.13 Thermostability
+Science/-384 Biology/Biological processes and physiology/Basics/12.14 Thermolabile
+Science/-384 Biology/Biological processes and physiology/Basics/13. Transpiration
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/1. Reproduction
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/2. Asexual_reproduction
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/2.1 Parthenogenesis
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/3. Sex
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/3.1 Sexual_reproduction
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/3.2 Female
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/3.3 Male
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/4. Gamete
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/5. Germline
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/6. Microbial_cyst
+Science/-384 Biology/Biological processes and physiology/Biological reproduction/7. Spore
+Science/-384 Biology/Biological processes and physiology/Development/1. Developmental_biology
+Science/-384 Biology/Biological processes and physiology/Development/2. Human_development
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1. Human_reproduction
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.1 Pregnancy
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.1.1 Human_embryonic_development
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.1.2 Human_fertilization
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.1.3 Miscarriage
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.2 Childbirth
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.2.1 Breech_birth
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.2.2 Multiple_birth
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.2.3 Preterm_birth
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.2.4 Postterm_pregnancy
+Science/-384 Biology/Biological processes and physiology/Human reproduction/1.2.5 Stillbirth
+Science/-384 Biology/Biological processes and physiology/Human reproduction/2. Menstrual_cycle
+Science/-384 Biology/Biological processes and physiology/Human reproduction/2.1 Menstruation
+Science/-384 Biology/Biological processes and physiology/Human reproduction/2.2 Ovulation
+Science/-384 Biology/Biological processes and physiology/Human reproduction/2.3 Premenstrual_syndrome
+Science/-384 Biology/Biological processes and physiology/Human reproduction/3. Menopause
+Science/-384 Biology/Biological processes and physiology/Human reproduction/3.1 Hot_flash
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/1. Plant_reproduction
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/2. Alternation_of_generations
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/3. Gametophyte
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/3.1 Antheridium
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/3.2 Archegonium
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/4. Germination
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/5. Oogonium
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/6. Plant_embryonic_development
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/7. Plant_reproductive_morphology
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/8. Pollen
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/9. Pollination
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/10. Sporophyte
+Science/-384 Biology/Biological processes and physiology/Plant reproduction/11. Vernalization
+Science/-384 Biology/Botany/1. Botany
+Science/-384 Biology/Botany/2. Plant
+Science/-384 Biology/Botany/2.1 Carnivorous_plant
+Science/-384 Biology/Botany/2.2 Flowering_plant
+Science/-384 Biology/Botany/2.2.1 Eudicots
+Science/-384 Biology/Botany/2.2.2 Magnoliids
+Science/-384 Biology/Botany/2.2.3 Monocotyledon
+Science/-384 Biology/Botany/2.3 Weed
+Science/-384 Biology/Botany/3. Plant_pathology
+Science/-384 Biology/Cell biology/1. Cell_biology
+Science/-384 Biology/Cell biology/Cell parts/1. Cell
+Science/-384 Biology/Cell biology/Cell parts/2. Cell_junction
+Science/-384 Biology/Cell biology/Cell parts/3. Cell_membrane
+Science/-384 Biology/Cell biology/Cell parts/3.1 Lipid_bilayer
+Science/-384 Biology/Cell biology/Cell parts/3.2 Membrane_potential
+Science/-384 Biology/Cell biology/Cell parts/3.3 Membrane_protein
+Science/-384 Biology/Cell biology/Cell parts/4. Cilium
+Science/-384 Biology/Cell biology/Cell parts/5. Cytoplasm
+Science/-384 Biology/Cell biology/Cell parts/5.1 Cytosol
+Science/-384 Biology/Cell biology/Cell parts/6. Cytoskeleton
+Science/-384 Biology/Cell biology/Cell parts/6.1 Microfilament
+Science/-384 Biology/Cell biology/Cell parts/6.1.1 Actin
+Science/-384 Biology/Cell biology/Cell parts/6.1.2 Myosin
+Science/-384 Biology/Cell biology/Cell parts/6.2 Microtubule
+Science/-384 Biology/Cell biology/Cell parts/7. Flagellum
+Science/-384 Biology/Cell biology/Cell parts/8. Symbiogenesis
+Science/-384 Biology/Cell biology/Cell processes/1. Cell_death
+Science/-384 Biology/Cell biology/Cell processes/1.1 Necrosis
+Science/-384 Biology/Cell biology/Cell processes/1.2 Programmed_cell_death
+Science/-384 Biology/Cell biology/Cell processes/1.2.1 Apoptosis
+Science/-384 Biology/Cell biology/Cell processes/1.2.2 Autophagy
+Science/-384 Biology/Cell biology/Cell processes/2. Cell_signaling
+Science/-384 Biology/Cell biology/Cell processes/2.1 Cytokine
+Science/-384 Biology/Cell biology/Cell processes/2.2 Ligand
+Science/-384 Biology/Cell biology/Cell processes/2.3 Receptor
+Science/-384 Biology/Cell biology/Cell processes/2.3.1 G_protein-coupled_receptor
+Science/-384 Biology/Cell biology/Cell processes/2.4 Signal_transduction
+Science/-384 Biology/Cell biology/Cell processes/2.5 Biochemical_cascade
+Science/-384 Biology/Cell biology/Cell processes/2.6 Second_messenger_system
+Science/-384 Biology/Cell biology/Cell processes/3. Cellular_differentiation
+Science/-384 Biology/Cell biology/Cell processes/3.1 Somatic_cell
+Science/-384 Biology/Cell biology/Cell processes/3.2 Stem_cell
+Science/-384 Biology/Cell biology/Cell processes/3.2.1 Embryonic_stem_cell
+Science/-384 Biology/Cell biology/Cell processes/3.2.2 Hematopoietic_stem_cell
+Science/-384 Biology/Cell biology/Cell processes/4. Cellular_respiration
+Science/-384 Biology/Cell biology/Cell processes/4.1 Citric_acid_cycle
+Science/-384 Biology/Cell biology/Cell processes/4.2 Electron_transport_chain
+Science/-384 Biology/Cell biology/Cell processes/4.3 Glycolysis
+Science/-384 Biology/Cell biology/Cell processes/4.4 Oxidative_phosphorylation
+Science/-384 Biology/Cell biology/Cell processes/5. Fermentation
+Science/-384 Biology/Cell biology/Cell processes/6. Membrane_transport
+Science/-384 Biology/Cell biology/Cell processes/6.1 Passive_transport
+Science/-384 Biology/Cell biology/Cell processes/6.1.1 Facilitated_diffusion
+Science/-384 Biology/Cell biology/Cell processes/6.2 Active_transport
+Science/-384 Biology/Cell biology/Cell processes/6.2.1 ATPase
+Science/-384 Biology/Cell biology/Cell processes/6.2.2 Endocytosis
+Science/-384 Biology/Cell biology/Cell processes/6.2.3 Exocytosis
+Science/-384 Biology/Cell biology/Cell processes/7. Protein_targeting
+Science/-384 Biology/Cell biology/Cellular division/1. Cell_cycle
+Science/-384 Biology/Cell biology/Cellular division/2. Fission
+Science/-384 Biology/Cell biology/Cellular division/3. Meiosis
+Science/-384 Biology/Cell biology/Cellular division/4. Mitosis
+Science/-384 Biology/Cell biology/Cellular division/5. Plasmid
+Science/-384 Biology/Cell biology/Organelles/1. Organelle
+Science/-384 Biology/Cell biology/Organelles/2. Endomembrane_system
+Science/-384 Biology/Cell biology/Organelles/3. Cell_nucleus
+Science/-384 Biology/Cell biology/Organelles/3.1 Chromatin
+Science/-384 Biology/Cell biology/Organelles/3.2 Chromosome
+Science/-384 Biology/Cell biology/Organelles/3.3 Nuclear_envelope
+Science/-384 Biology/Cell biology/Organelles/3.4 Nucleolus
+Science/-384 Biology/Cell biology/Organelles/4. Centriole
+Science/-384 Biology/Cell biology/Organelles/5. Endoplasmic_reticulum
+Science/-384 Biology/Cell biology/Organelles/6. Golgi_apparatus
+Science/-384 Biology/Cell biology/Organelles/7. Lysosome
+Science/-384 Biology/Cell biology/Organelles/8. Mitochondrion
+Science/-384 Biology/Cell biology/Organelles/8.1 Mitochondrial_DNA
+Science/-384 Biology/Cell biology/Organelles/9. Peroxisome
+Science/-384 Biology/Cell biology/Organelles/10. Proteasome
+Science/-384 Biology/Cell biology/Organelles/11. Ribosome
+Science/-384 Biology/Cell biology/Organelles/12. Vacuole
+Science/-384 Biology/Cell biology/Organelles/13. Vesicle
+Science/-384 Biology/Cell biology/Plant cells/1. Plant_cell
+Science/-384 Biology/Cell biology/Plant cells/2. Cell_wall
+Science/-384 Biology/Cell biology/Plant cells/3. Chloroplast
+Science/-384 Biology/Cell biology/Plant cells/3.1 Chloroplast_DNA
+Science/-384 Biology/Cell biology/Plant cells/3.2 Thylakoid
+Science/-384 Biology/Cell biology/Plant cells/4. Plastid
+Science/-384 Biology/Cell biology/Plant cells/5. Plasmodesma
+Science/-384 Biology/Ecology/1. Ecology
+Science/-384 Biology/Ecology/1. Wildlife
+Science/-384 Biology/Ecology/2. Autotroph
+Science/-384 Biology/Ecology/3. Biome
+Science/-384 Biology/Ecology/4. Biodiversity
+Science/-384 Biology/Ecology/5. Biogeography
+Science/-384 Biology/Ecology/6. Biogeographic_realm
+Science/-384 Biology/Ecology/7. Biosphere
+Science/-384 Biology/Ecology/8. Carrying_capacity
+Science/-384 Biology/Ecology/9. Competition
+Science/-384 Biology/Ecology/10. Community
+Science/-384 Biology/Ecology/11. Conservation_biology
+Science/-384 Biology/Ecology/12. Detritivore
+Science/-384 Biology/Ecology/13. Decomposer
+Science/-384 Biology/Ecology/14. Ecological_niche
+Science/-384 Biology/Ecology/14.1 Niche_construction
+Science/-384 Biology/Ecology/15. Ecological_succession
+Science/-384 Biology/Ecology/16. Ecosystem
+Science/-384 Biology/Ecology/17. Ecosystem_collapse
+Science/-384 Biology/Ecology/18. Ecosystem_service
+Science/-384 Biology/Ecology/19. Endangered_species
+Science/-384 Biology/Ecology/20. Endemism
+Science/-384 Biology/Ecology/21. Extinction
+Science/-384 Biology/Ecology/22. Extremophile
+Science/-384 Biology/Ecology/23. Food_web
+Science/-384 Biology/Ecology/24. Habitat
+Science/-384 Biology/Ecology/25. Heterotroph
+Science/-384 Biology/Ecology/26. Insular_biogeography
+Science/-384 Biology/Ecology/27. Invasive_species
+Science/-384 Biology/Ecology/28. Keystone_species
+Science/-384 Biology/Ecology/29. Landscape_ecology
+Science/-384 Biology/Ecology/30. Population
+Science/-384 Biology/Ecology/31. R%2FK_selection_theory
+Science/-384 Biology/Ecology/32. Restoration_ecology
+Science/-384 Biology/Ecology/33. Sustainability
+Science/-384 Biology/Ecology/34. Symbiosis
+Science/-384 Biology/Ecology/34.1 Commensalism
+Science/-384 Biology/Ecology/34.2 Mutualism
+Science/-384 Biology/Ecology/34.3 Parasitism
+Science/-384 Biology/Ecology/35. Wildlife_conservation
+Science/-384 Biology/Evolutionary biology/Basics/1. Evolutionary_biology
+Science/-384 Biology/Evolutionary biology/Basics/2. Evolutionary_developmental_biology
+Science/-384 Biology/Evolutionary biology/Basics/2.1 Convergent_evolution
+Science/-384 Biology/Evolutionary biology/Basics/3. Population_genetics
+Science/-384 Biology/Evolutionary biology/Basics/3.1 Hardy–Weinberg_principle
+Science/-384 Biology/Evolutionary biology/Basics/3.2 Natural_selection
+Science/-384 Biology/Evolutionary biology/Basics/3.3 Gene_flow
+Science/-384 Biology/Evolutionary biology/Basics/3.4 Genetic_drift
+Science/-384 Biology/Evolutionary biology/Basics/3.5 Genetic_admixture
+Science/-384 Biology/Evolutionary biology/Basics/3.6 Haplogroup
+Science/-384 Biology/Evolutionary biology/Basics/3.7 Founder_effect
+Science/-384 Biology/Evolutionary biology/Basics/3.8 Population_bottleneck
+Science/-384 Biology/Evolutionary biology/Basics/4. Sociobiology
+Science/-384 Biology/Evolutionary biology/Basics/5. Systematics
+Science/-384 Biology/Evolutionary biology/Basics/6. Adaptation
+Science/-384 Biology/Evolutionary biology/Basics/7. Coevolution
+Science/-384 Biology/Evolutionary biology/Basics/8. Fitness
+Science/-384 Biology/Evolutionary biology/Basics/9. Homology
+Science/-384 Biology/Evolutionary biology/Basics/10. Macroevolution
+Science/-384 Biology/Evolutionary biology/Basics/11. Microevolution
+Science/-384 Biology/Evolutionary biology/Basics/12. Reproductive_isolation
+Science/-384 Biology/Evolutionary biology/Basics/13. Speciation
+Science/-384 Biology/Evolutionary biology/Basics/14. Evolution_of_bacteria
+Science/-384 Biology/Evolutionary biology/Basics/15. Evolution_of_birds
+Science/-384 Biology/Evolutionary biology/Basics/16. Evolution_of_brachiopods
+Science/-384 Biology/Evolutionary biology/Basics/17. Evolution_of_fish
+Science/-384 Biology/Evolutionary biology/Basics/18. Evolution_of_fungi
+Science/-384 Biology/Evolutionary biology/Basics/19. Evolution_of_insects
+Science/-384 Biology/Evolutionary biology/Basics/20. Evolution_of_mammals
+Science/-384 Biology/Evolutionary biology/Basics/21. Evolution_of_molluscs
+Science/-384 Biology/Evolutionary biology/Basics/22. Evolution_of_reptiles
+Science/-384 Biology/Evolutionary biology/Basics/23. Evolution_of_spiders
+Science/-384 Biology/Evolutionary biology/Basics/24. Evolution_of_tetrapods
+Science/-384 Biology/Evolutionary biology/Basics/25. Evolutionary_history_of_plants
+Science/-384 Biology/Evolutionary biology/Basics/26. Viral_evolution
+Science/-384 Biology/Evolutionary biology/Human evolution/1. Human_evolution
+Science/-384 Biology/Evolutionary biology/Human evolution/2. Hominini
+Science/-384 Biology/Evolutionary biology/Human evolution/3. Missing_link
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1. Australopithecine
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.1 Graecopithecus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.2 Sahelanthropus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.3 Orrorin
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4 Australopithecus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.1 Au._anamensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.2 Au._afarensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.2.1 Lucy
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.3 Au._africanus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.3.1 Taung_Child
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.4 Au._bahrelghazali
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.5 Au._deyiremeda
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.6 Au._garhi
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.4.7 Au._sediba
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.5 Ardipithecus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.5.1 Ar._kadabba
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.5.2 Ar._ramidus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.5.2.1 Ardi
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.6 Kenyanthropus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.7 Paranthropus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.7.1 P._aethiopicus
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.7.2 P._boisei
+Science/-384 Biology/Evolutionary biology/Human evolution/Australopithecines/1.7.3 P._robustus
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1. Homo
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.1 Homo_ergaster
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.2 Homo_floresiensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.3 Homo_gautengensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.4 Homo_habilis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.5 Homo_luzonensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.6 Homo_rudolfensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.7 Homo_tsaichangensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8 Homo_erectus
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.1 Dmanisi_hominins
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.2 Java_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.3 Lantian_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.4 Nanjing_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.5 Peking_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.6 Solo_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.7 Tautavel_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.8.8 Yuanmou_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9 Archaic_humans
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.1 Denisovan
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.2 Homo_antecessor
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.3 Homo_longi
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.4 Ceprano_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.5 Homo_heidelbergensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.6 Homo_naledi
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.7 Neanderthal
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.9.8 Homo_rhodesiensis
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.10 Early_modern_human
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.10.1 Early_European_modern_humans
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.10.2 Herto_Man
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.10.3 Manot_people
+Science/-384 Biology/Evolutionary biology/Human evolution/Homo/1.10.4 Red_Deer_Cave_people
+Science/-384 Biology/Fungal morphology and anatomy/1. Ascus
+Science/-384 Biology/Fungal morphology and anatomy/2. Basidium
+Science/-384 Biology/Fungal morphology and anatomy/3. Conidium
+Science/-384 Biology/Fungal morphology and anatomy/4. Hypha
+Science/-384 Biology/Fungal morphology and anatomy/5. Mycelium
+Science/-384 Biology/Fungal morphology and anatomy/6. Sporangium
+Science/-384 Biology/Fungal morphology and anatomy/7. Thallus
+Science/-384 Biology/Genetics/1. Genetics
+Science/-384 Biology/Genetics/1.1 Introduction_to_genetics
+Science/-384 Biology/Genetics/2. Gene
+Science/-384 Biology/Genetics/3. Heredity
+Science/-384 Biology/Genetics/4. Mendelian_inheritance
+Science/-384 Biology/Genetics/4.1 Allele
+Science/-384 Biology/Genetics/4.2 Dominance
+Science/-384 Biology/Genetics/4.3 Genotype
+Science/-384 Biology/Genetics/4.4 Penetrance
+Science/-384 Biology/Genetics/4.5 Phenotype
+Science/-384 Biology/Genetics/4.6 Zygosity
+Science/-384 Biology/Genetics/5. Ploidy
+Science/-384 Biology/Genetics/6. Sex-determination_system
+Science/-384 Biology/Genetics/7. Sex_linkage
+Science/-384 Biology/Genetics/8. Genetic_linkage
+Science/-384 Biology/Genetics/9. Extranuclear_inheritance
+Science/-384 Biology/Genetics/10. Mutation
+Science/-384 Biology/Genetics/10.1 Chromosome_abnormality
+Science/-384 Biology/Genetics/10.2 Chromosomal_translocation
+Science/-384 Biology/Genetics/10.3 Point_mutation
+Science/-384 Biology/Genetics/10.4 Genetic_disorder
+Science/-384 Biology/Genetics/10.5 Mutagen
+Science/-384 Biology/Genetics/11. Genetic_recombination
+Science/-384 Biology/Genetics/11.1 Homologous_recombination
+Science/-384 Biology/Genetics/12. Horizontal_gene_transfer
+Science/-384 Biology/Genetics/13. Quantitative_genetics
+Science/-384 Biology/Genetics/13.1 Heritability
+Science/-384 Biology/Genetics/14. Reverse_genetics
+Science/-384 Biology/Genetics/15. Molecular_genetics
+Science/-384 Biology/Genetics/16. Genome
+Science/-384 Biology/Genetics/16.1 Genomics
+Science/-384 Biology/Genetics/16.2 Human_genome
+Science/-384 Biology/Genetics/16.2.1 Human_Genome_Project
+Science/-384 Biology/Genetics/16.3 DNA_sequencing
+Science/-384 Biology/Genetics/17. Molecular_evolution
+Science/-384 Biology/Genetics/18. Epigenetics
+Science/-384 Biology/Genetics/18.1 Epigenomics
+Science/-384 Biology/Genetics/18.1.1 Epigenome
+Science/-384 Biology/Genetics/19. Hybrid
+Science/-384 Biology/Genetics/19.1 Heterosis
+Science/-384 Biology/Genetics/19.2 Inbreeding
+Science/-384 Biology/Genetics/20. Eugenics
+Science/-384 Biology/Genetics/21. Dysgenics
+Science/-384 Biology/Zoology/Basics/1. Zoology
+Science/-384 Biology/Zoology/Basics/1.1 Entomology
+Science/-384 Biology/Zoology/Basics/1.2 Herpetology
+Science/-384 Biology/Zoology/Basics/1.3 Ichthyology
+Science/-384 Biology/Zoology/Basics/1.4 Malacology
+Science/-384 Biology/Zoology/Basics/1.5 Mammalogy
+Science/-384 Biology/Zoology/Basics/1.6 Ornithology
+Science/-384 Biology/Zoology/Basics/2. Animal
+Science/-384 Biology/Zoology/Basics/3. Animal_coloration
+Science/-384 Biology/Zoology/Basics/3.1 Camouflage
+Science/-384 Biology/Zoology/Basics/3.2 Mimicry
+Science/-384 Biology/Zoology/Ethology/1. Ethology
+Science/-384 Biology/Zoology/Ethology/2. Intelligence
+Science/-384 Biology/Zoology/Ethology/3. Sleep
+Science/-384 Biology/Zoology/Ethology/3.1 Sleep_in_animals
+Science/-384 Biology/Zoology/Ethology/3.2 Rapid_eye_movement_sleep
+Science/-384 Biology/Zoology/Ethology/3.3 Wakefulness
+Science/-384 Biology/Zoology/Ethology/3.4 Yawn
+Science/-384 Biology/Zoology/Ethology/4. Dormancy
+Science/-384 Biology/Zoology/Ethology/4.1 Hibernation
+Science/-384 Biology/Zoology/Ethology/4.2 Aestivation
+Science/-384 Biology/Zoology/Ethology/4.3 Diapause
+Science/-384 Biology/Zoology/Ethology/5. Carnivore
+Science/-384 Biology/Zoology/Ethology/5.1 Predation
+Science/-384 Biology/Zoology/Ethology/5.2 Scavenger
+Science/-384 Biology/Zoology/Ethology/6. Herbivore
+Science/-384 Biology/Zoology/Ethology/6.1 Grazing
+Science/-384 Biology/Zoology/Ethology/6.2 Browsing
+Science/-384 Biology/Zoology/Ethology/7. Omnivore
+Science/-384 Biology/Zoology/Ethology/8. Animal_locomotion
+Science/-384 Biology/Zoology/Ethology/8.1 Arboreal_locomotion
+Science/-384 Biology/Zoology/Ethology/8.2 Bipedalism
+Science/-384 Biology/Zoology/Ethology/8.2.1 Facultative_bipedalism
+Science/-384 Biology/Zoology/Ethology/8.3 Quadrupedalism
+Science/-384 Biology/Zoology/Ethology/8.4 Tripedalism
+Science/-384 Biology/Zoology/Ethology/8.5 Unipedalism
+Science/-384 Biology/Zoology/Ethology/8.6 Flying_and_gliding_animals
+Science/-384 Biology/Zoology/Ethology/9. Animal_migration
+Science/-384 Biology/Zoology/Ethology/9.1 Bird_migration
+Science/-384 Biology/Zoology/Ethology/10. Instinct
+Science/-384 Biology/Zoology/Ethology/11. Sociality
+Science/-384 Biology/Zoology/Ethology/11.1 Eusociality

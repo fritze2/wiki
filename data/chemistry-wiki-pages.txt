@@ -1,0 +1,1404 @@
+Science/1661 Chemistry/1. General/1. Chemistry
+Science/1661 Chemistry/1. General/1.1 Alchemy
+Science/1661 Chemistry/1. General/1.2 Chemical_engineer
+Science/1661 Chemistry/1. General/1.3 Chemist
+Science/1661 Chemistry/1. General/2. Chemical_law
+Science/1661 Chemistry/1. General/3. Chemical_safety
+Science/1661 Chemistry/1. General/3.1 Dangerous_goods
+Science/1661 Chemistry/1. General/3.2 Regulation_of_chemicals
+Science/1661 Chemistry/1. General/3.2.1 GHS
+Science/1661 Chemistry/1. General/3.2.2 GHS_hazard_pictograms
+Science/1661 Chemistry/1. General/3.2.3 NFPA_704
+Science/1661 Chemistry/1. General/3.2.4 WHMIS
+Science/1661 Chemistry/1. General/3.3 Safety_data_sheet
+Science/1661 Chemistry/1. General/4. Wet_lab
+Science/1661 Chemistry/2. Subdisciplines/1. Analytical_chemistry
+Science/1661 Chemistry/2. Subdisciplines/2. Environmental_chemistry
+Science/1661 Chemistry/2. Subdisciplines/3. Inorganic_chemistry
+Science/1661 Chemistry/2. Subdisciplines/4. Organic_chemistry
+Science/1661 Chemistry/2. Subdisciplines/4.1 Food_chemistry
+Science/1661 Chemistry/2. Subdisciplines/4.2 Medicinal_chemistry
+Science/1661 Chemistry/2. Subdisciplines/4.3 Organometallic_chemistry
+Science/1661 Chemistry/2. Subdisciplines/5. Physical_chemistry
+Science/1661 Chemistry/2. Subdisciplines/5.1 Electrochemistry
+Science/1661 Chemistry/2. Subdisciplines/5.2 Nuclear_chemistry
+Science/1661 Chemistry/2. Subdisciplines/5.3 Photochemistry
+Science/1661 Chemistry/2. Subdisciplines/5.4 Surface_science
+Science/1661 Chemistry/2. Subdisciplines/6. Theoretical_chemistry
+Science/1661 Chemistry/2. Subdisciplines/6.1 Computational_chemistry
+Science/1661 Chemistry/2. Subdisciplines/6.1.1 Molecular_modelling
+Science/1661 Chemistry/2. Subdisciplines/6.2 Quantum_chemistry
+Science/1661 Chemistry/2. Subdisciplines/7. Materials_science
+Science/1661 Chemistry/2. Subdisciplines/7.1 Ceramic_chemistry
+Science/1661 Chemistry/2. Subdisciplines/7.2 Polymer_chemistry
+Science/1661 Chemistry/2. Subdisciplines/7.3 Solid-state_chemistry
+Science/1661 Chemistry/3. Principles/Bonding/1. Chemical_bond
+Science/1661 Chemistry/3. Principles/Bonding/1.1 Electron_counting
+Science/1661 Chemistry/3. Principles/Bonding/1.1.1 Octet_rule
+Science/1661 Chemistry/3. Principles/Bonding/2. Covalent_bond
+Science/1661 Chemistry/3. Principles/Bonding/2.1 Single_bond
+Science/1661 Chemistry/3. Principles/Bonding/2.2 Double_bond
+Science/1661 Chemistry/3. Principles/Bonding/2.3 Triple_bond
+Science/1661 Chemistry/3. Principles/Bonding/3. Hydrogen_bond
+Science/1661 Chemistry/3. Principles/Bonding/4. Ionic_bonding
+Science/1661 Chemistry/3. Principles/Bonding/4.1 Metallic_bonding
+Science/1661 Chemistry/3. Principles/Bonding/4.2 Polyatomic_ion
+Science/1661 Chemistry/3. Principles/Mixture/1. Mixture
+Science/1661 Chemistry/3. Principles/Mixture/2. Concentration
+Science/1661 Chemistry/3. Principles/Mixture/2.1 Mass_concentration
+Science/1661 Chemistry/3. Principles/Mixture/2.2 Number_density
+Science/1661 Chemistry/3. Principles/Mixture/3. Dispersion
+Science/1661 Chemistry/3. Principles/Mixture/3.1 Colloid
+Science/1661 Chemistry/3. Principles/Mixture/3.1.1 Aerosol
+Science/1661 Chemistry/3. Principles/Mixture/3.1.2 Emulsion
+Science/1661 Chemistry/3. Principles/Mixture/3.1.3 Foam
+Science/1661 Chemistry/3. Principles/Mixture/3.1.4 Gel
+Science/1661 Chemistry/3. Principles/Mixture/3.1.5 Sol
+Science/1661 Chemistry/3. Principles/Mixture/3.2 Solution
+Science/1661 Chemistry/3. Principles/Mixture/3.2.1 Aqueous_solution
+Science/1661 Chemistry/3. Principles/Mixture/3.2.2 Solid_solution
+Science/1661 Chemistry/3. Principles/Mixture/3.2.3 Solubility
+Science/1661 Chemistry/3. Principles/Mixture/3.2.4 Solvation
+Science/1661 Chemistry/3. Principles/Mixture/3.2.5 Solvent
+Science/1661 Chemistry/3. Principles/Mixture/3.2.6 Tincture
+Science/1661 Chemistry/3. Principles/Mixture/3.3 Suspension
+Science/1661 Chemistry/3. Principles/Nomenclature/1. Chemical_nomenclature
+Science/1661 Chemistry/3. Principles/Nomenclature/1.1 Descriptor
+Science/1661 Chemistry/3. Principles/Nomenclature/1.2 IUPAC_nomenclature_of_organic_chemistry
+Science/1661 Chemistry/3. Principles/Nomenclature/1.3 IUPAC_nomenclature_of_inorganic_chemistry
+Science/1661 Chemistry/3. Principles/Nomenclature/1.4 Parent_hydride
+Science/1661 Chemistry/3. Principles/Nomenclature/1.5 Systematic_element_name
+Science/1661 Chemistry/3. Principles/Nomenclature/1.6 Trivial_name
+Science/1661 Chemistry/3. Principles/Periodic table/1. Periodic_table
+Science/1661 Chemistry/3. Principles/Periodic table/1.1 Block
+Science/1661 Chemistry/3. Principles/Periodic table/1.2 Group
+Science/1661 Chemistry/3. Principles/Periodic table/1.3 Period
+Science/1661 Chemistry/3. Principles/Periodic table/2. Atomic_mass
+Science/1661 Chemistry/3. Principles/Periodic table/2.1 Mass_number
+Science/1661 Chemistry/3. Principles/Periodic table/2.2 Relative_atomic_mass
+Science/1661 Chemistry/3. Principles/Periodic table/2.3 Standard_atomic_weight
+Science/1661 Chemistry/3. Principles/Periodic table/3. Atomic_number
+Science/1661 Chemistry/3. Principles/Periodic table/4. Main-group_element
+Science/1661 Chemistry/3. Principles/Periodic table/5. Metal
+Science/1661 Chemistry/3. Principles/Periodic table/5.1 Heavy_metals
+Science/1661 Chemistry/3. Principles/Periodic table/5.1.1 Toxic_heavy_metal
+Science/1661 Chemistry/3. Principles/Periodic table/5.2 Native_metal
+Science/1661 Chemistry/3. Principles/Periodic table/5.3 Post-transition_metals
+Science/1661 Chemistry/3. Principles/Periodic table/6. Metalloid
+Science/1661 Chemistry/3. Principles/Periodic table/7. Nonmetal
+Science/1661 Chemistry/3. Principles/Periodic table/8. Periodic_trends
+Science/1661 Chemistry/3. Principles/Periodic table/8.1 Atomic_radius
+Science/1661 Chemistry/3. Principles/Periodic table/8.2 Electron_affinity
+Science/1661 Chemistry/3. Principles/Periodic table/8.3 Electronegativity
+Science/1661 Chemistry/3. Principles/Periodic table/8.4 Ionization_energy
+Science/1661 Chemistry/3. Principles/Reaction/1. Chemical_reaction
+Science/1661 Chemistry/3. Principles/Reaction/1.1 Conversion
+Science/1661 Chemistry/3. Principles/Reaction/1.2 Product
+Science/1661 Chemistry/3. Principles/Reaction/1.3 Reactivity_(chemistry)
+Science/1661 Chemistry/3. Principles/Reaction/1.4 Reagent
+Science/1661 Chemistry/3. Principles/Reaction/1.5 Substrate
+Science/1661 Chemistry/3. Principles/Reaction/1.6 Yield
+Science/1661 Chemistry/3. Principles/Reaction/2. Catalysis
+Science/1661 Chemistry/3. Principles/Reaction/3. Chemical_equation
+Science/1661 Chemistry/3. Principles/Reaction/3.1 Stoichiometry
+Science/1661 Chemistry/3. Principles/Reaction/3.1.1 Law_of_definite_proportions
+Science/1661 Chemistry/3. Principles/Reaction/3.1.2 Law_of_multiple_proportions
+Science/1661 Chemistry/3. Principles/Reaction/3.1.3 Law_of_reciprocal_proportions
+Science/1661 Chemistry/3. Principles/Reaction/4. Chemical_equilibrium
+Science/1661 Chemistry/3. Principles/Reaction/4.1 Le_Chatelier's_principle
+Science/1661 Chemistry/3. Principles/Reaction/4.2 Microscopic_reversibility
+Science/1661 Chemistry/3. Principles/Reaction/5. Chemical_synthesis
+Science/1661 Chemistry/3. Principles/Substance/1. Chemical_substance
+Science/1661 Chemistry/3. Principles/Substance/1.1 Congener
+Science/1661 Chemistry/3. Principles/Substance/1.2 Isomer
+Science/1661 Chemistry/3. Principles/Substance/1.3 Natural_product
+Science/1661 Chemistry/3. Principles/Substance/2. Amount_of_substance
+Science/1661 Chemistry/3. Principles/Substance/2.1 Avogadro_constant
+Science/1661 Chemistry/3. Principles/Substance/3. Chemical_element
+Science/1661 Chemistry/3. Principles/Substance/3.1 Allotropy
+Science/1661 Chemistry/3. Principles/Substance/4. Chemical_composition
+Science/1661 Chemistry/3. Principles/Substance/4.1 Chemical_formula
+Science/1661 Chemistry/3. Principles/Substance/4.1.1 Empirical_formula
+Science/1661 Chemistry/3. Principles/Substance/4.1.2 Structural_isomer
+Science/1661 Chemistry/3. Principles/Substance/4.1.3 Tautomer
+Science/1661 Chemistry/3. Principles/Substance/4.2 Structural_formula
+Science/1661 Chemistry/3. Principles/Substance/4.2.1 Cyclic_compound
+Science/1661 Chemistry/3. Principles/Substance/4.2.2 Lewis_structure
+Science/1661 Chemistry/3. Principles/Substance/4.2.3 Open-chain_compound
+Science/1661 Chemistry/3. Principles/Substance/4.3 Molecular_model
+Science/1661 Chemistry/3. Principles/Substance/4.3.1 Ball-and-stick_model
+Science/1661 Chemistry/3. Principles/Substance/4.3.2 Molecular_graphics
+Science/1661 Chemistry/3. Principles/Substance/4.3.3 Ribbon_diagram
+Science/1661 Chemistry/3. Principles/Substance/4.3.4 Space-filling_model
+Science/1661 Chemistry/3. Principles/Substance/5. Chemical_compound
+Science/1661 Chemistry/3. Principles/Substance/5.1 Molecule
+Science/1661 Chemistry/3. Principles/Substance/5.2 Diatomic_molecule
+Science/1661 Chemistry/3. Principles/Substance/5.3 Inorganic_compound
+Science/1661 Chemistry/3. Principles/Substance/5.4 Organic_compound
+Science/1661 Chemistry/4. Chemical elements/d-Block/1. Transition_metal
+Science/1661 Chemistry/4. Chemical elements/d-Block/1.1 Base_metal
+Science/1661 Chemistry/4. Chemical elements/d-Block/1.2 Noble_metal
+Science/1661 Chemistry/4. Chemical elements/d-Block/1.2.1 Platinum_group
+Science/1661 Chemistry/4. Chemical elements/d-Block/1.2.2 Precious_metal
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 3/1. Group_3_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 3/2. Scandium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 3/3. Yttrium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 3/4. Lutetium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 3/5. Lawrencium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 4/Group_4_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 4/Hafnium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 4/Rutherfordium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 4/Titanium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 4/Zirconium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 5/Dubnium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 5/Group_5_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 5/Niobium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 5/Tantalum
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 5/Vanadium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 6/Chromium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 6/Group_6_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 6/Molybdenum
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 6/Seaborgium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 6/Tungsten
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 7/Bohrium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 7/Group_7_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 7/Manganese
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 7/Rhenium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 7/Technetium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 7/Technetium-99m
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 8/Group_8_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 8/Hassium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 8/Iron
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 8/Osmium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 8/Ruthenium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 9/Cobalt
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 9/Group_9_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 9/Iridium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 9/Meitnerium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 9/Rhodium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 10/Darmstadtium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 10/Group_10_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 10/Nickel
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 10/Palladium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 10/Platinum
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 11/Copper
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 11/Gold
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 11/Group_11_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 11/Roentgenium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 11/Silver
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 12/Cadmium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 12/Copernicium
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 12/Group_12_element
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 12/Mercury
+Science/1661 Chemistry/4. Chemical elements/d-Block/Group 12/Zinc
+Science/1661 Chemistry/4. Chemical elements/Metalloids/5. Boron
+Science/1661 Chemistry/4. Chemical elements/Metalloids/13. Aluminium
+Science/1661 Chemistry/4. Chemical elements/Metalloids/14. Silicon
+Science/1661 Chemistry/4. Chemical elements/Metalloids/32. Germanium
+Science/1661 Chemistry/4. Chemical elements/Metalloids/33. Arsenic
+Science/1661 Chemistry/4. Chemical elements/Metalloids/51. Antimony
+Science/1661 Chemistry/4. Chemical elements/Metalloids/52. Tellurium
+Science/1661 Chemistry/4. Chemical elements/Metalloids/84. Polonium
+Science/1661 Chemistry/4. Chemical elements/Metalloids/85. Astatine
+Science/1661 Chemistry/4. Chemical elements/Metalloids/Metalloid
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/3. Lithium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/11. Sodium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/19. Potassium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/37. Rubidium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/55. Caesium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/87. Francium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkali metals/Alkali_metal
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/4. Beryllium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/12. Magnesium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/20. Calcium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/38. Strontium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/56. Barium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/88. Radium
+Science/1661 Chemistry/4. Chemical elements/Metals/Alkaline earth metals/Alkaline_earth_metal
+Science/1661 Chemistry/4. Chemical elements/Metals/Metal
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/21. Scandium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/22. Titanium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/23. Vanadium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/24. Chromium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/25. Manganese
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/26. Iron
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/27. Cobalt
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/28. Nickel
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/29. Copper
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/30. Zinc
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/39. Yttrium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/40. Zirconium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/41. Niobium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/42. Molybdenum
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/43. Technetium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/44. Ruthenium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/45. Rhodium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/46. Palladium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/47. Silver
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/48. Cadmium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/71. Lutetium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/72. Hafnium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/73. Tantalum
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/74. Tungsten
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/75. Rhenium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/76. Osmium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/77. Iridium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/78. Platinum
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/79. Gold
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/80. Mercury_(element)
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/103. Lawrencium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/104. Rutherfordium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/105. Dubnium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/106. Seaborgium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/107. Bohrium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/108. Hassium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/109. Meitnerium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/110. Darmstadtium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/111. Roentgenium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/112. Copernicium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/89. Actinium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/90. Thorium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/91. Protactinium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/92. Uranium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/92.1 Uranium-238
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/92.2 Uranium-235
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/93. Neptunium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/94. Plutonium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/95. Americium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/96. Curium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/97. Berkelium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/98. Californium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/99. Einsteinium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/100. Fermium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/101. Mendelevium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/102. Nobelium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Actinides/Actinide
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/57. Lanthanum
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/58. Cerium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/59. Praseodymium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/60. Neodymium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/61. Promethium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/62. Samarium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/63. Europium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/64. Gadolinium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/65. Terbium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/66. Dysprosium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/67. Holmium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/68. Erbium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/69. Thulium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/70. Ytterbium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/Lanthanide
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Lathanide/Rare-earth_element
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/31. Gallium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/49. Indium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/50. Tin
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/81. Thallium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/82. Lead
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/83. Bismuth
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/113. Nihonium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/114. Flerovium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/115. Moscovium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/116. Livermorium
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Post-transition metals/Metals_close_to_the_border_between_metals_and_nonmetals
+Science/1661 Chemistry/4. Chemical elements/Metals/Transition metals/Transition_metal
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/1. Hydrogen
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/6. Carbon
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/7. Nitrogen
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/8. Oxygen
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/15. Phosphorus
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/16. Sulfur
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/34. Selenium
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/118. Oganesson
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Halogen/9. Fluorine
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Halogen/17. Chlorine
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Halogen/35. Bromine
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Halogen/53. Iodine
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Halogen/85. Astatine
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Halogen/117. Tennessine
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/. Noble_gas
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/2. Helium
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/10. Neon
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/18. Argon
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/36. Krypton
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/54. Xenon
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Noble gas/86. Radon
+Science/1661 Chemistry/4. Chemical elements/Nonmetals/Nonmetal
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/1. Boron_group
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/2. Boron
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/2.1 Isotopes_of_boron
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/3. Aluminium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/4. Gallium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/5. Indium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/6. Thallium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 13/7. Nihonium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/1. Carbon_group
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2. Carbon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.1 Isotopes_of_carbon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.1.1 Carbon-14
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2 Allotropes_of_carbon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2.1 Buckminsterfullerene
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2.2 Carbon_nanotube
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2.3 Diamond
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2.4 Fullerene
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2.5 Graphene
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/2.2.6 Graphite
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/3. Silicon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/4. Germanium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/5. Tin
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/6. Lead
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 14/7. Flerovium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/1. Pnictogen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/2. Nitrogen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/2.1 Isotopes_of_nitrogen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/2.2 Liquid_nitrogen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/3. Phosphorus
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/3.1 Allotropes_of_phosphorus
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/4. Arsenic
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/5. Antimony
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/6. Bismuth
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 15/7. Moscovium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/1. Chalcogen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2. Oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.1 Isotopes_of_oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.2 Allotropes_of_oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.2.1 Ozone
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.2.2 Singlet_oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.2.3 Triplet_oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.2.4 Tetraoxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.3 Liquid_oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/2.4 Solid_oxygen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/3. Sulfur
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/3.1 Allotropes_of_sulfur
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/3.1.1 Octasulfur
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/4. Selenium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/5. Tellurium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/6. Polonium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 16/7. Livermorium
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/1. Halogen
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/2. Fluorine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/2.1 Isotopes_of_fluorine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/3. Chlorine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/4. Bromine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/5. Iodine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/6. Astatine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 17/7. Tennessine
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/1. Noble_gas
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/2. Neon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/2.1 Isotopes_of_neon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/3. Argon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/4. Krypton
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/5. Xenon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/6. Radon
+Science/1661 Chemistry/4. Chemical elements/p-Block/Group 18/7. Oganesson
+Science/1661 Chemistry/4. Chemical elements/Periods/1. Period_1_element
+Science/1661 Chemistry/4. Chemical elements/Periods/2. Period_2_element
+Science/1661 Chemistry/4. Chemical elements/Periods/3. Period_3_element
+Science/1661 Chemistry/4. Chemical elements/Periods/4. Period_4_element
+Science/1661 Chemistry/4. Chemical elements/Periods/5. Period_5_element
+Science/1661 Chemistry/4. Chemical elements/Periods/6. Period_6_element
+Science/1661 Chemistry/4. Chemical elements/Periods/7. Period_7_element
+Science/1661 Chemistry/4. Chemical elements/Periods/7.1 Superheavy_element
+Science/1661 Chemistry/4. Chemical elements/Periods/7.2 Synthetic_element
+Science/1661 Chemistry/4. Chemical elements/Periods/7.3 Transuranium_element
+Science/1661 Chemistry/4. Chemical elements/Periods/8. Extended_periodic_table
+Science/1661 Chemistry/4. Chemical elements/Periods/8.1 Ununennium
+Science/1661 Chemistry/4. Chemical elements/Periods/8.2 Unbinilium
+Science/1661 Chemistry/4. Chemical elements/Periods/8.3 Unbiunium
+Science/1661 Chemistry/4. Chemical elements/Periods/8.4 Unbibium
+Science/1661 Chemistry/4. Chemical elements/Periods/8.5 Unbiquadium
+Science/1661 Chemistry/4. Chemical elements/Periods/8.6 Unbihexium
+Science/1661 Chemistry/4. Chemical elements/s-Block/1. Hydrogen
+Science/1661 Chemistry/4. Chemical elements/s-Block/1.1 Hydrogen_atom
+Science/1661 Chemistry/4. Chemical elements/s-Block/1.2 Isotopes_of_hydrogen
+Science/1661 Chemistry/4. Chemical elements/s-Block/1.2.1 Deuterium
+Science/1661 Chemistry/4. Chemical elements/s-Block/1.2.2 Tritium
+Science/1661 Chemistry/4. Chemical elements/s-Block/1.3 Liquid_hydrogen
+Science/1661 Chemistry/4. Chemical elements/s-Block/1.4 Solid_hydrogen
+Science/1661 Chemistry/4. Chemical elements/s-Block/2. Helium
+Science/1661 Chemistry/4. Chemical elements/s-Block/2.1 Helium_atom
+Science/1661 Chemistry/4. Chemical elements/s-Block/2.2 Isotopes_of_helium
+Science/1661 Chemistry/4. Chemical elements/s-Block/2.2.1 Helium-3
+Science/1661 Chemistry/4. Chemical elements/s-Block/2.2.2 Helium-4
+Science/1661 Chemistry/4. Chemical elements/s-Block/2.3 Liquid_helium
+Science/1661 Chemistry/4. Chemical elements/s-Block/2.3.1 Superfluid_helium-4
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/1. Alkali_metal
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/2. Lithium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/2.1 Isotopes_of_lithium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/3. Sodium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/4. Potassium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/4.1 Potassium-40
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/5. Rubidium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/6. Caesium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 1/7. Francium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/1. Alkaline_earth_metal
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/2. Beryllium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/2.1 Isotopes_of_beryllium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/3. Magnesium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/4. Calcium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/5. Strontium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/6. Barium
+Science/1661 Chemistry/4. Chemical elements/s-Block/Group 2/7. Radium
+Science/1661 Chemistry/5. Acids and bases/Concepts/1. Acid
+Science/1661 Chemistry/5. Acids and bases/Concepts/1.1 Acid_anhydride
+Science/1661 Chemistry/5. Acids and bases/Concepts/1.2 Solid_acid
+Science/1661 Chemistry/5. Acids and bases/Concepts/2. Amphoterism
+Science/1661 Chemistry/5. Acids and bases/Concepts/3. Base
+Science/1661 Chemistry/5. Acids and bases/Concepts/3.1 Alkali
+Science/1661 Chemistry/5. Acids and bases/Concepts/3.2 Base_anhydride
+Science/1661 Chemistry/5. Acids and bases/Concepts/3.3 Non-nucleophilic_base
+Science/1661 Chemistry/5. Acids and bases/Concepts/3.4 Superbase
+Science/1661 Chemistry/5. Acids and bases/Concepts/3.5 Weak_base
+Science/1661 Chemistry/5. Acids and bases/Concepts/4. Brønsted–Lowry_acid–base_theory
+Science/1661 Chemistry/5. Acids and bases/Concepts/4.1 Conjugate
+Science/1661 Chemistry/5. Acids and bases/Concepts/4.2 Deprotonation
+Science/1661 Chemistry/5. Acids and bases/Concepts/4.3 Hydronium
+Science/1661 Chemistry/5. Acids and bases/Concepts/4.4 Protonation
+Science/1661 Chemistry/5. Acids and bases/Concepts/5. Lewis_acids_and_bases
+Science/1661 Chemistry/5. Acids and bases/Concepts/5.1 Electrophile
+Science/1661 Chemistry/5. Acids and bases/Concepts/5.2 HSAB_theory
+Science/1661 Chemistry/5. Acids and bases/Concepts/5.3 Nucleophile
+Science/1661 Chemistry/5. Acids and bases/Concepts/6. pH
+Science/1661 Chemistry/5. Acids and bases/Concepts/6.1 Acid_strength
+Science/1661 Chemistry/5. Acids and bases/Concepts/6.2 Acidity_function
+Science/1661 Chemistry/5. Acids and bases/Concepts/6.3 Buffer_solution
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1. Mineral_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.1 Aqua_regia
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.2 Boric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.3 Carbonic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.4 Hydrochloric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.5 Hydrofluoric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.6 Hypochlorous_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.7 Nitric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.8 Perchloric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.9 Phosphoric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/1.10 Sulfuric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2. Organic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1 Carboxylic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.1 Acetic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.2 Benzoic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.3 Citric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.4 EDTA
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.5 Formic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.6 Lactic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.7 Malic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.8 Oxalic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.1.9 Tartaric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/2.2 Sulfonic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/3. Superacid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/3.1 Carborane_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/3.2 Fluoroantimonic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/3.3 Fluorosulfuric_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/3.4 Magic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific acids/3.5 Triflic_acid
+Science/1661 Chemistry/5. Acids and bases/Specific bases/1. Ammonia_solution
+Science/1661 Chemistry/5. Acids and bases/Specific bases/2. Limewater
+Science/1661 Chemistry/5. Acids and bases/Specific bases/3. Lye
+Science/1661 Chemistry/6. Alloys and ceramic compounds/1. Alloy
+Science/1661 Chemistry/6. Alloys and ceramic compounds/1.1 Intermetallic
+Science/1661 Chemistry/6. Alloys and ceramic compounds/2. Interstitial_compound
+Science/1661 Chemistry/6. Alloys and ceramic compounds/3. Network_covalent_bonding
+Science/1661 Chemistry/6. Alloys and ceramic compounds/4. Non-stoichiometric_compound
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/1. Boron_nitride
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/2. Carbide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/2.1 Silicon_carbide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/2.2 Cementite
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/2.3 Tungsten_carbide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/3. Ferrite
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/4. Gallium_nitride
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/5. Graphite_oxide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/6. Rare-earth_barium_copper_oxide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/6.1 Yttrium_barium_copper_oxide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Ceramic compounds/7. Silicon_dioxide
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/1. Amalgam
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/2. Colored_gold
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/3. Duralumin
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/4. Electrum
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/5. Mischmetal
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/5.1 Ferrocerium
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/6. Galinstan
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/7. Pewter
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/8. Solder
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Copper alloys/1. List_of_copper_alloys
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Copper alloys/1.1 Brass
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Copper alloys/1.2 Bronze
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Copper alloys/1.3 Constantan
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Copper alloys/1.4 Cupronickel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/1. Cast_iron
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2. Steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2.1 Alloy_steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2.1.1 Spring_steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2.1.2 Stainless_steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2.1.3 Tool_steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2.2 Carbon_steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/2.3 Wootz_steel
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/3. Pig_iron
+Science/1661 Chemistry/6. Alloys and ceramic compounds/Specific alloys/Iron alloys/4. Wrought_iron
+Science/1661 Chemistry/7. Molecular compounds/1. Carbon_disulfide
+Science/1661 Chemistry/7. Molecular compounds/2. Cyanogen
+Science/1661 Chemistry/7. Molecular compounds/3. Syngas
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/1. Carbon_monoxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/2. Carbon_dioxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/3. Dichlorine_monoxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/4. Nitric_oxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/5. Nitrous_oxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/6. Nitrogen_dioxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/7. Oxygen_difluoride
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/8. Sulfur_dioxide
+Science/1661 Chemistry/7. Molecular compounds/Covalent oxides/9. Sulfur_trioxide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/1. Boranes
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/1.1 Carborane
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/1.2 Diborane
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2. Pnictogen_hydride
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.1 Ammonia
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.2 Arsine
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.3 Diphosphane
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.4 Hydrazine
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.5 Methylamine
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.6 Phosphine
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/2.7 Stibine
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/3. Hydrogen_chalcogenide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/3.1 Hydrogen_peroxide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/3.2 Hydrogen_sulfide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/3.3 Hydrogen_selenide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/3.4 Polonium_hydride
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/3.5 Polysulfane
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/4. Hydrogen_halide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/4.1 Hydrogen_bromide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/4.2 Hydrogen_chloride
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/4.3 Hydrogen_fluoride
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/4.4 Hydrogen_iodide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/5. Hydrogen_cyanide
+Science/1661 Chemistry/7. Molecular compounds/Hydrogen compounds/6. Hydroxyl_radical
+Science/1661 Chemistry/7. Molecular compounds/Water/1. Water
+Science/1661 Chemistry/7. Molecular compounds/Water/1.1 Properties_of_water
+Science/1661 Chemistry/7. Molecular compounds/Water/1.2 Hydrate
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3 Ice
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.1 Ice_crystals
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.2 Ice_Ih
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.3 Ice_Ic
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.4 Ice_II
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.5 Ice_III
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.6 Ice_V
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.7 Ice_VI
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.8 Ice_VII
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.9 Ice_VIII
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.10 Ice_IX
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.11 Ice_XI
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.12 Ice_XII
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.13 Ice_XV
+Science/1661 Chemistry/7. Molecular compounds/Water/1.3.14 Ice_XVI
+Science/1661 Chemistry/7. Molecular compounds/Water/4. Purified_water
+Science/1661 Chemistry/7. Molecular compounds/Water/5. Water_vapor
+Science/1661 Chemistry/7. Molecular compounds/Water/5.1 Steam
+Science/1661 Chemistry/7. Molecular compounds/Water/6. Deuterium-depleted_water
+Science/1661 Chemistry/7. Molecular compounds/Water/7. Heavy_water
+Science/1661 Chemistry/7. Molecular compounds/Water/8. Semiheavy_water
+Science/1661 Chemistry/7. Molecular compounds/Water/9. Tritiated_water
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1. Alcohol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1. Sugar_alcohol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.1 Erythritol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.1 Methanol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.2 Ethanol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.2 Mannitol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.3 Isopropyl_alcohol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.3 Sorbitol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.4 Propan-1-ol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/1.4 Xylitol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/2. Fatty_alcohol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/2.1 Cetyl_alcohol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/2.2 Dodecanol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/2.3 Stearyl_alcohol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/3. Phenol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/4. Polyol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/4.1 Diol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/4.1.1 Ethylene_glycol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/4.1.2 Geminal_diol
+Science/1661 Chemistry/8. Organic compounds/Alcohols/4.2 Glycerol
+Science/1661 Chemistry/8. Organic compounds/Aldehydes and ketones/1. Aldehyde
+Science/1661 Chemistry/8. Organic compounds/Aldehydes and ketones/1.1 Formaldehyde
+Science/1661 Chemistry/8. Organic compounds/Aldehydes and ketones/1.2 Acetaldehyde
+Science/1661 Chemistry/8. Organic compounds/Aldehydes and ketones/2. Ketone
+Science/1661 Chemistry/8. Organic compounds/Aldehydes and ketones/2.1 Acetone
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/1. Capsaicin
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/2. Ephedrine
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/3. Imidazole
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/4. Purine
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/4.1 Uric_acid
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/4.2 Xanthine
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/4.2.1 Theobromine
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/4.2.2 Theophylline
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/5. Pyrimidine
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/6. Scopolamine
+Science/1661 Chemistry/8. Organic compounds/Alkaloids/7. Strychnine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/1. Amide
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/1.1 Urea
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/1.2 Nylon
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/1.3 DEET
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/1.4 Dimethylformamide
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/2. Amine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/2.1 Cadaverine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/2.2 Ethylenediamine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/2.3 Putrescine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/2.4 Taurine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/3. Nitrocellulose
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/4. Pyridine
+Science/1661 Chemistry/8. Organic compounds/Amides and amines/5. TNT
+Science/1661 Chemistry/8. Organic compounds/Concepts/1. Polymer_backbone
+Science/1661 Chemistry/8. Organic compounds/Concepts/1.1 Side_chain
+Science/1661 Chemistry/8. Organic compounds/Concepts/2. Degree_of_unsaturation
+Science/1661 Chemistry/8. Organic compounds/Concepts/3. Lipophilicity
+Science/1661 Chemistry/8. Organic compounds/Concepts/4. Skeletal_formula
+Science/1661 Chemistry/8. Organic compounds/Concepts/5. Substituent
+Science/1661 Chemistry/8. Organic compounds/Concepts/5.1 Functional_group
+Science/1661 Chemistry/8. Organic compounds/Concepts/5.2 Geminal
+Science/1661 Chemistry/8. Organic compounds/Concepts/5.3 Pendant_group
+Science/1661 Chemistry/8. Organic compounds/Concepts/5.4 Vicinal
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/1. Ester
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/1.1 Ethyl_acetate
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/1.2 Methyl_salicylate
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/1.3 Nitroglycerin
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/1.4 Propylene_carbonate
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2. Ether
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2.1 Dimethyl_ether
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2.2 Diethyl_ether
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2.3 Epoxide
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2.4 Vanillin
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2.5 1,4-Dioxane
+Science/1661 Chemistry/8. Organic compounds/Esters and ethers/2.6 Tetrahydrofuran
+Science/1661 Chemistry/8. Organic compounds/General/1. Carbonyl_group
+Science/1661 Chemistry/8. Organic compounds/General/2. Enol
+Science/1661 Chemistry/8. Organic compounds/General/3. Organophosphorus_compound
+Science/1661 Chemistry/8. Organic compounds/General/4. Organosilicon_compound
+Science/1661 Chemistry/8. Organic compounds/General/4.1 Silicone
+Science/1661 Chemistry/8. Organic compounds/General/5. Organosulfur_compounds
+Science/1661 Chemistry/8. Organic compounds/General/5.1 Allicin
+Science/1661 Chemistry/8. Organic compounds/General/5.2 Allyl_isothiocyanate
+Science/1661 Chemistry/8. Organic compounds/General/5.3 Dimethyl_sulfoxide
+Science/1661 Chemistry/8. Organic compounds/General/5.4 Thiol
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/1. Halocarbon
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/2. Haloalkane
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/3. Chlorofluorocarbon
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/3.1 Dichlorodifluoromethane
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/4. Organochlorine_compound
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/4.1 Carbon_tetrachloride
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/4.2 Chloroform
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/4.3 Chloromethane
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/4.4 Dichloromethane
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/5. Fluorocarbon
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/5.1 Carbon_tetrafluoride
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/6. Hydrofluorocarbon
+Science/1661 Chemistry/8. Organic compounds/Halocarbons/6.1 1,1,1,2-Tetrafluoroethane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1. Hydrocarbon
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.1 Creosote
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.2 Naphtha
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.3 Oil
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.3.1 Petroleum
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.4 Petroleum_jelly
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.5 Tar
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.5.1 Coal_tar
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.5.2 Pine_tar
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.6 Wax
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.6.1 Paraffin_wax
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/1.7 White_spirit
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/2. Octane_rating
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/1. Aliphatic_compound
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2. Alicyclic_compound
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2.1 Cycloalkane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2.1.1 Cyclopropane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2.1.2 Cyclobutane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2.1.3 Cyclopentane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2.1.4 Cyclohexane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/2.1.5 Adamantane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/3. Alkane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/3.1 Methane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/3.2 Ethane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/3.3 Propane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/3.4 Butane
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/4. Alkene
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/4.1 Ethylene
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/4.2 Propene
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/5. Alkyne
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/5.1 Acetylene
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aliphatic hydrocarbons/5.2 Polyyne
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1. Aromatic_compound
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.1 Arene_substitution_pattern
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.2 Aromaticity
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.2.1 Antiaromaticity
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.2.2 Hückel's_rule
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.3 Benzene
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.4 Toluene
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.5 Polycyclic_aromatic_hydrocarbon
+Science/1661 Chemistry/8. Organic compounds/Hydrocarbons/Aromatic hydrocarbons/1.5.1 Naphthalene
+Science/1661 Chemistry/8. Organic compounds/Organometallics/1. Ferrocene
+Science/1661 Chemistry/8. Organic compounds/Organometallics/2. Tetraethyllead
+Science/1661 Chemistry/8. Organic compounds/Phenylpropanoids/1. Phenylpropanoid
+Science/1661 Chemistry/8. Organic compounds/Phenylpropanoids/1.1 Cinnamaldehyde
+Science/1661 Chemistry/8. Organic compounds/Phenylpropanoids/1.2 Coumarin
+Science/1661 Chemistry/8. Organic compounds/Phenylpropanoids/1.3 Eugenol
+Science/1661 Chemistry/8. Organic compounds/Phenylpropanoids/1.4 Safrole
+Science/1661 Chemistry/8. Organic compounds/Polymers/1. Polymer
+Science/1661 Chemistry/8. Organic compounds/Polymers/1.1 Monomer
+Science/1661 Chemistry/8. Organic compounds/Polymers/1.2 Oligomer
+Science/1661 Chemistry/8. Organic compounds/Polymers/2. Epoxy
+Science/1661 Chemistry/8. Organic compounds/Polymers/3. Phenol_formaldehyde_resin
+Science/1661 Chemistry/8. Organic compounds/Polymers/3.1 Bakelite
+Science/1661 Chemistry/8. Organic compounds/Polymers/4. Polyacrylonitrile
+Science/1661 Chemistry/8. Organic compounds/Polymers/5. Polycarbonate
+Science/1661 Chemistry/8. Organic compounds/Polymers/6. Polyethylene
+Science/1661 Chemistry/8. Organic compounds/Polymers/6.1 Polyethylene_glycol
+Science/1661 Chemistry/8. Organic compounds/Polymers/6.2 Polyethylene_terephthalate
+Science/1661 Chemistry/8. Organic compounds/Polymers/7. Polyisoprene
+Science/1661 Chemistry/8. Organic compounds/Polymers/8. Poly(methyl_methacrylate)
+Science/1661 Chemistry/8. Organic compounds/Polymers/9. Polypropylene
+Science/1661 Chemistry/8. Organic compounds/Polymers/9.1 Polypropylene_glycol
+Science/1661 Chemistry/8. Organic compounds/Polymers/10. Polystyrene
+Science/1661 Chemistry/8. Organic compounds/Polymers/11. Polytetrafluoroethylene
+Science/1661 Chemistry/8. Organic compounds/Polymers/12. Polyurethane
+Science/1661 Chemistry/8. Organic compounds/Polymers/13. Polyvinyl_acetate
+Science/1661 Chemistry/8. Organic compounds/Polymers/14. Polyvinyl_alcohol
+Science/1661 Chemistry/8. Organic compounds/Polymers/15. Polyvinyl_chloride
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1. Polyphenol
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.1 Flavonoid
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.1.1 Anthocyanidin
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.1.2 Anthocyanin
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.1.3 Anthoxanthin
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.1.4 Catechin
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.2 Lignin
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.3 Tannin
+Science/1661 Chemistry/8. Organic compounds/Polyphenols/1.3.1 Tannic_acid
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/1. Isoprene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/2. Resin
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/2.1 Rosin
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/2.2 Shellac
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3. Terpene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.1 Caryophyllene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.2 Humulene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.3 Limonene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.4 Pinene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.4.1 Turpentine
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.5 Squalene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/3.6 Zingiberene
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4. Terpenoid
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.1 Camphor
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.2 Carvacrol
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.3 Carvone
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.4 Citral
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.5 Citronellal
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.6 Eucalyptol
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.7 Linalool
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.8 Menthol
+Science/1661 Chemistry/8. Organic compounds/Terpenes and terpenoids/4.9 Thymol
+Science/1661 Chemistry/9. Salts and ions/1. Ammonium
+Science/1661 Chemistry/9. Salts and ions/1.1 Quaternary_ammonium_cation
+Science/1661 Chemistry/9. Salts and ions/2. Ash
+Science/1661 Chemistry/9. Salts and ions/2.1 Potash
+Science/1661 Chemistry/9. Salts and ions/2.2 Wood_ash
+Science/1661 Chemistry/9. Salts and ions/3. Salt
+Science/1661 Chemistry/9. Salts and ions/3.1 Acid_salt
+Science/1661 Chemistry/9. Salts and ions/3.2 Alkali_salt
+Science/1661 Chemistry/9. Salts and ions/3.3 Lithium_salts
+Science/1661 Chemistry/9. Salts and ions/4. Zwitterion
+Science/1661 Chemistry/9. Salts and ions/Borohydride salts/1. Borohydride
+Science/1661 Chemistry/9. Salts and ions/Borohydride salts/1.1 Lithium_borohydride
+Science/1661 Chemistry/9. Salts and ions/Borohydride salts/1.2 Sodium_borohydride
+Science/1661 Chemistry/9. Salts and ions/Carbide salts/1. Aluminium_carbide
+Science/1661 Chemistry/9. Salts and ions/Carbide salts/2. Beryllium_carbide
+Science/1661 Chemistry/9. Salts and ions/Carbide salts/3. Calcium_carbide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1. Cyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.1 Potassium_cyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.2 Sodium_cyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.3 Ferricyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.3.1 Potassium_ferricyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.4 Ferrocyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.4.1 Potassium_ferrocyanide
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.4.2 Prussian_blue
+Science/1661 Chemistry/9. Salts and ions/Cyanide salts/1.4.3 Sodium_ferrocyanide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/1. Halide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/2. Bromide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/2.1 Potassium_bromide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/2.2 Silver_bromide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3. Chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.1 Aluminium_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.2 Ammonium_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.3 Calcium_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.4 Iron(III)_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.5 Magnesium_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.6 Potassium_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.7 Sodium_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/3.8 Zinc_chloride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/4. Fluoride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/4.1 Calcium_fluoride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/4.2 Nitrogen_trifluoride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/4.3 Sulfur_hexafluoride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/4.4 Uranium_hexafluoride
+Science/1661 Chemistry/9. Salts and ions/Halide salts/5. Iodide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/5.1 Lugol's_iodine
+Science/1661 Chemistry/9. Salts and ions/Halide salts/5.2 Potassium_iodide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/5.3 Silver_iodide
+Science/1661 Chemistry/9. Salts and ions/Halide salts/5.4 Tincture_of_iodine
+Science/1661 Chemistry/9. Salts and ions/Hydride salts/1. Hydride
+Science/1661 Chemistry/9. Salts and ions/Hydride salts/1.1 Potassium_hydride
+Science/1661 Chemistry/9. Salts and ions/Hydride salts/1.2 Sodium_hydride
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1. Nitride
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.1 Azide
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.1.1 Lead(II)_azide
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.1.2 Silver_azide
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.1.3 Sodium_azide
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.2 Lithium_nitride
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.3 Silver_nitride
+Science/1661 Chemistry/9. Salts and ions/Nitride salts/1.4 Titanium_nitride
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/1. Electride
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2. Noble_gas_compound
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.1 Helium_compounds
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.1.1 Disodium_helide
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.2 Neon_compounds
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.3 Argon_compounds
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.3.1 Argon_fluorohydride
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.4 Krypton_difluoride
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.5 Xenon_tetrafluoride
+Science/1661 Chemistry/9. Salts and ions/Noble gas compounds/2.6 Xenon_hexafluoroplatinate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/1. Benzalkonium_chloride
+Science/1661 Chemistry/9. Salts and ions/Organic salts/2. Crystal_violet
+Science/1661 Chemistry/9. Salts and ions/Organic salts/3. Merbromin
+Science/1661 Chemistry/9. Salts and ions/Organic salts/4. Potassium_bitartrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/5. Sodium_benzoate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/6. Sodium_calcium_edetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/7. Tetrasodium_EDTA
+Science/1661 Chemistry/9. Salts and ions/Organic salts/8. Thiomersal
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1. Acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.1 Aluminium_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.1.1 Aluminium_monoacetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.1.2 Aluminium_diacetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.1.3 Aluminium_triacetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.2 Ammonium_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.3 Calcium_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.4 Chromium(II)_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.5 Copper(II)_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.5.1 Verdigris
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.6 Potassium_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.7 Sodium_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Acetates/1.8 Zinc_acetate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/1. Calcium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/2. Iron(III)_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/2.1 Ammonium_ferric_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/3. Magnesium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/4. Potassium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/5. Sodium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/5.1 Monosodium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/5.2 Disodium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Citrates/5.3 Trisodium_citrate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Glutamates/1. Calcium_diglutamate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Glutamates/2. Glutamate_flavoring
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Glutamates/3. Magnesium_diglutamate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Glutamates/4. Monoammonium_glutamate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Glutamates/5. Monosodium_glutamate
+Science/1661 Chemistry/9. Salts and ions/Organic salts/Glutamates/6. Monopotassium_glutamate
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1. Oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.1 Aluminium_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.2 Iron_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.2.1 Iron(II)_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.2.2 Iron(II,III)_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.2.3 Iron(III)_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.3 Osmium_tetroxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.4 Tin(IV)_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.5 Titanium_dioxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.6 Zinc_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/1.7 Zirconium_dioxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/2. Superoxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/2.1 Potassium_superoxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/2.2 Sodium_superoxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Alkali oxide salts/1. Calcium_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Alkali oxide salts/2. Lithium_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Alkali oxide salts/3. Magnesium_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Alkali oxide salts/4. Potassium_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Alkali oxide salts/5. Sodium_oxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Peroxide salts/1. Peroxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Peroxide salts/1.1 Barium_peroxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Peroxide salts/1.2 Lithium_peroxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Peroxide salts/1.3 Potassium_peroxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Peroxide salts/1.4 Sodium_peroxide
+Science/1661 Chemistry/9. Salts and ions/Oxide salts/Peroxide salts/1.5 Zinc_peroxide
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/1. Oxyanion
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/2. Silicate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/2.1 Sodium_silicate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Boric oxyanions/1. Borate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Boric oxyanions/1.1 Borax
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Boric oxyanions/1.2 Sodium_metaborate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/1. Bicarbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/1.1 Ammonium_bicarbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/1.2 Sodium_bicarbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/1.2.1 Baking_powder
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/2. Carbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/2.1 Ammonium_carbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/2.2 Calcium_carbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Carbonic oxyanions/2.3 Sodium_carbonate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/1. Chlorate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/2. Chlorite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/3. Hypochlorite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/3.1 Sodium_hypochlorite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/4. Perchlorate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/4.1 Ammonium_perchlorate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/4.2 Potassium_perchlorate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Halide oxyanions/4.3 Sodium_perchlorate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Hydroxy anion/1. Hydroxide
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Hydroxy anion/2. Calcium_hydroxide
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Hydroxy anion/3. Magnesium_hydroxide
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Hydroxy anion/4. Potassium_hydroxide
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Hydroxy anion/5. Sodium_hydroxide
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1. Chromate_and_dichromate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1.1 Lead(II)_chromate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1.1.1 Chrome_yellow
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1.2 Potassium_chromate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1.3 Potassium_dichromate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1.4 Sodium_chromate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/1.5 Sodium_dichromate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/2. Manganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/2.1 Barium_manganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/2.2 Potassium_manganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/3. Permanganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/3.1 Ammonium_permanganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/3.2 Barium_permanganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/3.3 Calcium_permanganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/3.4 Potassium_permanganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/3.5 Sodium_permanganate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/4. Vanadate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/4.1 Ammonium_metavanadate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/4.2 Sodium_decavanadate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/4.3 Sodium_metavanadate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Metallic oxyanions/4.4 Sodium_orthovanadate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/1. Nitrate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/1.1 Ammonium_nitrate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/1.2 Potassium_nitrate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/1.3 Silver_nitrate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/1.4 Sodium_nitrate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/2. Nitrite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/2.1 Ammonium_nitrite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Nitric oxyanions/2.2 Sodium_nitrite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Phosphoric oxyanions/1. Phosphate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Phosphoric oxyanions/1.1 Ammonium_dihydrogen_phosphate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Phosphoric oxyanions/1.2 Diammonium_phosphate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Phosphoric oxyanions/1.3 Trisodium_phosphate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Phosphoric oxyanions/2. Phosphite_anion
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Phosphoric oxyanions/2.1 Basic_lead_phosphite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/1. Sodium_dithionite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/2. Sulfite
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3. Sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.1 Alum
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.1.1 Potassium_alum
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.2 Aluminium_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.3 Ammonium_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.4 Cobalt(II)_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.5 Copper(II)_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.6 Iron(II)_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.7 Iron(III)_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.8 Magnesium_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.9 Sodium_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.10 Vitriol
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/3.11 Zinc_sulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/4. Thiosulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/4.1 Ammonium_thiosulfate
+Science/1661 Chemistry/9. Salts and ions/Oxyanionic salts/Sulfuric oxyanions/4.2 Sodium_thiosulfate
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1. Sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.1 Cadmium_sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.2 Calcium_sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.2.1 Lime_sulfur
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.3 Lithium_sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.4 Magnesium_sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.5 Mercury_sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.6 Polysulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.7 Potassium_sulfide
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.7.1 Liver_of_sulfur
+Science/1661 Chemistry/9. Salts and ions/Sulfide salts/1.8 Sodium_sulfide
+Science/1661 Chemistry/10. Analysis/1. Basics/1. Qualitative_inorganic_analysis
+Science/1661 Chemistry/10. Analysis/1. Basics/2. Quantitative_analysis
+Science/1661 Chemistry/10. Analysis/1. Basics/3. Elemental_analysis
+Science/1661 Chemistry/10. Analysis/1. Basics/4. Combustion_analysis
+Science/1661 Chemistry/10. Analysis/1. Basics/5. Cheminformatics
+Science/1661 Chemistry/10. Analysis/1. Basics/6. Instrumental_chemistry
+Science/1661 Chemistry/10. Analysis/1. Basics/7. Electroanalytical_methods
+Science/1661 Chemistry/10. Analysis/1. Basics/8. Radioanalytical_chemistry
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1. Chemical_test
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1.1 Complexometric_indicator
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1.2 PH_indicator
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1.2.1 Litmus
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1.2.2 Phenolphthalein
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1.3 Redox_indicator
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/1.3.1 Methylene_blue
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/2. Flame_test
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/3. Gravimetric_analysis
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/3.1 Thermogravimetric_analysis
+Science/1661 Chemistry/10. Analysis/2. Chemical methods/4. Titration
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/1. Calorimetry
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/2. Mass_spectrometry
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/1. Coulometry
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/1.1 Voltammetry
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/1.1.1 Cyclic_voltammetry
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/1.1.2 Hydrodynamic_voltammetry
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/1.1.3 Polarography
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/2. Dielectric_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Electrical methods/3. Electrophoresis
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/1. Spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/1.1 Absorption_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/2. Atomic_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/2.1 Atomic_absorption_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/2.2 Atomic_emission_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/3. Fluorescence_correlation_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/4. Infrared_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/4.1 Fourier-transform_infrared_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/5. Microwave_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/6. Raman_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/7. Ultrafast_laser_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/8. Ultraviolet–visible_spectroscopy
+Science/1661 Chemistry/10. Analysis/3. Instrumental methods/Spectroscopy/9. X-ray_spectroscopy
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/1. Dissociation
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/2. Isomerization
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/3. Radical
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/4. Reaction_mechanism
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/4.1 Arrow_pushing
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/4.2 Chain_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/4.3 Elementary_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/4.4 Reaction_intermediate
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/5. Reversible_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Basics/5.1 Stepwise_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/1. Organic_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/1.1 Leaving_group
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/2. Addition_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/2.1 Cycloaddition
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/2.2 Electrophilic_addition
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/2.3 Free-radical_addition
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/2.4 Nucleophilic_addition
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/3. Aldol_condensation
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/4. Caramelization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/5. Diels–Alder_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/6. Elimination_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/6.1 E1cB-elimination_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/6.2 Ei_mechanism
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/7. Grignard_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/8. Haloform_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/9. Hydrogenation
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/10. Maillard_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11. Polymerization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11.1 Step-growth_polymerization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11.2 Chain-growth_polymerization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11.2.1 Radical_polymerization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11.2.2 Ring-opening_polymerization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11.3 Chain_transfer
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/11.4 Emulsion_polymerization
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/12. Rearrangement_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/12.1 1,2-rearrangement
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/12.2 Allylic_rearrangement
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/12.3 Olefin_metathesis
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/12.4 Pericyclic_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13. Substitution_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.1 Nucleophilic_substitution
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.1.1 Nucleophilic_acyl_substitution
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.1.2 Nucleophilic_aromatic_substitution
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.1.3 SN1_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.1.4 SN2_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.1.5 SNi
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/13.2 Electrophilic_substitution
+Science/1661 Chemistry/11. Reactions and synthesis/Organic reactions/14. Wittig_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/1. Acid–base_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2. Chemical_decomposition
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.1 Electrolysis
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.2 Hydrolysis
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.3 Kipp's_apparatus
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.4 Thermal_decomposition
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.4.1 Cracking
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.4.2 Destructive_distillation
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/2.4.3 Pyrolysis
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/3. Combustion
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/4. Haber_process
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/5. Precipitation
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/6. Salt_metathesis_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Other reactions/7. Water–gas_shift_reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1. Redox
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.1 Corrosion
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.1.1 Rust
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.1.2 Tarnish
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.2 Half-reaction
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.3 Oxidation_state
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.4 Oxidizing_agent
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.5 Reducing_agent
+Science/1661 Chemistry/11. Reactions and synthesis/Redox reactions/1.6 Disproportionation
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/1. Convergent_synthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/2. Direct_process
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/3. Divergent_synthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/4. Electrosynthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/5. Enantioselective_synthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/6. One-pot_synthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/7. Organic_synthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/7.1 Retrosynthetic_analysis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/7.2 Semisynthesis
+Science/1661 Chemistry/11. Reactions and synthesis/Synthetic strategies/8. Total_synthesis
+Science/1661 Chemistry/12. Separation processes/1. Separation_process
+Science/1661 Chemistry/12. Separation processes/1.1 Theoretical_plate
+Science/1661 Chemistry/12. Separation processes/Chromatography/1. Chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.1 Column_chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.2 High-performance_liquid_chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.3 Ion_chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.4 Gas_chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.5 Gel_permeation_chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.6 Thin-layer_chromatography
+Science/1661 Chemistry/12. Separation processes/Chromatography/1.7 Van_Deemter_equation
+Science/1661 Chemistry/12. Separation processes/Other separations/1. Absorption
+Science/1661 Chemistry/12. Separation processes/Other separations/2. Adsorption
+Science/1661 Chemistry/12. Separation processes/Other separations/2.1 Physisorption
+Science/1661 Chemistry/12. Separation processes/Other separations/2.2 Chemisorption
+Science/1661 Chemistry/12. Separation processes/Other separations/2.3 Langmuir_adsorption_model
+Science/1661 Chemistry/12. Separation processes/Other separations/2.4 Freundlich_equation
+Science/1661 Chemistry/12. Separation processes/Other separations/2.5 BET_theory
+Science/1661 Chemistry/12. Separation processes/Other separations/3. Cyclonic_separation
+Science/1661 Chemistry/12. Separation processes/Other separations/4. Extraction
+Science/1661 Chemistry/12. Separation processes/Other separations/4.1 Liquid–liquid_extraction
+Science/1661 Chemistry/12. Separation processes/Other separations/4.2 Soxhlet_extractor
+Science/1661 Chemistry/12. Separation processes/Other separations/5. Filtration
+Science/1661 Chemistry/12. Separation processes/Other separations/5.1 Cross-flow_filtration
+Science/1661 Chemistry/12. Separation processes/Other separations/5.2 Suction_filtration
+Science/1661 Chemistry/12. Separation processes/Other separations/5.3 Microfiltration
+Science/1661 Chemistry/12. Separation processes/Other separations/5.4 Ultrafiltration
+Science/1661 Chemistry/12. Separation processes/Other separations/5.5 Nanofiltration
+Science/1661 Chemistry/12. Separation processes/Other separations/5.6 Reverse_osmosis
+Science/1661 Chemistry/12. Separation processes/Other separations/6. Recrystallization
+Science/1661 Chemistry/12. Separation processes/Other separations/6.1 Fractional_crystallization
+Science/1661 Chemistry/12. Separation processes/Other separations/7. Sedimentation
+Science/1661 Chemistry/12. Separation processes/Other separations/7.1 Flocculation
+Science/1661 Chemistry/12. Separation processes/Other separations/7.2 Settling
+Science/1661 Chemistry/12. Separation processes/Other separations/8. Stripping
+Science/1661 Chemistry/12. Separation processes/Phase separations/1. Phase_separation
+Science/1661 Chemistry/12. Separation processes/Phase separations/2. Air_separation
+Science/1661 Chemistry/12. Separation processes/Phase separations/3. Distillation
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.1 Azeotrope
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.1.1 Azeotropic_distillation
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.1.2 Dean–Stark_apparatus
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.2 Continuous_distillation
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.3 Fractional_distillation
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.3.1 Condenser_(laboratory)
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.3.2 Fractionating_column
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.3.3 Random_column_packing
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.4 Steam_distillation
+Science/1661 Chemistry/12. Separation processes/Phase separations/3.5 Vacuum_distillation
+Science/1661 Chemistry/12. Separation processes/Phase separations/4. Drying
+Science/1661 Chemistry/12. Separation processes/Phase separations/4.1 Desiccant
+Science/1661 Chemistry/12. Separation processes/Phase separations/4.2 Freeze-drying
+Science/1661 Chemistry/12. Separation processes/Phase separations/4.3 Vacuum_drying
+Science/1661 Chemistry/12. Separation processes/Phase separations/4.4 Spray_drying
+Science/1661 Chemistry/12. Separation processes/Phase separations/5. Flash_evaporation
+Science/1661 Chemistry/12. Separation processes/Phase separations/5.1 Vapor–liquid_separator
+Science/1661 Chemistry/12. Separation processes/Phase separations/6. Fractional_freezing
+Science/1661 Chemistry/12. Separation processes/Phase separations/6.1 Eutectic_system
+Science/1661 Chemistry/13. Chemical engineering/1. Chemical_process
+Science/1661 Chemistry/13. Chemical engineering/1.1 Process_design
+Science/1661 Chemistry/13. Chemical engineering/2. Chemical_reactor
+Science/1661 Chemistry/13. Chemical engineering/2.1 Batch_reactor
+Science/1661 Chemistry/13. Chemical engineering/2.2 Semibatch_reactor
+Science/1661 Chemistry/13. Chemical engineering/2.3 Continuous_stirred-tank_reactor
+Science/1661 Chemistry/13. Chemical engineering/2.4 Plug_flow_reactor_model
+Science/1661 Chemistry/13. Chemical engineering/2.5 Laminar_flow_reactor
+Science/1661 Chemistry/13. Chemical engineering/2.6 Microreactor
+Science/1661 Chemistry/13. Chemical engineering/3. Unit_operation
+Science/1661 Chemistry/13. Chemical engineering/3.1 Mass_transfer
+Science/1661 Chemistry/13. Chemical engineering/3.2 Mixing
+Science/1661 Chemistry/14. Theory/Bond structure/1. Coordination_complex
+Science/1661 Chemistry/14. Theory/Bond structure/1.1 Chelation
+Science/1661 Chemistry/14. Theory/Bond structure/1.2 Coordination_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/1.2.1 Bite_angle
+Science/1661 Chemistry/14. Theory/Bond structure/1.2.2 Coordination_sphere
+Science/1661 Chemistry/14. Theory/Bond structure/1.2.3 Ligand_cone_angle
+Science/1661 Chemistry/14. Theory/Bond structure/1.3 Crystal_field_theory
+Science/1661 Chemistry/14. Theory/Bond structure/1.4 Ligand
+Science/1661 Chemistry/14. Theory/Bond structure/1.5 Ligand_field_theory
+Science/1661 Chemistry/14. Theory/Bond structure/2. Molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.1 Bent_molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.2 Linear_molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.3 Octahedral_molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.4 Tetrahedral_molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.5 Trigonal_planar_molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.6 Trigonal_pyramidal_molecular_geometry
+Science/1661 Chemistry/14. Theory/Bond structure/2.7 VSEPR_theory
+Science/1661 Chemistry/14. Theory/Bond structure/3. Valence_bond_theory
+Science/1661 Chemistry/14. Theory/Bond structure/3.1 Modern_valence_bond_theory
+Science/1661 Chemistry/14. Theory/Bond structure/3.1.1 Linear_combination_of_atomic_orbitals
+Science/1661 Chemistry/14. Theory/Bond structure/3.2 Orbital_hybridisation
+Science/1661 Chemistry/14. Theory/Bond structure/3.3 Resonance
+Science/1661 Chemistry/14. Theory/Bond structure/3.4 Pi_bond
+Science/1661 Chemistry/14. Theory/Bond structure/3.5 Sigma_bond
+Science/1661 Chemistry/14. Theory/Electrochemistry/1. Electrochemical_cell
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.1 Anode
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.2 Cathode
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.3 Electrolyte
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.4 Electrolytic_cell
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.5 Galvanic_cell
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.6 Half-cell
+Science/1661 Chemistry/14. Theory/Electrochemistry/1.7 Salt_bridge
+Science/1661 Chemistry/14. Theory/Electrochemistry/2. Reduction_potential
+Science/1661 Chemistry/14. Theory/Electrochemistry/2.1 Absolute_electrode_potential
+Science/1661 Chemistry/14. Theory/Electrochemistry/2.1.1 Standard_hydrogen_electrode
+Science/1661 Chemistry/14. Theory/Electrochemistry/2.2 Nernst_equation
+Science/1661 Chemistry/14. Theory/Electrochemistry/2.3 Standard_electrode_potential
+Science/1661 Chemistry/14. Theory/Electrochemistry/2.3.1 Galvanic_series
+Science/1661 Chemistry/14. Theory/Electrochemistry/2.3.2 Reactivity_series
+Science/1661 Chemistry/14. Theory/Kinetics/1. Chemical_kinetics
+Science/1661 Chemistry/14. Theory/Kinetics/2. Rate_equation
+Science/1661 Chemistry/14. Theory/Kinetics/2.1 Law_of_mass_action
+Science/1661 Chemistry/14. Theory/Kinetics/2.2 Rate-determining_step
+Science/1661 Chemistry/14. Theory/Kinetics/2.3 Reaction_rate
+Science/1661 Chemistry/14. Theory/Kinetics/2.3.1 Reaction_rate_constant
+Science/1661 Chemistry/14. Theory/Kinetics/3. Transition_state_theory
+Science/1661 Chemistry/14. Theory/Kinetics/3.1 Activated_complex
+Science/1661 Chemistry/14. Theory/Kinetics/3.2 Activation_energy
+Science/1661 Chemistry/14. Theory/Kinetics/3.3 Hammond's_postulate
+Science/1661 Chemistry/14. Theory/Kinetics/3.4 Reaction_coordinate
+Science/1661 Chemistry/14. Theory/Kinetics/3.5 Transition_state
+Science/1661 Chemistry/14. Theory/Kinetics/4. Arrhenius_equation
+Science/1661 Chemistry/14. Theory/Kinetics/4.1 Pre-exponential_factor
+Science/1661 Chemistry/14. Theory/Kinetics/5. Collision_theory
+Science/1661 Chemistry/14. Theory/Kinetics/5.1 Collision_frequency
+Science/1661 Chemistry/14. Theory/Kinetics/6. Entropy_of_activation
+Science/1661 Chemistry/14. Theory/Stereochemistry/1. Stereoisomerism
+Science/1661 Chemistry/14. Theory/Stereochemistry/1.1 Cahn–Ingold–Prelog_priority_rules
+Science/1661 Chemistry/14. Theory/Stereochemistry/2. Chirality
+Science/1661 Chemistry/14. Theory/Stereochemistry/2.1 Absolute_configuration
+Science/1661 Chemistry/14. Theory/Stereochemistry/2.2 Enantiomer
+Science/1661 Chemistry/14. Theory/Stereochemistry/2.3 Racemic_mixture
+Science/1661 Chemistry/14. Theory/Stereochemistry/2.4 Racemization
+Science/1661 Chemistry/14. Theory/Stereochemistry/2.5 Stereocenter
+Science/1661 Chemistry/14. Theory/Stereochemistry/3. Conformational_isomerism
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.1 Alkane_stereochemistry
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.1.1 Eclipsed_conformation
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.1.2 Gauche_effect
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.1.3 Newman_projection
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.1.4 Staggered_conformation
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.2 Atropisomer
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.3 Cyclohexane_conformation
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.3.1 Ring_flip
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.4 Steric_effects
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.4.1 A_value
+Science/1661 Chemistry/14. Theory/Stereochemistry/3.5 Strain
+Science/1661 Chemistry/14. Theory/Stereochemistry/4. Diastereomer
+Science/1661 Chemistry/14. Theory/Stereochemistry/4.1 Cis–trans_isomerism
+Science/1661 Chemistry/14. Theory/Stereochemistry/4.2 E–Z_notation
+Science/1661 Chemistry/14. Theory/Stereochemistry/5. Meso_compound
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/1. Supramolecular_chemistry
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/1.1 Folding
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/1.2 Molecular_self-assembly
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/2. Host–guest_chemistry
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/2.1 Clathrate_compound
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/2.2 Inclusion_compound
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/2.3 Molecular_encapsulation
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/2.3.1 Endohedral_fullerene
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3. Intermolecular_force
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3.1 Chemical_polarity
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3.1.1 Amphiphile
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3.1.2 Hydrophile
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3.1.3 Hydrophobe
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3.2 London_dispersion_force
+Science/1661 Chemistry/14. Theory/Supramolecular chemistry/3.3 Van_der_Waals_force
+Science/1661 Chemistry/14. Theory/Thermodynamics/1. Chemical_thermodynamics
+Science/1661 Chemistry/14. Theory/Thermodynamics/1.1 Thermochemistry
+Science/1661 Chemistry/14. Theory/Thermodynamics/2. Colligative_properties
+Science/1661 Chemistry/14. Theory/Thermodynamics/2.1 Boiling-point_elevation
+Science/1661 Chemistry/14. Theory/Thermodynamics/2.2 Freezing-point_depression
+Science/1661 Chemistry/14. Theory/Thermodynamics/2.3 Osmotic_pressure
+Science/1661 Chemistry/14. Theory/Thermodynamics/2.4 Vapor_pressure
+Science/1661 Chemistry/14. Theory/Thermodynamics/3. Reaction_quotient
+Science/1661 Chemistry/14. Theory/Thermodynamics/3.1 Activity
+Science/1661 Chemistry/14. Theory/Thermodynamics/3.1.1 Activity_coefficient
+Science/1661 Chemistry/14. Theory/Thermodynamics/3.2 Equilibrium_constant
+Science/1661 Chemistry/14. Theory/Thermodynamics/3.2.1 Dissociation_constant
+Science/1661 Chemistry/14. Theory/Thermodynamics/4. Exothermic_reaction
+Science/1661 Chemistry/14. Theory/Thermodynamics/4.1 Thermal_runaway
+Science/1661 Chemistry/14. Theory/Thermodynamics/5. Flory–Huggins_solution_theory
+Science/1661 Chemistry/1627-1691 Robert_Boyle
+Science/1661 Chemistry/1630-1692 Hennig_Brand
+Science/1661 Chemistry/1743-1794 Antoine_Lavoisier
+Science/1661 Chemistry/1766-1844 John_Dalton
+Science/1661 Chemistry/1834-1907 Dmitri_Mendeléev
+Science/1661 Chemistry/1867-1934 Marie_Curie
+Science/1661 Chemistry/1868-1934 Fritz_Haber
+Science/1661 Chemistry/1874-1940 Carl_Bosch
+Science/1661 Chemistry/1901-1994 Linus_Pauling
+Science/1661 Chemistry/Ada_Yonath
+Science/1661 Chemistry/Adolf_von_Baeyer
+Science/1661 Chemistry/Albert_Hofmann
+Science/1661 Chemistry/Alexander_Gettler
+Science/1661 Chemistry/Alexander_Shulgin
+Science/1661 Chemistry/Angelo_Mariani_(chemist)
+Science/1661 Chemistry/Antoine_Lavoisier
+Science/1661 Chemistry/Arne_Tiselius
+Science/1661 Chemistry/August_Kekulé
+Science/1661 Chemistry/Benjamin_Silliman
+Science/1661 Chemistry/Caleb_Bradham
+Science/1661 Chemistry/Carl_Bosch
+Science/1661 Chemistry/Carl_Gustaf_Mosander
+Science/1661 Chemistry/Carl_Wilhelm_Scheele
+Science/1661 Chemistry/Claude_Louis_Berthollet
+Science/1661 Chemistry/Cyril_Callister
+Science/1661 Chemistry/Dmitri_Mendeleev
+Science/1661 Chemistry/Dorothy_Hodgkin
+Science/1661 Chemistry/Edward_A._Guggenheim
+Science/1661 Chemistry/Edwin_McMillan
+Science/1661 Chemistry/Eli_Lilly
+Science/1661 Chemistry/Elizabeth_Rona
+Science/1661 Chemistry/Emil_Fischer
+Science/1661 Chemistry/Ernst_Chain
+Science/1661 Chemistry/Ernst_Otto_Fischer
+Science/1661 Chemistry/François-Marie_Raoult
+Science/1661 Chemistry/Frederick_Sanger
+Science/1661 Chemistry/Frederick_Soddy
+Science/1661 Chemistry/Friedrich_Wöhler
+Science/1661 Chemistry/Fritz_Haber
+Science/1661 Chemistry/Geoffrey_Wilkinson
+Science/1661 Chemistry/George_Rosenkranz
+Science/1661 Chemistry/Germain_Henri_Hess
+Science/1661 Chemistry/Gerty_Cori
+Science/1661 Chemistry/Gilbert_N._Lewis
+Science/1661 Chemistry/Glenn_T._Seaborg
+Science/1661 Chemistry/Harold_Urey
+Science/1661 Chemistry/Henri_Moissan
+Science/1661 Chemistry/Henry_Taube
+Science/1661 Chemistry/Hermann_Staudinger
+Science/1661 Chemistry/Humphry_Davy
+Science/1661 Chemistry/Ilya_Prigogine
+Science/1661 Chemistry/Irving_Langmuir
+Science/1661 Chemistry/Jacobus_Henricus_van_'t_Hoff
+Science/1661 Chemistry/Jan_Baptist_van_Helmont
+Science/1661 Chemistry/Jaroslav_Heyrovský
+Science/1661 Chemistry/Jennifer_Doudna
+Science/1661 Chemistry/John_Stith_Pemberton
+Science/1661 Chemistry/Jöns_Jacob_Berzelius
+Science/1661 Chemistry/Joseph_Black
+Science/1661 Chemistry/Joseph_Louis_Gay-Lussac
+Science/1661 Chemistry/Joseph_Priestley
+Science/1661 Chemistry/Josiah_Willard_Gibbs
+Science/1661 Chemistry/Justus_von_Liebig
+Science/1661 Chemistry/Kathleen_Lonsdale
+Science/1661 Chemistry/Linus_Pauling
+Science/1661 Chemistry/Martin_Heinrich_Klaproth
+Science/1661 Chemistry/Mathieu_Orfila
+Science/1661 Chemistry/Maud_Menten
+Science/1661 Chemistry/Merle_Randall
+Science/1661 Chemistry/Michael_Sendivogius
+Science/1661 Chemistry/Nobel_Prize_in_Chemistry
+Science/1661 Chemistry/Otto_Hahn
+Science/1661 Chemistry/Paul_Anastas
+Science/1661 Chemistry/Paul_Flory
+Science/1661 Chemistry/Per_Teodor_Cleve
+Science/1661 Chemistry/Percy_Lavon_Julian
+Science/1661 Chemistry/Peter_Debye
+Science/1661 Chemistry/Robert_Boyle
+Science/1661 Chemistry/Robert_Bunsen
+Science/1661 Chemistry/Robert_Burns_Woodward
+Science/1661 Chemistry/Robert_S._Mulliken
+Science/1661 Chemistry/Roger_Joseph_Boscovich
+Science/1661 Chemistry/Svante_Arrhenius
+Science/1661 Chemistry/Thomas_Midgley_Jr.
+Science/1661 Chemistry/Tim_Hunt
+Science/1661 Chemistry/Timeline_of_chemistry
+Science/1661 Chemistry/Timeline_of_physical_chemistry
+Science/1661 Chemistry/Walther_Nernst
+Science/1661 Chemistry/Wikipedia_Vital_articles_Level_5_Physical_sciences_Chemistry
+Science/1661 Chemistry/Wilhelm_Ostwald
+Science/1661 Chemistry/William_Crookes
+Science/1661 Chemistry/William_Hyde_Wollaston
+Science/1661 Chemistry/William_Ramsay

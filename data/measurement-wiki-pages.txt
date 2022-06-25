@@ -1,0 +1,103 @@
+Science/- Units of Measurement/Angle/1. Degree_(angle)
+Science/- Units of Measurement/Angle/2. Radian
+Science/- Units of Measurement/Angle/3. Gradian
+Science/- Units of Measurement/Solid Angle/1. Steradian
+Science/- Units of Measurement/Length/Metric/1. Metre
+Science/- Units of Measurement/Length/English/5. Inch
+Science/- Units of Measurement/Length/English/12. Foot_(unit)
+Science/- Units of Measurement/Length/English/21. Mile
+Science/- Units of Measurement/Length/English/22. Nautical_mile
+Science/- Units of Measurement/Length/Astronomical/1. Astronomical_unit
+Science/- Units of Measurement/Length/Astronomical/2. Lunar_distance_(astronomy)
+Science/- Units of Measurement/Length/Astronomical/3. Solar_radius
+Science/- Units of Measurement/Length/Astronomical/4. Light-year
+Science/- Units of Measurement/Length/Astronomical/5. Parsec
+Science/- Units of Measurement/Area/1. Square_inch
+Science/- Units of Measurement/Area/2. Square_foot
+Science/- Units of Measurement/Area/6. Acre
+Science/- Units of Measurement/Area/14. Square_kilometre
+Science/- Units of Measurement/Area/15. Square_mile
+Science/- Units of Measurement/Volume/2. Cubic_inch
+Science/- Units of Measurement/Volume/3. Cubic_foot
+Science/- Units of Measurement/Volume/7. Litre
+Science/- Units of Measurement/Volume/8. Cubic_metre
+Science/- Units of Measurement/Volume/21. Gallon
+Science/- Units of Measurement/Power/1. Watt
+Science/- Units of Measurement/Power/2. Horsepower
+Science/- Units of Measurement/Energy/1. Joule
+Science/- Units of Measurement/Energy/3. Calorie
+Science/- Units of Measurement/Energy/4. Electronvolt
+Science/- Units of Measurement/Pressure/1. Pascal
+Science/- Units of Measurement/Pressure/2. Standard_atmosphere_(unit)
+Science/- Units of Measurement/Pressure/3. Bar_(unit)
+Science/- Units of Measurement/Force/1. Newton
+Science/- Units of Measurement/Torque/1. Newton-metre
+Science/- Units of Measurement/Viscosity/5. Kilogram
+Science/- Units of Measurement/Mass and weight/9. Ton
+Science/- Units of Measurement/Mass and weight/14. Ounce
+Science/- Units of Measurement/Mass and weight/16. Pound_(mass)
+Science/- Units of Measurement/Speed/1. Knot_(unit)
+Science/- Units of Measurement/Speed/2. Kilometres_per_hour
+Science/- Units of Measurement/Speed/3. Metre_per_second
+Science/- Units of Measurement/Speed/4. Miles_per_hour
+Science/- Units of Measurement/Acceleration/2. Metre_per_second_squared
+Science/- Units of Measurement/Acceleration/3. Standard_gravity
+Science/- Units of Measurement/Angular velocity/1. Inverse_second
+Science/- Units of Measurement/Angular velocity/2. Radian_per_second
+Science/- Units of Measurement/Angular velocity/3. Revolutions_per_minute
+Science/- Units of Measurement/Ratio/1. Decibel
+Science/- Units of Measurement/Density/1. Gram_per_cubic_centimetre
+Science/- Units of Measurement/Density/2. Kilogram_per_cubic_metre
+Science/- Units of Measurement/Concentration/1. Brix
+Science/- Units of Measurement/Concentration/2. Molar_concentration
+Science/- Units of Measurement/Concentration/3. Molality
+Science/- Units of Measurement/Time/9. Second
+Science/- Units of Measurement/Time/10. Minute
+Science/- Units of Measurement/Time/12. Hour
+Science/- Units of Measurement/Time/13. Day
+Science/- Units of Measurement/Time/14. Week
+Science/- Units of Measurement/Time/16. Month
+Science/- Units of Measurement/Time/17. Year
+Science/- Units of Measurement/Time/20. Decade
+Science/- Units of Measurement/Time/21. Century
+Science/- Units of Measurement/Time/22. Millennium
+Science/- Units of Measurement/Time/23. Epoch
+Science/- Units of Measurement/Time/24. Era
+Science/- Units of Measurement/Time/26. Eternity
+Science/- Units of Measurement/Frequency/1. Hertz
+Science/- Units of Measurement/Specific intensity/1. Jansky
+Science/- Units of Measurement/Charge/1. Coulomb
+Science/- Units of Measurement/Charge/2. Statcoulomb
+Science/- Units of Measurement/Charge/3. Ampere_hour
+Science/- Units of Measurement/Current/1. Ampere
+Science/- Units of Measurement/Electric potential/1. Volt
+Science/- Units of Measurement/Capacitance/1. Farad
+Science/- Units of Measurement/Magnetic field/1. Tesla_(unit)
+Science/- Units of Measurement/Magnetic field/2. Gauss_(unit)
+Science/- Units of Measurement/Magnetic flux/1. Weber_(unit)
+Science/- Units of Measurement/Magnetic flux/2. Maxwell_(unit)
+Science/- Units of Measurement/Electrical resistance/1. Ohm
+Science/- Units of Measurement/Electrical conductance/1. Siemens_(unit)
+Science/- Units of Measurement/Inductance/1. Henry_(unit)
+Science/- Units of Measurement/Temperature/1. Celsius
+Science/- Units of Measurement/Temperature/2. Fahrenheit
+Science/- Units of Measurement/Temperature/3. Kelvin
+Science/- Units of Measurement/Amount of substance/1. Mole_(unit)
+Science/- Units of Measurement/Luminous intensity/1. Candela
+Science/- Units of Measurement/Luminous flux/1. Lumen_(unit)
+Science/- Units of Measurement/Illuminance/1. Lux
+Science/- Units of Measurement/Radioactivity/1. Becquerel
+Science/- Units of Measurement/Radioactivity/2. Curie_(unit)
+Science/- Units of Measurement/Exposure/1. Roentgen_(unit)
+Science/- Units of Measurement/Absorbed dose/1. Gray_(unit)
+Science/- Units of Measurement/Absorbed dose/2. Rad_(unit)
+Science/- Units of Measurement/Equivalent dose/1. Sievert
+Science/- Units of Measurement/Catalytic activity/1. Katal
+Science/- Units of Measurement/Catalytic activity/2. Enzyme_unit
+Science/- Units of Measurement/Information/1. Baud
+Science/- Units of Measurement/Information/2. Bit
+Science/- Units of Measurement/Information/19. Byte
+Science/- Units of Measurement/Information/24. Nat_(unit)
+Science/- Units of Measurement/Information/25. Shannon_(unit)
+Science/- Units of Measurement/Information/26. Qubit
+Science/- Units of Measurement/Wikipedia_Vital_articles_Level_5_Physical_sciences_Basics_and_measurement

@@ -1,0 +1,1357 @@
+Science/1543 Astronomy and Astrophysics/1473-1543 Nicolaus_Copernicus
+Science/1543 Astronomy and Astrophysics/1546-1601 Tycho_Brahe
+Science/1543 Astronomy and Astrophysics/1564-1642 Galileo_Galilei
+Science/1543 Astronomy and Astrophysics/1571-1630 Johannes_Kepler
+Science/1543 Astronomy and Astrophysics/1573-1925 Simon_Marius
+Science/1543 Astronomy and Astrophysics/1611-1687 Johannes_Hevelius
+Science/1543 Astronomy and Astrophysics/1625-1712 Giovanni_Domenico_Cassini
+Science/1543 Astronomy and Astrophysics/1646-1719 John_Flamsteed
+Science/1543 Astronomy and Astrophysics/1656-1742 Edmond_Halley
+Science/1543 Astronomy and Astrophysics/1701-1744 Anders_Celsius
+Science/1543 Astronomy and Astrophysics/1730-1817 Charles_Messier
+Science/1543 Astronomy and Astrophysics/1731-1806 Benjamin_Banneker
+Science/1543 Astronomy and Astrophysics/1738-1822 William_Herschel
+Science/1543 Astronomy and Astrophysics/1750-1848 Caroline_Herschel
+Science/1543 Astronomy and Astrophysics/1758-1840 Heinrich_Wilhelm_Matthias_Olbers
+Science/1543 Astronomy and Astrophysics/1780-1872 Mary_Somerville
+Science/1543 Astronomy and Astrophysics/1784-1846 Friedrich_Bessel
+Science/1543 Astronomy and Astrophysics/1811-1877 Urbain_Le_Verrier
+Science/1543 Astronomy and Astrophysics/1812-1910 Johann_Gottfried_Galle
+Science/1543 Astronomy and Astrophysics/1818-1889 Maria_Mitchell
+Science/1543 Astronomy and Astrophysics/1824-1910 William_Huggins
+Science/1543 Astronomy and Astrophysics/1834-1906 Samuel_Langley
+Science/1543 Astronomy and Astrophysics/1834-1916 John_Tebbutt
+Science/1543 Astronomy and Astrophysics/1848-1915 Margaret_Lindsay_Huggins
+Science/1543 Astronomy and Astrophysics/1857-1911 Williamina_Fleming
+Science/1543 Astronomy and Astrophysics/1863-1941 Annie_Jump_Cannon
+Science/1543 Astronomy and Astrophysics/1868-1921 Henrietta_Swan_Leavitt
+Science/1543 Astronomy and Astrophysics/1868-1938 George_Ellery_Hale
+Science/1543 Astronomy and Astrophysics/1868-1947 Annie_S._D._Maunder
+Science/1543 Astronomy and Astrophysics/1873-1967 Ejnar_Hertzsprung
+Science/1543 Astronomy and Astrophysics/1875-1969 Vesto_M._Slipher
+Science/1543 Astronomy and Astrophysics/1877-1957 Henry_Norris_Russell
+Science/1543 Astronomy and Astrophysics/1882-1944 Arthur_Eddington
+Science/1543 Astronomy and Astrophysics/1889-1953 Edwin_Hubble
+Science/1543 Astronomy and Astrophysics/1893-1960 Walter_Baade
+Science/1543 Astronomy and Astrophysics/1894-1966 Georges_Lemaître
+Science/1543 Astronomy and Astrophysics/1898-1974 Fritz_Zwicky
+Science/1543 Astronomy and Astrophysics/1900-1979 Cecilia_Payne-Gaposchkin
+Science/1543 Astronomy and Astrophysics/1900-1992 Jan_Oort
+Science/1543 Astronomy and Astrophysics/1902-1986 Zhang_Yuzhe
+Science/1543 Astronomy and Astrophysics/1905-1950 Karl_Guthe_Jansky
+Science/1543 Astronomy and Astrophysics/1905-1973 Gerard_Kuiper
+Science/1543 Astronomy and Astrophysics/1906-1997 Clyde_Tombaugh
+Science/1543 Astronomy and Astrophysics/1910-1995 Subrahmanyan_Chandrasekhar
+Science/1543 Astronomy and Astrophysics/1914-1997 Lyman_Spitzer
+Science/1543 Astronomy and Astrophysics/1915-2001 Fred_Hoyle
+Science/1543 Astronomy and Astrophysics/1918-1984 Martin_Ryle
+Science/1543 Astronomy and Astrophysics/1918-2020 Katherine_Johnson
+Science/1543 Astronomy and Astrophysics/1919-2020 Margaret_Burbidge
+Science/1543 Astronomy and Astrophysics/1924-2008 Edwin_E._Salpeter
+Science/1543 Astronomy and Astrophysics/1924-2021 Antony_Hewish
+Science/1543 Astronomy and Astrophysics/1925-2018 Nancy_Roman
+Science/1543 Astronomy and Astrophysics/1926-2010 Allan_Sandage
+Science/1543 Astronomy and Astrophysics/1928-2016 Vera_Rubin
+Science/1543 Astronomy and Astrophysics/1934-1996 Carl_Sagan
+Science/1543 Astronomy and Astrophysics/1935- Jim_Peebles
+Science/1543 Astronomy and Astrophysics/1936- Robert_Woodrow_Wilson
+Science/1543 Astronomy and Astrophysics/1941- Joseph_Hooton_Taylor_Jr.
+Science/1543 Astronomy and Astrophysics/1942- Michel_Mayor
+Science/1543 Astronomy and Astrophysics/1943- Jocelyn_Bell_Burnell
+Science/1543 Astronomy and Astrophysics/1944- Sandra_Faber
+Science/1543 Astronomy and Astrophysics/1952- Reinhard_Genzel
+Science/1543 Astronomy and Astrophysics/1958- Neil_deGrasse_Tyson
+Science/1543 Astronomy and Astrophysics/1959- Saul_Perlmutter
+Science/1543 Astronomy and Astrophysics/1965- Andrea_M._Ghez
+Science/1543 Astronomy and Astrophysics/1965- Michael_E._Brown
+Science/1543 Astronomy and Astrophysics/1966- Didier_P._Queloz
+Science/1543 Astronomy and Astrophysics/1967- Brian_Schmidt
+Science/1543 Astronomy and Astrophysics/1969- Adam_Riess
+Science/1620 Physics/1544-1603 William_Gilbert_(physician)
+Science/1620 Physics/1602-1686 Otto_von_Guericke
+Science/1620 Physics/1608-1647 Evangelista_Torricelli
+Science/1620 Physics/1629-1695 Christiaan_Huygens
+Science/1620 Physics/1635-1703 Robert_Hooke
+Science/1620 Physics/1643-1727 Isaac_Newton
+Science/1620 Physics/1646-1716 Gottfried_Wilhelm_Leibniz
+Science/1620 Physics/1666-1736 Stephen_Gray_(scientist)
+Science/1620 Physics/1683-1744 John_Theophilus_Desaguliers
+Science/1620 Physics/1686-1736 Daniel_Gabriel_Fahrenheit
+Science/1620 Physics/1687 Classical Mechanics/1. Classical_mechanics
+Science/1620 Physics/1687 Classical Mechanics/1.1 Hamiltonian_mechanics
+Science/1620 Physics/1687 Classical Mechanics/1.2 Lagrangian_mechanics
+Science/1620 Physics/1687 Classical Mechanics/1.2.1 Euler–Lagrange_equation
+Science/1620 Physics/1687 Classical Mechanics/1.2.2 Generalized_coordinate
+Science/1620 Physics/1687 Classical Mechanics/1.2.3 Stationary-action_principle
+Science/1620 Physics/1687 Classical Mechanics/2. Mass
+Science/1620 Physics/1687 Classical Mechanics/2.1 Reduced_mass
+Science/1620 Physics/1687 Classical Mechanics/2.2 Density
+Science/1620 Physics/1687 Classical Mechanics/2.3 Center_of_mass
+Science/1620 Physics/1687 Classical Mechanics/2.4 Conservation_of_mass
+Science/1620 Physics/1687 Classical Mechanics/3. Momentum
+Science/1620 Physics/1687 Classical Mechanics/4. Force
+Science/1620 Physics/1687 Classical Mechanics/5. Motion
+Science/1620 Physics/1687 Classical Mechanics/5.1 Newton's_laws_of_motion
+Science/1620 Physics/1687 Classical Mechanics/5.1.1 Newtonian_dynamics
+Science/1620 Physics/1687 Classical Mechanics/5.2 Position
+Science/1620 Physics/1687 Classical Mechanics/5.3 Speed
+Science/1620 Physics/1687 Classical Mechanics/5.4 Velocity
+Science/1620 Physics/1687 Classical Mechanics/5.5 Acceleration
+Science/1620 Physics/1687 Classical Mechanics/5.6 Jerk
+Science/1620 Physics/1687 Classical Mechanics/5.7 Fourth,_fifth,_and_sixth_derivatives_of_position
+Science/1620 Physics/1687 Classical Mechanics/5.8 Equations_of_motion
+Science/1620 Physics/1687 Classical Mechanics/5.9 Linear_motion
+Science/1620 Physics/1687 Classical Mechanics/5.10 Circular_motion
+Science/1620 Physics/1687 Classical Mechanics/5.11 Projectile_motion
+Science/1620 Physics/1687 Classical Mechanics/5.12 Trajectory
+Science/1620 Physics/1687 Classical Mechanics/5.13 Bouncing_ball
+Science/1620 Physics/1687 Classical Mechanics/5.14 Equations_for_a_falling_body
+Science/1620 Physics/1687 Classical Mechanics/5.15 Free_fall
+Science/1620 Physics/1687 Classical Mechanics/5.16 Steady_state
+Science/1620 Physics/1687 Classical Mechanics/6. Kinetic_energy
+Science/1620 Physics/1687 Classical Mechanics/7. Potential_energy
+Science/1620 Physics/1687 Classical Mechanics/7.1 Potential_well
+Science/1620 Physics/1687 Classical Mechanics/8. Scalar_potential
+Science/1620 Physics/1687 Classical Mechanics/8.1 Equipotential
+Science/1620 Physics/1687 Classical Mechanics/9. Vector_potential
+Science/1620 Physics/1687 Classical Mechanics/10. Moment
+Science/1620 Physics/1687 Classical Mechanics/11. Inertia
+Science/1620 Physics/1687 Classical Mechanics/12. Moment_of_inertia
+Science/1620 Physics/1687 Classical Mechanics/13. Friction
+Science/1620 Physics/1687 Classical Mechanics/14. Impulse
+Science/1620 Physics/1687 Classical Mechanics/15. Power
+Science/1620 Physics/1687 Classical Mechanics/16. Work
+Science/1620 Physics/1687 Classical Mechanics/17. Action
+Science/1620 Physics/1687 Classical Mechanics/18. Angular_displacement
+Science/1620 Physics/1687 Classical Mechanics/19. Angular_frequency
+Science/1620 Physics/1687 Classical Mechanics/20. Angular_velocity
+Science/1620 Physics/1687 Classical Mechanics/21. Angular_acceleration
+Science/1620 Physics/1687 Classical Mechanics/21.1 Angular_momentum
+Science/1620 Physics/1687 Classical Mechanics/21.2 Centripetal_force
+Science/1620 Physics/1687 Classical Mechanics/22. Rotation
+Science/1620 Physics/1687 Classical Mechanics/23. Rolling
+Science/1620 Physics/1687 Classical Mechanics/24. Torque
+Science/1620 Physics/1687 Classical Mechanics/25. Weight
+Science/1620 Physics/1687 Classical Mechanics/25.1 Weighing_scale
+Science/1620 Physics/1687 Classical Mechanics/26. Frame_of_reference
+Science/1620 Physics/1687 Classical Mechanics/26.1 Inertial_frame_of_reference
+Science/1620 Physics/1687 Classical Mechanics/26.2 Non-inertial_reference_frame
+Science/1620 Physics/1687 Classical Mechanics/27. Newton's_law_of_universal_gravitation
+Science/1620 Physics/1687 Classical Mechanics/27.1 Cavendish_experiment
+Science/1620 Physics/1687 Classical Mechanics/28. Fictitious_force
+Science/1620 Physics/1687 Classical Mechanics/28.1 Centrifugal_force
+Science/1620 Physics/1687 Classical Mechanics/28.2 Coriolis_force
+Science/1620 Physics/1687 Classical Mechanics/29. Free_body_diagram
+Science/1620 Physics/1687 Classical Mechanics/30. Central_force
+Science/1620 Physics/1687 Classical Mechanics/31. Restoring_force
+Science/1620 Physics/1687 Classical Mechanics/32. n-body_problem
+Science/1620 Physics/1687 Classical Mechanics/32.1 Two-body_problem
+Science/1620 Physics/1687 Classical Mechanics/32.1.1 Kepler_problem
+Science/1620 Physics/1687 Classical Mechanics/33. Radiation_pressure
+Science/1620 Physics/1687 Classical Mechanics/34. Gravitational_field
+Science/1620 Physics/1687 Classical Mechanics/35. Gravitational_potential
+Science/1620 Physics/1687 Classical Mechanics/36. Tidal_force
+Science/1620 Physics/1687 Classical Mechanics/37. Impact
+Science/1620 Physics/1687 Classical Mechanics/38. Precession
+Science/1620 Physics/1687 Classical Mechanics/39. Vibration
+Science/1620 Physics/1687 Classical Mechanics/39.1 Mechanical_resonance
+Science/1620 Physics/1687 Classical Mechanics/40. Damping
+Science/1620 Physics/1687 Classical Mechanics/41. Conservative_force
+Science/1620 Physics/1687 Classical Mechanics/42. Force_field
+Science/1620 Physics/1687 Classical Mechanics/43. Normal_force
+Science/1620 Physics/1687 Classical Mechanics/44. Canonical_coordinates
+Science/1620 Physics/1687 Classical Mechanics/45. Resultant_force
+Science/1620 Physics/1687 Classical Mechanics/46. Perpetual_motion
+Science/1620 Physics/1687 Classical Mechanics/47. Galilean_transformation
+Science/1620 Physics/1687 Classical Mechanics/48. Galilean_invariance
+Science/1620 Physics/1687 Classical Mechanics/49. Projectile
+Science/1620 Physics/1687 Classical Mechanics/50. Reaction
+Science/1620 Physics/1687 Classical Mechanics/Basics/1. Mechanics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.1 Ballistics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.2 Continuum_mechanics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.3 Dynamics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.3.1 Analytical_dynamics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.4 Flight
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.5 Kinematics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.6 Mechanical_advantage
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.7 Relativistic_mechanics
+Science/1620 Physics/1687 Classical Mechanics/Basics/1.8 Statics
+Science/1620 Physics/1687 Classical Mechanics/Basics/2. Oscillation
+Science/1620 Physics/1687 Classical Mechanics/Basics/2.1 Harmonic_oscillator
+Science/1620 Physics/1687 Classical Mechanics/Basics/2.1.1 Simple_harmonic_motion
+Science/1620 Physics/1687 Classical Mechanics/Basics/2.2 Normal_mode
+Science/1620 Physics/1687 Classical Mechanics/Basics/3. Collision
+Science/1620 Physics/1687 Classical Mechanics/Basics/3.1 Elastic_collision
+Science/1620 Physics/1687 Classical Mechanics/Basics/3.2 Inelastic_collision
+Science/1620 Physics/1687 Classical Mechanics/Basics/4. Degrees_of_freedom
+Science/1620 Physics/1687 Classical Mechanics/Basics/5. Free_particle
+Science/1620 Physics/1687 Classical Mechanics/Basics/6. Point_particle
+Science/1620 Physics/1687 Classical Mechanics/Basics/7. Virial_theorem
+Science/1620 Physics/1687 Classical Mechanics/Basics/8. Shock
+Science/1620 Physics/1687 Classical Mechanics/Basics/9. Mechanical_equilibrium
+Science/1620 Physics/1687 Classical Mechanics/Basics/10. Displacement
+Science/1620 Physics/1687 Classical Mechanics/Basics/11. Test_particle
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/1. Fluid_mechanics
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/2. Computational_fluid_dynamics
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/3. Rheology
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/4. Bernoulli's_principle
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/5. Buoyancy
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/5.1 Archimedes'_principle
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/6. Convection
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/7. Drag
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/8. Diffusion
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/8.1 Diffusion_equation
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/9. Fluid_dynamics
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/9.1 Aerodynamics
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/10. Lift
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/11. Navier–Stokes_equations
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/12. Osmosis
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/13. Reynolds_number
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/14. Surface_tension
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/15. Turbulence
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/16. Viscosity
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/17. Flow_measurement
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/17.1 Mass_flow_rate
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/17.2 Volumetric_flow_rate
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/18. Flow_velocity
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/19. Fluid
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/19.1 Newtonian_fluid
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/19.2 Non-Newtonian_fluid
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/20. Mass_flow
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/21. Vorticity
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/22. Laminar_flow
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/23. Compressible_flow
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/24. Incompressible_flow
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/25. Hydrostatic_equilibrium
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/26. Deformation
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/27. Boundary_layer
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/28. Euler_equations
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/29. Circulation
+Science/1620 Physics/1687 Classical Mechanics/Fluid Mechanics/30. Pipe_flow
+Science/1620 Physics/1687 Classical Mechanics/Soil Mechanics/1. Soil_mechanics
+Science/1620 Physics/1687 Classical Mechanics/Soil Mechanics/2. Angle_of_repose
+Science/1620 Physics/1687 Classical Mechanics/Soil Mechanics/3. Granular_convection
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/1. Solid_mechanics
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/2. Deformation
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/2.1 Poisson's_ratio
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/3. Elastic_modulus
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/4. Elasticity
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/5. Fatigue
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/6. Hooke's_law
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/7. Plasticity
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/7.1 Brittleness
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/7.2 Ductility
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/8. Rigid_body
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/8.1 Rigid_body_dynamics
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/9. Stiffness
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/10. Strength_of_materials
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/11. Stress
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/11.1 Cauchy_stress_tensor
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/11.2 Compression
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/11.3 Tension
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/11.4 Torsion
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/11.5 Shear_stress
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/12. Shearing
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/13. Bulk_modulus
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/14. Finite_strain_theory
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/15. Shear_modulus
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/16. Young's_modulus
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/17. Contact_mechanics
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/18. Piezoelectricity
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/19. Toughness
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/20. Fracture_toughness
+Science/1620 Physics/1687 Classical Mechanics/Solid Mechanics/21. Crystallite
+Science/1620 Physics/1687 Classical Mechanics/Timeline_of_classical_mechanics
+Science/1620 Physics/1706-1749 Émilie_du_Châtelet
+Science/1620 Physics/1711-1765 Mikhail_Lomonosov
+Science/1620 Physics/1711-1778 Laura_Bassi
+Science/1620 Physics/1731-1810 Henry_Cavendish
+Science/1620 Physics/1736-1806 Charles-Augustin_de_Coulomb
+Science/1620 Physics/1736-1813 Joseph-Louis_Lagrange
+Science/1620 Physics/1742-1799 Georg_Christoph_Lichtenberg
+Science/1620 Physics/1745-1827 Alessandro_Volta
+Science/1620 Physics/1749-1827 Pierre-Simon_Laplace
+Science/1620 Physics/1756-1827 Ernst_Chladni
+Science/1620 Physics/1766-1844 John_Dalton
+Science/1620 Physics/1768-1830 Joseph_Fourier
+Science/1620 Physics/1770-1831 Thomas_Johann_Seebeck
+Science/1620 Physics/1773-1829 Thomas_Young_(scientist)
+Science/1620 Physics/1774-1862 Jean-Baptiste_Biot
+Science/1620 Physics/1775-1836 André-Marie_Ampère
+Science/1620 Physics/1776-1856 Amedeo_Avogadro
+Science/1620 Physics/1777-1851 Hans_Christian_Ørsted
+Science/1620 Physics/1777-1855 Carl_Friedrich_Gauss
+Science/1620 Physics/1781-1868 David_Brewster
+Science/1620 Physics/1787-1826 Joseph_von_Fraunhofer
+Science/1620 Physics/1788-1827 Augustin-Jean_Fresnel
+Science/1620 Physics/1789-1854 Georg_Ohm
+Science/1620 Physics/1791-1867 Michael_Faraday
+Science/1620 Physics/1792-1843 Gaspard-Gustave_de_Coriolis
+Science/1620 Physics/1796-1832 Nicolas_Léonard_Sadi_Carnot
+Science/1620 Physics/1797-1869 Jean_Léonard_Marie_Poiseuille
+Science/1620 Physics/1797-1878 Joseph_Henry
+Science/1620 Physics/1804-1891 Wilhelm_Eduard_Weber
+Science/1620 Physics/1814-1874 Anders_Jonas_Ångström
+Science/1620 Physics/1818-1889 James_Prescott_Joule
+Science/1620 Physics/1819-1868 Léon_Foucault
+Science/1620 Physics/1819-1903 Sir_George_Stokes,_1st_Baronet
+Science/1620 Physics/1821-1894 Hermann_von_Helmholtz
+Science/1620 Physics/1822-1888 Rudolf_Clausius
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/1824-1907 William_Thomson,_1st_Baron_Kelvin
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Fluid Mechanics/1623-1662 Blaise_Pascal
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/1. Statistical_mechanics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/2. Microstate
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/3. Boltzmann_distribution
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/4. Partition_function
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/5. Distribution_function
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/5.1 Maxwell–Boltzmann_distribution
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/6. Density_of_states
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/7. Identical_particles
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/8. Particle_statistics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/8.1 Maxwell–Boltzmann_statistics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/8.2 Bose–Einstein_statistics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/8.3 Fermi–Dirac_statistics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/8.3.1 Fermi_energy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/9. Entropy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/10. Canonical_ensemble
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/10.1 Grand_canonical_ensemble
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/10.2 Microcanonical_ensemble
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/11. Maxwell's_demon
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/12. Work
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Statistical Mechanics/13. Molecular_diffusion
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/1. Thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/2. Heat
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/3. Temperature
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/3.1 Thermodynamic_temperature
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/3.2 Absolute_zero
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/4. Pressure
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/4.1 Internal_pressure
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/4.2 Partial_pressure
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/4.3 Pressure–volume_diagram
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/5. Particle_number
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/6. Laws_of_thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/6.1 Zeroth_law_of_thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/6.2 First_law_of_thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/6.3 Second_law_of_thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/6.4 Third_law_of_thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/7. Fundamental_thermodynamic_relation
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/8. Heat_capacity
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/8.1 Heat_capacity_ratio
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/9. Latent_heat
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/10. Heat_transfer
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/10.1 Heat_equation
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/10.2 Thermal_conduction
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/10.3 Convection_(heat_transfer)
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/10.4 Thermal_radiation
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/10.5 Newton's_law_of_cooling
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/11. Entropy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/11.1 Introduction_to_entropy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/11.2 Entropy_(classical_thermodynamics)
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/11.3 Boltzmann's_entropy_formula
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/12. Internal_energy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13. Thermodynamic_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.1 Brayton_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.2 Carnot_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.3 Diesel_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.4 Ericsson_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.5 Heat_pump_and_refrigeration_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.6 Otto_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.7 Rankine_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/13.8 Stirling_cycle
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/14. Thermodynamic_free_energy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/15. Ideal_gas
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/15.1 Ideal_gas_law
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/16. Heat_engine
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/16.1 Carnot_heat_engine
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/16.2 Stirling_engine
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/17. Energy_conversion_efficiency
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/18. Kinetic_theory_of_gases
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/19. Thermodynamic_state
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/19.1 Equation_of_state
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/19.1.1 Van_der_Waals_equation
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/19.1.2 Redlich–Kwong_equation_of_state
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/19.1.3 Virial_expansion
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/20. Thermal_conductivity
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/21. Thermodynamic_equilibrium
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/21.1 Equilibrium_thermodynamics
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/22. Thermodynamic_potential
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/22.1 Enthalpy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/22.1.1 Enthalpy_of_vaporization
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/22.2 Helmholtz_free_energy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/22.3 Gibbs_free_energy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/23. Black_body
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/23.1 Black-body_radiation
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/23.1.1 Planck's_law
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/23.1.2 Stefan–Boltzmann_law
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/23.1.3 Wien's_displacement_law
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/24. Equipartition_theorem
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25. Thermodynamic_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.1 Adiabatic_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.2 Isothermal_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.3 Endothermic_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.4 Exothermic_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.5 Quasistatic_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.6 Reversible_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/25.7 Irreversible_process
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/26. Chemical_potential
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/27. Intensive_and_extensive_properties
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/28. Thermodynamic_system
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/28.1 Closed_system
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/29. Brownian_motion
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/30. Photon_gas
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/31. Entropy_of_mixing
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/32. Fluctuation_theorem
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/33. Thermal_energy
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/34. Thermal_equilibrium
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/35. Thermodynamic_equations
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/36. Boltzmann_equation
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/37. Maxwell_relations
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/38. Thermal_expansion
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Thermodynamics/39. Thermal_fluctuations
+Science/1620 Physics/1824 Thermodynamics and Statistical Mechanics/Timeline_of_thermodynamics
+Science/1620 Physics/1824-1887 Gustav_Kirchhoff
+Science/1620 Physics/1824-1907 William_Thomson,_1st_Baron_Kelvin
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/1. Classical_electromagnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/2. Electricity
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/3. Magnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/3.1 Magnet
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/3.1.1 Electromagnet
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/4. Dipole
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/5. Metamaterial
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/5.1 Negative-index_metamaterial
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/5.2 Photonic_metamaterial
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/5.3 Tunable_metamaterial
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/5.4 Nonlinear_metamaterial
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/6. Oil_drop_experiment
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/7. Photoelectric_effect
+Science/1620 Physics/1827, 1873 Electromagnetism/Basics/8. Bubble_chamber
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/1. Color
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/2. Blacklight
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/3. CIE_1931_color_space
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/4. CIELAB_color_space
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/5. CIELUV
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/6. CMYK_color_model
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/7. Color_theory
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/7.1 Primary_color
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/7.2 Secondary_color
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/8. Gloss
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9. RGB_color_model
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9.1 RGB_color_spaces
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9.1.1 Adobe_RGB_color_space
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9.1.2 ProPhoto_RGB_color_space
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9.1.3 scRGB
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9.1.4 sRGB
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/9.1.5 Wide-gamut_RGB_color_space
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/10. Impossible_color
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/11. Chromaticity
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/11.1 Line_of_purples
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/12. Hue
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Basics/13. Tint,_shade_and_tone
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/1. Amber
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/2. Azure
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/3. Beige
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/4. Black
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/5. Blue
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/5.1 Navy_blue
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/5.2 Sky_blue
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/5.3 Ultramarine
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/6. Brown
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/7. Chartreuse
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/8. Copper
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/9. Cyan
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/10. Gold
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/11. Green
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/11.1 Lime
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/12. Grey
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/12.1 Slate_gray
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/13. Indigo
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/14. Magenta
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/15. Maroon
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/16. Olive
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/17. Orange
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/18. Pink
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/19. Purple
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/20. Red
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/21. Silver
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/22. Tan
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/23. Teal
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/24. Vermilion
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/25. Violet
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/26. White
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/26.1 Ivory
+Science/1620 Physics/1827, 1873 Electromagnetism/Color/Color terms/27. Yellow
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/1. Electrical_network
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/2. Electrical_impedance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/3. Electrical_reactance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/4. Electrical_resistance_and_conductance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/5. Electrical_conductor
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/6. Insulator
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/7. Semiconductor
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/8. Superconductivity
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/8.1 Cooper_pair
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/8.2 High-temperature_superconductivity
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/9. Capacitance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/9.1 Ohm's_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/10. Gain
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/11. Ground
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/12. Inductance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrical circuits/13. Kirchhoff's_circuit_laws
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/1. Maxwell's_equations
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/1.1 Gauss's_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/1.2 Gauss's_law_for_magnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/1.3 Ampère's_circuital_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/1.4 Faraday's_law_of_induction
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/2. Lorentz_force
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/3. Electromagnetic_field
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/4. Electromagnetic_four-potential
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/4.1 Lorenz_gauge_condition
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/5. Electric_current
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/5.1 Alternating_current
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/5.2 Direct_current
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/5.3 Current_density
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/6. Displacement_current
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/7. Electric_power
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/7.1 AC_power
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/8. Electromagnetic_induction
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/9. Electromotive_force
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/10. Eddy_current
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/11. Hall_effect
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/12. Electrical_resistivity_and_conductivity
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/13. Retarded_time
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrodynamics/14. Lenz's_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/1. Electromagnetic_radiation
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/1.1 Electromagnetic_wave_equation
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2. Electromagnetic_spectrum
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.1 Radio_wave
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.2 Microwave
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.3 Terahertz_radiation
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.4 Infrared
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.5 Visible_spectrum
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.5.1 Light
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.6 Ultraviolet
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.7 X-ray
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/2.8 Gamma_ray
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/3. Poynting_vector
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/4. Evanescent_field
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/5. Transverse_mode
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/6. Waveguide
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/7. Larmor_formula
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/8. Bremsstrahlung
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/9. Cyclotron_radiation
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/10. Synchrotron_radiation
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/11. Compton_scattering
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/12. Radiative_transfer
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/13. Fluorescence
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/14. Faraday_effect
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/15. Absorption
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/15.1 Absorption_band
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/16. Near_and_far_field
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/17. Radiant_flux
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/18. Irradiance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/19. Point_source
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/20. Radiance
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/21. Radiometry
+Science/1620 Physics/1827, 1873 Electromagnetism/Electromagnetic radiation/22. Spectral_density
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/1. Electrostatics
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/1.1 Static_electricity
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/2. Coulomb's_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/3. Electric_charge
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/3.1 Charge_density
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/4. Electric_field
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/4.1 Electric_displacement_field
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/5. Electric_potential
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/5.1 Voltage
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/6. Electric_potential_energy
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/7. Electric_flux
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/8. Electric_dipole_moment
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/9. Polarization_density
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/10. Dielectric
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/11. Electric_susceptibility
+Science/1620 Physics/1827, 1873 Electromagnetism/Electrostatics/12. Permittivity
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/1. Magnetostatics
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/2. Magnetic_field
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/3. Magnetic_flux
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/4. Biot–Savart_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/5. Magnetic_dipole
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/6. Magnetic_moment
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7. Magnetization
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7.1 Antiferromagnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7.2 Diamagnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7.3 Ferrimagnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7.4 Ferromagnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7.5 Paramagnetism
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/7.6 Spontaneous_magnetization
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/8. Magnetic_susceptibility
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/9. Permeability
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/10. Magnetic_monopole
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/11. Magnetohydrodynamics
+Science/1620 Physics/1827, 1873 Electromagnetism/Magnetostatics/12. Ampère's_force_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/1. Optics
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/2. Geometrical_optics
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/3. Physical_optics
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/4. Focus
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/5. Focal_length
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/6. Photonics
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/7. Ray
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/8. Polarization
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/8.1 Circular_polarization
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/8.2 Linear_polarization
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/8.3 Stokes_parameters
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/9. Reflection
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/9.1 Reflection_coefficient
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/9.2 Transmission_coefficient
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/9.3 Total_internal_reflection
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/10. Refraction
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/10.1 Refractive_index
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/10.2 Snell's_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/11. Transparency_and_translucency
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/12. Opacity
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/13. Optical_depth
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/14. Optical_power
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/15. Fresnel_equations
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/16. Nonlinear_optics
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/17. Birefringence
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/18. Intensity
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/19. Rayleigh_scattering
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/20. Aperture
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/21. Angle_of_incidence
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/22. Virtual_image
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/23. Dispersion
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/24. Optical_coating
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/25. Shadow
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/26. Beer–Lambert_law
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/27. Fourier_optics
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/28. Photometry
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/28.1 Illuminance
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/28.2 Luminous_flux
+Science/1620 Physics/1827, 1873 Electromagnetism/Optics/28.3 Luminous_intensity
+Science/1620 Physics/1827, 1873 Electromagnetism/Timeline_of_electromagnetism_and_classical_optics
+Science/1620 Physics/1831-1879 James_Clerk_Maxwell
+Science/1620 Physics/1835-1909 Simon_Newcomb
+Science/1620 Physics/1837-1923 Johannes_Diderik_van_der_Waals
+Science/1620 Physics/1838-1916 Ernst_Mach
+Science/1620 Physics/1838-1923 Edward_W._Morley
+Science/1620 Physics/1842-1912 Osborne_Reynolds
+Science/1620 Physics/1842-1919 John_William_Strutt,_3rd_Baron_Rayleigh
+Science/1620 Physics/1844-1906 Ludwig_Boltzmann
+Science/1620 Physics/1845-1921 Gabriel_Lippmann
+Science/1620 Physics/1845-1923 Wilhelm_Röntgen
+Science/1620 Physics/1848-1919 Loránd_Eötvös
+Science/1620 Physics/1850-1918 Karl_Ferdinand_Braun
+Science/1620 Physics/1850-1925 Oliver_Heaviside
+Science/1620 Physics/1851-1940 Oliver_Lodge
+Science/1620 Physics/1852-1908 Henri_Becquerel
+Science/1620 Physics/1852-1931 Albert_A._Michelson
+Science/1620 Physics/1853-1926 Heike_Kamerlingh_Onnes
+Science/1620 Physics/1853-1928 Hendrik_Lorentz
+Science/1620 Physics/1853-1940 Heinrich_Kayser
+Science/1620 Physics/1856-1940 J._J._Thomson
+Science/1620 Physics/1856-1943 Nikola_Tesla
+Science/1620 Physics/1857-1894 Heinrich_Hertz
+Science/1620 Physics/1858-1937 Jagadish_Chandra_Bose
+Science/1620 Physics/1858-1947 Max_Planck
+Science/1620 Physics/1859-1906 Alexander_Stepanovich_Popov
+Science/1620 Physics/1859-1906 Pierre_Curie
+Science/1620 Physics/1861-1938 Charles_Édouard_Guillaume
+Science/1620 Physics/1862-1942 William_Henry_Bragg
+Science/1620 Physics/1862-1947 Philipp_Lenard
+Science/1620 Physics/1864-1928 Wilhelm_Wien
+Science/1620 Physics/1865-1943 Pieter_Zeeman
+Science/1620 Physics/1867-1934 Marie_Curie
+Science/1620 Physics/1868-1951 Arnold_Sommerfeld
+Science/1620 Physics/1868-1953 Robert_Andrews_Millikan
+Science/1620 Physics/1869-1937 Gustaf_Dalén
+Science/1620 Physics/1869-1959 Charles_Thomson_Rees_Wilson
+Science/1620 Physics/1870-1942 Jean_Baptiste_Perrin
+Science/1620 Physics/1871-1937 Ernest_Rutherford
+Science/1620 Physics/1873-1916 Karl_Schwarzschild
+Science/1620 Physics/1874-1957 Johannes_Stark
+Science/1620 Physics/1876-1954 Heinrich_Mache
+Science/1620 Physics/1877-1944 Charles_Glover_Barkla
+Science/1620 Physics/1878-1968 Lise_Meitner
+Science/1620 Physics/1879-1955 Albert_Einstein
+Science/1620 Physics/1879-1959 Owen_Willans_Richardson
+Science/1620 Physics/1879-1960 Max_von_Laue
+Science/1620 Physics/1881-1958 Clinton_Davisson
+Science/1620 Physics/1882-1961 Percy_Williams_Bridgman
+Science/1620 Physics/1882-1964 James_Franck
+Science/1620 Physics/1882-1970 Max_Born
+Science/1620 Physics/1883-1964 Victor_Francis_Hess
+Science/1620 Physics/1885-1962 Niels_Bohr
+Science/1620 Physics/1886-1975 G._I._Taylor
+Science/1620 Physics/1886-1978 Manne_Siegbahn
+Science/1620 Physics/1887-1961 Erwin_Schrödinger
+Science/1620 Physics/1887-1975 Gustav_Ludwig_Hertz
+Science/1620 Physics/1888-1966 Frits_Zernike
+Science/1620 Physics/1888-1969 Otto_Stern
+Science/1620 Physics/1888-1970 C._V._Raman
+Science/1620 Physics/1890-1971 Lawrence_Bragg
+Science/1620 Physics/1891-1957 Walther_Bothe
+Science/1620 Physics/1891-1974 James_Chadwick
+Science/1620 Physics/1892-1962 Arthur_Compton
+Science/1620 Physics/1892-1965 Edward_Victor_Appleton
+Science/1620 Physics/1892-1975 George_Paget_Thomson
+Science/1620 Physics/1892-1987 Louis_de_Broglie
+Science/1620 Physics/1894-1974 Satyendra_Nath_Bose
+Science/1620 Physics/1894-1984 Pyotr_Kapitsa
+Science/1620 Physics/1895-1971 Igor_Tamm
+Science/1620 Physics/1896 Nuclear Physics/1. Nuclear_physics
+Science/1620 Physics/1896 Nuclear Physics/2. Radioactive_decay
+Science/1620 Physics/1896 Nuclear Physics/2.1 Alpha_decay
+Science/1620 Physics/1896 Nuclear Physics/2.1.1 Alpha_particle
+Science/1620 Physics/1896 Nuclear Physics/2.2 Beta_decay
+Science/1620 Physics/1896 Nuclear Physics/2.2.1 Beta_particle
+Science/1620 Physics/1896 Nuclear Physics/2.3 Neutron_radiation
+Science/1620 Physics/1896 Nuclear Physics/2.4 Decay_product
+Science/1620 Physics/1896 Nuclear Physics/2.5 Half-life
+Science/1620 Physics/1896 Nuclear Physics/2.6 Decay_energy
+Science/1620 Physics/1896 Nuclear Physics/2.7 Radioactive_source
+Science/1620 Physics/1896 Nuclear Physics/3. Nuclear_binding_energy
+Science/1620 Physics/1896 Nuclear Physics/4. Nuclear_fission
+Science/1620 Physics/1896 Nuclear Physics/5. Nuclear_fusion
+Science/1620 Physics/1896 Nuclear Physics/5.1 Cold_fusion
+Science/1620 Physics/1896 Nuclear Physics/6. Nuclear_reaction
+Science/1620 Physics/1896 Nuclear Physics/7. Nuclear_isomer
+Science/1620 Physics/1896 Nuclear Physics/8. High-energy_nuclear_physics
+Science/1620 Physics/1896 Nuclear Physics/9. Nuclear_force
+Science/1620 Physics/1896 Nuclear Physics/10. Nuclear_structure
+Science/1620 Physics/1896 Nuclear Physics/11. Nucleosynthesis
+Science/1620 Physics/1896 Nuclear Physics/12. Semi-empirical_mass_formula
+Science/1620 Physics/1896 Nuclear Physics/13. Nuclear_magnetic_resonance
+Science/1620 Physics/1896 Nuclear Physics/13.1 Nuclear_magnetic_resonance_spectroscopy
+Science/1620 Physics/1896 Nuclear Physics/14. Island_of_stability
+Science/1620 Physics/1896-1966 Rolf_Maximilian_Sievert
+Science/1620 Physics/1897-1958 Douglas_Hartree
+Science/1620 Physics/1897-1967 John_Cockcroft
+Science/1620 Physics/1897-1974 Patrick_Blackett
+Science/1620 Physics/1898-1988 Isidor_Isaac_Rabi
+Science/1620 Physics/1899-1980 John_Hasbrouck_Van_Vleck
+Science/1620 Physics/1900 Quantum Mechanics/1. Quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/1.1 Introduction_to_quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/2. Quantum
+Science/1620 Physics/1900 Quantum Mechanics/3. Interpretations_of_quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/3.1 Copenhagen_interpretation
+Science/1620 Physics/1900 Quantum Mechanics/3.2 Many-worlds_interpretation
+Science/1620 Physics/1900 Quantum Mechanics/4. Mathematical_formulation_of_quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/5. Quantization
+Science/1620 Physics/1900 Quantum Mechanics/6. Pauli_exclusion_principle
+Science/1620 Physics/1900 Quantum Mechanics/7. Quantum_chromodynamics
+Science/1620 Physics/1900 Quantum Mechanics/8. Quantum_electrodynamics
+Science/1620 Physics/1900 Quantum Mechanics/9. Quantum_gravity
+Science/1620 Physics/1900 Quantum Mechanics/9.1 AdS_CFT_correspondence
+Science/1620 Physics/1900 Quantum Mechanics/10. Relativistic_quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/11. Quantum_entanglement
+Science/1620 Physics/1900 Quantum Mechanics/12. Quantum_fluctuation
+Science/1620 Physics/1900 Quantum Mechanics/13. Quantum_field_theory
+Science/1620 Physics/1900 Quantum Mechanics/13.1 Casimir_effect
+Science/1620 Physics/1900 Quantum Mechanics/13.2 Conformal_field_theory
+Science/1620 Physics/1900 Quantum Mechanics/14. Quantum_tunnelling
+Science/1620 Physics/1900 Quantum Mechanics/15. Schrödinger_equation
+Science/1620 Physics/1900 Quantum Mechanics/16. Dirac_equation
+Science/1620 Physics/1900 Quantum Mechanics/17. Path_integral_formulation
+Science/1620 Physics/1900 Quantum Mechanics/18. Uncertainty_principle
+Science/1620 Physics/1900 Quantum Mechanics/19. Wave_function
+Science/1620 Physics/1900 Quantum Mechanics/19.1 Wave_function_collapse
+Science/1620 Physics/1900 Quantum Mechanics/20. Wave–particle_duality
+Science/1620 Physics/1900 Quantum Mechanics/20.1 Compton_wavelength
+Science/1620 Physics/1900 Quantum Mechanics/20.2 Matter_wave
+Science/1620 Physics/1900 Quantum Mechanics/20.3 Double-slit_experiment
+Science/1620 Physics/1900 Quantum Mechanics/20.4 Davisson–Germer_experiment
+Science/1620 Physics/1900 Quantum Mechanics/21. Observable
+Science/1620 Physics/1900 Quantum Mechanics/22. Operator
+Science/1620 Physics/1900 Quantum Mechanics/22.1 Momentum_operator
+Science/1620 Physics/1900 Quantum Mechanics/22.2 Position_operator
+Science/1620 Physics/1900 Quantum Mechanics/22.3 Hamiltonian
+Science/1620 Physics/1900 Quantum Mechanics/22.4 Angular_momentum_operator
+Science/1620 Physics/1900 Quantum Mechanics/23. Quantum_state
+Science/1620 Physics/1900 Quantum Mechanics/23.1 Ground_state
+Science/1620 Physics/1900 Quantum Mechanics/23.2 Excited_state
+Science/1620 Physics/1900 Quantum Mechanics/23.3 Stationary_state
+Science/1620 Physics/1900 Quantum Mechanics/23.4 Bound_state
+Science/1620 Physics/1900 Quantum Mechanics/24. Particle_in_a_box
+Science/1620 Physics/1900 Quantum Mechanics/25. Quantum_harmonic_oscillator
+Science/1620 Physics/1900 Quantum Mechanics/26. Finite_potential_well
+Science/1620 Physics/1900 Quantum Mechanics/27. Delta_potential
+Science/1620 Physics/1900 Quantum Mechanics/28. Correspondence_principle
+Science/1620 Physics/1900 Quantum Mechanics/28.1 Ehrenfest_theorem
+Science/1620 Physics/1900 Quantum Mechanics/29. Expectation_value
+Science/1620 Physics/1900 Quantum Mechanics/30. Quantum_number
+Science/1620 Physics/1900 Quantum Mechanics/31. Parity
+Science/1620 Physics/1900 Quantum Mechanics/32. Perturbation_theory
+Science/1620 Physics/1900 Quantum Mechanics/33. Zero-point_energy
+Science/1620 Physics/1900 Quantum Mechanics/34. Stern–Gerlach_experiment
+Science/1620 Physics/1900 Quantum Mechanics/35. Symmetry_in_quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/36. Schrödinger's_cat
+Science/1620 Physics/1900 Quantum Mechanics/37. Bra–ket_notation
+Science/1620 Physics/1900 Quantum Mechanics/38. Electron_diffraction
+Science/1620 Physics/1900 Quantum Mechanics/39. Probability_amplitude
+Science/1620 Physics/1900 Quantum Mechanics/40. Quantum_potential
+Science/1620 Physics/1900 Quantum Mechanics/41. WKB_approximation
+Science/1620 Physics/1900 Quantum Mechanics/42. Born_rule
+Science/1620 Physics/1900 Quantum Mechanics/43. Measurement_in_quantum_mechanics
+Science/1620 Physics/1900 Quantum Mechanics/43.1 Measurement_problem
+Science/1620 Physics/1900 Quantum Mechanics/44. Position_and_momentum_spaces
+Science/1620 Physics/1900 Quantum Mechanics/45. g-factor
+Science/1620 Physics/1900 Quantum Mechanics/46. Gyromagnetic_ratio
+Science/1620 Physics/1900 Quantum Mechanics/47. Planck_postulate
+Science/1620 Physics/1900 Quantum Mechanics/48. Quantum_indeterminacy
+Science/1620 Physics/1900 Quantum Mechanics/49. Quantum_superposition
+Science/1620 Physics/1900 Quantum Mechanics/50. Quantum_foam
+Science/1620 Physics/1900 Quantum Mechanics/1970 Quantum Computation/Quantum_information_science
+Science/1620 Physics/1900 Quantum Mechanics/1970 Quantum Computation/Timeline_of_quantum_computing_and_communication
+Science/1620 Physics/1900 Quantum Mechanics/Copenhagen_interpretation
+Science/1620 Physics/1900 Quantum Mechanics/Timeline_of_quantum_mechanics
+Science/1620 Physics/1900-1958 Wolfgang_Pauli
+Science/1620 Physics/1900-1979 Dennis_Gabor
+Science/1620 Physics/1901-1954 Enrico_Fermi
+Science/1620 Physics/1901-1958 Ernest_Lawrence
+Science/1620 Physics/1901-1976 Werner_Heisenberg
+Science/1620 Physics/1901-2000 Mark_Oliphant
+Science/1620 Physics/1902-1980 Pascual_Jordan
+Science/1620 Physics/1902-1984 Alfred_Kastler
+Science/1620 Physics/1902-1984 Paul_Dirac
+Science/1620 Physics/1902-1987 Walter_Houser_Brattain
+Science/1620 Physics/1902-1995 Eugene_Wigner
+Science/1620 Physics/1903-1969 C._F._Powell
+Science/1620 Physics/1903-1995 Ernest_Walton
+Science/1620 Physics/1904-1967 J._Robert_Oppenheimer
+Science/1620 Physics/1904-1990 Pavel_Cherenkov
+Science/1620 Physics/1904-2000 Louis_Néel
+Science/1620 Physics/1905-1965 Louis_Harold_Gray
+Science/1620 Physics/1905-1983 Felix_Bloch
+Science/1620 Physics/1905-1991 Carl_David_Anderson
+Science/1620 Physics/1905-1993 Bruno_Rossi
+Science/1620 Physics/1905-1996 Nevill_Francis_Mott
+Science/1620 Physics/1905, 1915 Special and General Relativity/1. Theory_of_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/2. General_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/2.1 Introduction_to_general_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/2.2 Mathematics_of_general_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/2.3 Einstein_field_equations
+Science/1620 Physics/1905, 1915 Special and General Relativity/2.3.1 Kerr–Newman_metric
+Science/1620 Physics/1905, 1915 Special and General Relativity/2.4 Tests_of_general_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/2.5 White_hole
+Science/1620 Physics/1905, 1915 Special and General Relativity/3. Special_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/4. Principle_of_relativity
+Science/1620 Physics/1905, 1915 Special and General Relativity/5. Equivalence_principle
+Science/1620 Physics/1905, 1915 Special and General Relativity/6. Gravitational_wave
+Science/1620 Physics/1905, 1915 Special and General Relativity/6.1 First_observation_of_gravitational_waves
+Science/1620 Physics/1905, 1915 Special and General Relativity/7. Lorentz_transformation
+Science/1620 Physics/1905, 1915 Special and General Relativity/8. Michelson–Morley_experiment
+Science/1620 Physics/1905, 1915 Special and General Relativity/9. Four-vector
+Science/1620 Physics/1905, 1915 Special and General Relativity/9.1 Four-momentum
+Science/1620 Physics/1905, 1915 Special and General Relativity/10. Relativity_of_simultaneity
+Science/1620 Physics/1905, 1915 Special and General Relativity/11. Time_dilation
+Science/1620 Physics/1905, 1915 Special and General Relativity/11.1 Gravitational_time_dilation
+Science/1620 Physics/1905, 1915 Special and General Relativity/11.2 Twin_paradox
+Science/1620 Physics/1905, 1915 Special and General Relativity/12. Length_contraction
+Science/1620 Physics/1905, 1915 Special and General Relativity/12.1 Ladder_paradox
+Science/1620 Physics/1905, 1915 Special and General Relativity/13. Causality
+Science/1620 Physics/1905, 1915 Special and General Relativity/14. Proper_time
+Science/1620 Physics/1905, 1915 Special and General Relativity/15. Lorentz_factor
+Science/1620 Physics/1905, 1915 Special and General Relativity/16. Cherenkov_radiation
+Science/1620 Physics/1905, 1915 Special and General Relativity/17. Energy–momentum_relation
+Science/1620 Physics/1905, 1915 Special and General Relativity/18. Minkowski_space
+Science/1620 Physics/1905, 1915 Special and General Relativity/19. Luminiferous_aether
+Science/1620 Physics/1905, 1915 Special and General Relativity/20. Gravitational_singularity
+Science/1620 Physics/1905, 1915 Special and General Relativity/21. Hawking_radiation
+Science/1620 Physics/1905, 1915 Special and General Relativity/22. Spacetime_diagram
+Science/1620 Physics/1905, 1915 Special and General Relativity/23. Stress–energy_tensor
+Science/1620 Physics/1905, 1915 Special and General Relativity/24. No-hair_theorem
+Science/1620 Physics/1905, 1915 Special and General Relativity/1879-1955 Albert_Einstein
+Science/1620 Physics/1905, 1915 Special and General Relativity/1911-2008 John_Archibald_Wheeler
+Science/1620 Physics/1905, 1915 Special and General Relativity/1942-2018 Stephen_Hawking
+Science/1620 Physics/1905, 1915 Special and General Relativity/1951- Edward_Witten
+Science/1620 Physics/1905, 1915 Special and General Relativity/Timeline_of_gravitational_physics_and_relativity
+Science/1620 Physics/1906-1972 Maria_Goeppert_Mayer
+Science/1620 Physics/1906-1979 Shin'ichirō_Tomonaga
+Science/1620 Physics/1906-1988 Ernst_Ruska
+Science/1620 Physics/1906-2005 Hans_Bethe
+Science/1620 Physics/1907-1973 J._Hans_D._Jensen
+Science/1620 Physics/1907-1981 Hideki_Yukawa
+Science/1620 Physics/1908-1968 Lev_Landau
+Science/1620 Physics/1908-1990 Ilya_Frank
+Science/1620 Physics/1908-1995 Hannes_Alfvén
+Science/1620 Physics/1908-2003 Edward_Teller
+Science/1620 Physics/1911-1988 Luis_Walter_Alvarez
+Science/1620 Physics/1911-1993 Polykarp_Kusch
+Science/1620 Physics/1911-1995 William_Alfred_Fowler
+Science/1620 Physics/1912-1997 Chien-Shiung_Wu
+Science/1620 Physics/1913 Atomic Physics/1. Atom
+Science/1620 Physics/1913 Atomic Physics/2. Atomic_physics
+Science/1620 Physics/1913 Atomic Physics/3. Atomic_theory
+Science/1620 Physics/1913 Atomic Physics/4. Atomic_nucleus
+Science/1620 Physics/1913 Atomic Physics/4.1 Hypernucleus
+Science/1620 Physics/1913 Atomic Physics/4.2 Isotope
+Science/1620 Physics/1913 Atomic Physics/4.3 Nucleon
+Science/1620 Physics/1913 Atomic Physics/4.4 Nuclide
+Science/1620 Physics/1913 Atomic Physics/5. Atomic_orbital
+Science/1620 Physics/1913 Atomic Physics/6. Binding_energy
+Science/1620 Physics/1913 Atomic Physics/7. Plum_pudding_model
+Science/1620 Physics/1913 Atomic Physics/8. Rutherford_model
+Science/1620 Physics/1913 Atomic Physics/9. Bohr_model
+Science/1620 Physics/1913 Atomic Physics/10. Electron_configuration
+Science/1620 Physics/1913 Atomic Physics/11. Electron_shell
+Science/1620 Physics/1913 Atomic Physics/12. Exotic_atom
+Science/1620 Physics/1913 Atomic Physics/12.1 Onium
+Science/1620 Physics/1913 Atomic Physics/12.1.1 Positronium
+Science/1620 Physics/1913 Atomic Physics/13. Ion
+Science/1620 Physics/1913 Atomic Physics/13.1 Oxonium_ion
+Science/1620 Physics/1913 Atomic Physics/14. Energy_level
+Science/1620 Physics/1913 Atomic Physics/14.1 Fine_structure
+Science/1620 Physics/1913 Atomic Physics/14.2 Hyperfine_structure
+Science/1620 Physics/1913 Atomic Physics/14.3 Spin–orbit_interaction
+Science/1620 Physics/1913 Atomic Physics/14.4 Degenerate_energy_levels
+Science/1620 Physics/1913 Atomic Physics/15. Geiger–Marsden_experiments
+Science/1620 Physics/1913 Atomic Physics/16. Principal_quantum_number
+Science/1620 Physics/1913 Atomic Physics/17. Azimuthal_quantum_number
+Science/1620 Physics/1913 Atomic Physics/18. Magnetic_quantum_number
+Science/1620 Physics/1913 Atomic Physics/19. Spin_quantum_number
+Science/1620 Physics/1913 Atomic Physics/20. Spectral_line
+Science/1620 Physics/1913 Atomic Physics/20.1 Stark_effect
+Science/1620 Physics/1913 Atomic Physics/20.2 Zeeman_effect
+Science/1620 Physics/1913 Atomic Physics/20.3 Stimulated_emission
+Science/1620 Physics/1913 Atomic Physics/20.4 Spontaneous_emission
+Science/1620 Physics/1913 Atomic Physics/20.5 Hydrogen_spectral_series
+Science/1620 Physics/1913 Atomic Physics/20.5.1 Rydberg_formula
+Science/1620 Physics/1913 Atomic Physics/20.5.2 H-alpha
+Science/1620 Physics/1913 Atomic Physics/20.6 Hydrogen_line
+Science/1620 Physics/1913 Atomic Physics/20.7 Einstein_coefficients
+Science/1620 Physics/1913 Atomic Physics/20.8 Optical_pumping
+Science/1620 Physics/1913 Atomic Physics/21. Spherical_harmonics
+Science/1620 Physics/1913 Atomic Physics/22. Density_functional_theory
+Science/1620 Physics/1913 Atomic Physics/23. Rutherford_scattering
+Science/1620 Physics/1913-1993 Wolfgang_Paul
+Science/1620 Physics/1913-2008 Willis_Lamb
+Science/1620 Physics/1914-2006 Raymond_Davis_Jr.
+Science/1620 Physics/1915-1990 Robert_Hofstadter
+Science/1620 Physics/1915-2001 Clifford_Shull
+Science/1620 Physics/1915-2011 Norman_Foster_Ramsey_Jr.
+Science/1620 Physics/1915-2015 Charles_H._Townes
+Science/1620 Physics/1916-2002 Alexander_Prokhorov
+Science/1620 Physics/1916-2009 Vitaly_Ginzburg
+Science/1620 Physics/1917-1986 James_Rainwater
+Science/1620 Physics/1918-1988 Richard_Feynman
+Science/1620 Physics/1918-1994 Julian_Schwinger
+Science/1620 Physics/1918-1998 Frederick_Reines
+Science/1620 Physics/1918-2003 Bertram_Brockhouse
+Science/1620 Physics/1918-2007 Kai_Siegbahn
+Science/1620 Physics/1920-2006 Owen_Chamberlain
+Science/1620 Physics/1920-2017 Nicolaas_Bloembergen
+Science/1620 Physics/1921-1989 Andrei_Sakharov
+Science/1620 Physics/1921-1999 Arthur_Leonard_Schawlow
+Science/1620 Physics/1921-2015 Yoichiro_Nambu
+Science/1620 Physics/1921-2020 Jack_Steinberger
+Science/1620 Physics/1922- Yang_Chen-Ning
+Science/1620 Physics/1922-2001 G._N._Ramachandran
+Science/1620 Physics/1922-2001 Nikolay_Basov
+Science/1620 Physics/1922-2009 Aage_Bohr
+Science/1620 Physics/1922-2017 Hans_Georg_Dehmelt
+Science/1620 Physics/1922-2018 Leon_M._Lederman
+Science/1620 Physics/1922-2020 Arthur_Ashkin
+Science/1620 Physics/1923-2015 Val_Logsdon_Fitch
+Science/1620 Physics/1923-2020 Freeman_Dyson
+Science/1620 Physics/1923-2020 Philip_W._Anderson
+Science/1620 Physics/1924-2010 Georges_Charpak
+Science/1620 Physics/1924-2011 Willard_Boyle
+Science/1620 Physics/1925- Leo_Esaki
+Science/1620 Physics/1925-2011 Simon_van_der_Meer
+Science/1620 Physics/1925-2018 Roy_J._Glauber
+Science/1620 Physics/1926- Tsung-Dao_Lee
+Science/1620 Physics/1926-1996 Abdus_Salam
+Science/1620 Physics/1926-1999 Henry_Way_Kendall
+Science/1620 Physics/1926-2020 Masatoshi_Koshiba
+Science/1620 Physics/1926-2022 Ben_Roy_Mottelson
+Science/1620 Physics/1927- K._Alex_Müller
+Science/1620 Physics/1927-2014 Martin_Lewis_Perl
+Science/1620 Physics/1928- Herbert_Kroemer
+Science/1620 Physics/1928-2017 Alexei_Abrikosov_(physicist)
+Science/1620 Physics/1929- Ivar_Giaever
+Science/1620 Physics/1929- Peter_Higgs
+Science/1620 Physics/1929-2011 Rudolf_Mössbauer
+Science/1620 Physics/1929-2018 Richard_E._Taylor
+Science/1620 Physics/1929-2019 Murray_Gell-Mann
+Science/1620 Physics/1930- George_E._Smith
+Science/1620 Physics/1930- Jerome_Isaac_Friedman
+Science/1620 Physics/1930- Leon_Cooper
+Science/1620 Physics/1930-1982 Hugh_Everett_III
+Science/1620 Physics/1930-2019 Zhores_Alferov
+Science/1620 Physics/1931- David_Lee_(physicist)
+Science/1620 Physics/1931-2016 James_Cronin
+Science/1620 Physics/1931-2018 Burton_Richter
+Science/1620 Physics/1931-2018 Riccardo_Giacconi
+Science/1620 Physics/1931-2019 John_Robert_Schrieffer
+Science/1620 Physics/1931-2021 Martinus_J._G._Veltman
+Science/1620 Physics/1932- François_Englert
+Science/1620 Physics/1932- Rainer_Weiss
+Science/1620 Physics/1932- Sheldon_Glashow
+Science/1620 Physics/1932-2006 Melvin_Schwartz
+Science/1620 Physics/1932-2007 Pierre-Gilles_de_Gennes
+Science/1620 Physics/1933- Arno_Allan_Penzias
+Science/1620 Physics/1933- Claude_Cohen-Tannoudji
+Science/1620 Physics/1933-2013 Heinrich_Rohrer
+Science/1620 Physics/1933-2018 Charles_K._Kao
+Science/1620 Physics/1933-2021 Steven_Weinberg
+Science/1620 Physics/1934- Carlo_Rubbia
+Science/1620 Physics/1934- John_L._Hall
+Science/1620 Physics/1934-2019 David_J._Thouless
+Science/1620 Physics/1936- Barry_Barish
+Science/1620 Physics/1936- Samuel_C._C._Ting
+Science/1620 Physics/1936-2013 Kenneth_G._Wilson
+Science/1620 Physics/1936-2021 Abdul_Qadeer_Khan
+Science/1620 Physics/1937-2013 Robert_Coleman_Richardson
+Science/1620 Physics/1938- Albert_Fert
+Science/1620 Physics/1938- Anthony_James_Leggett
+Science/1620 Physics/1939- Daniel_C._Tsui
+Science/1620 Physics/1939-2018 Peter_Grünberg
+Science/1620 Physics/1940- Brian_Josephson
+Science/1620 Physics/1940- Kip_Thorne
+Science/1620 Physics/1940-2021 Toshihide_Maskawa
+Science/1620 Physics/1941- David_Gross
+Science/1620 Physics/1941- Theodor_W._Hänsch
+Science/1620 Physics/1942-2018 Stephen_Hawking
+Science/1620 Physics/1943- Arthur_B._McDonald
+Science/1620 Physics/1943- J._Michael_Kosterlitz
+Science/1620 Physics/1943- Klaus_von_Klitzing
+Science/1620 Physics/1944- David_J._Wineland
+Science/1620 Physics/1944- Gérard_Mourou
+Science/1620 Physics/1944- Makoto_Kobayashi_(physicist)
+Science/1620 Physics/1944- Serge_Haroche
+Science/1620 Physics/1945- Douglas_Osheroff
+Science/1620 Physics/1945- George_Smoot
+Science/1620 Physics/1946- Gerard_'t_Hooft
+Science/1620 Physics/1946- John_C._Mather
+Science/1620 Physics/1947- Gerd_Binnig
+Science/1620 Physics/1947- Michio_Kaku
+Science/1620 Physics/1948- Steven_Chu
+Science/1620 Physics/1948- William_Daniel_Phillips
+Science/1620 Physics/1949- Horst_Ludwig_Störmer
+Science/1620 Physics/1949- Hugh_David_Politzer
+Science/1620 Physics/1950 Particle Physics/Antimatter/1. Antimatter
+Science/1620 Physics/1950 Particle Physics/Antimatter/1.1 Antihydrogen
+Science/1620 Physics/1950 Particle Physics/Antimatter/2. Antiparticle
+Science/1620 Physics/1950 Particle Physics/Antimatter/2.1 Positron
+Science/1620 Physics/1950 Particle Physics/Antimatter/2.2 Antiproton
+Science/1620 Physics/1950 Particle Physics/Antimatter/2.3 Antineutron
+Science/1620 Physics/1950 Particle Physics/Devices/1. Particle_accelerator
+Science/1620 Physics/1950 Particle Physics/Devices/1.1 Collider
+Science/1620 Physics/1950 Particle Physics/Devices/1.2 Linear_particle_accelerator
+Science/1620 Physics/1950 Particle Physics/Devices/1.3 Large_Hadron_Collider
+Science/1620 Physics/1950 Particle Physics/Devices/1.4 Tevatron
+Science/1620 Physics/1950 Particle Physics/Devices/1.5 Relativistic_Heavy_Ion_Collider
+Science/1620 Physics/1950 Particle Physics/Devices/2. Particle_detector
+Science/1620 Physics/1950 Particle Physics/Devices/2.1 Semiconductor_detector
+Science/1620 Physics/1950 Particle Physics/Devices/2.2 Cloud_chamber
+Science/1620 Physics/1950 Particle Physics/Devices/2.3 Calorimeter
+Science/1620 Physics/1950 Particle Physics/General/1. Particle_physics
+Science/1620 Physics/1950 Particle Physics/General/2. Standard_Model
+Science/1620 Physics/1950 Particle Physics/General/2.1 Yang–Mills_theory
+Science/1620 Physics/1950 Particle Physics/General/2.2 Higgs_mechanism
+Science/1620 Physics/1950 Particle Physics/General/3. Physics_beyond_the_Standard_Model
+Science/1620 Physics/1950 Particle Physics/General/3.1 Unified_field_theory
+Science/1620 Physics/1950 Particle Physics/General/3.2 Grand_Unified_Theory
+Science/1620 Physics/1950 Particle Physics/General/3.3 String_theory
+Science/1620 Physics/1950 Particle Physics/General/3.3.1 Superstring_theory
+Science/1620 Physics/1950 Particle Physics/General/3.3.2 M-theory
+Science/1620 Physics/1950 Particle Physics/General/3.3.3 String
+Science/1620 Physics/1950 Particle Physics/General/3.3.4 Brane
+Science/1620 Physics/1950 Particle Physics/General/3.4 Supersymmetry
+Science/1620 Physics/1950 Particle Physics/General/3.4.1 Minimal_Supersymmetric_Standard_Model
+Science/1620 Physics/1950 Particle Physics/General/3.5 Supergravity
+Science/1620 Physics/1950 Particle Physics/General/3.6 Theory_of_everything
+Science/1620 Physics/1950 Particle Physics/General/3.7 Neutrino_oscillation
+Science/1620 Physics/1950 Particle Physics/General/4. Particle
+Science/1620 Physics/1950 Particle Physics/General/5. Scattering
+Science/1620 Physics/1950 Particle Physics/General/5.1 Elastic_scattering
+Science/1620 Physics/1950 Particle Physics/General/5.2 Inelastic_scattering
+Science/1620 Physics/1950 Particle Physics/General/5.3 Thomson_scattering
+Science/1620 Physics/1950 Particle Physics/General/6. Annihilation
+Science/1620 Physics/1950 Particle Physics/General/7. CP_violation
+Science/1620 Physics/1950 Particle Physics/General/8. CPT_symmetry
+Science/1620 Physics/1950 Particle Physics/General/9. Electroweak_interaction
+Science/1620 Physics/1950 Particle Physics/General/10. Hierarchy_problem
+Science/1620 Physics/1950 Particle Physics/General/11. Feynman_diagram
+Science/1620 Physics/1950 Particle Physics/General/12. Generation
+Science/1620 Physics/1950 Particle Physics/General/13. Pair_production
+Science/1620 Physics/1950 Particle Physics/General/14. Particle_decay
+Science/1620 Physics/1950 Particle Physics/General/14.1 Proton_decay
+Science/1620 Physics/1950 Particle Physics/General/14.2 Free_neutron_decay
+Science/1620 Physics/1950 Particle Physics/General/15. Discovery_of_the_neutron
+Science/1620 Physics/1950 Particle Physics/General/16. Charge_conservation
+Science/1620 Physics/1950 Particle Physics/General/17. QCD_matter
+Science/1620 Physics/1950 Particle Physics/General/18. Quark_model
+Science/1620 Physics/1950 Particle Physics/General/19. Scalar_field_theory
+Science/1620 Physics/1950 Particle Physics/General/20. Symmetry_breaking
+Science/1620 Physics/1950 Particle Physics/General/20.1 Spontaneous_symmetry_breaking
+Science/1620 Physics/1950 Particle Physics/General/21. Noether's_theorem
+Science/1620 Physics/1950 Particle Physics/General/22. Baryon_asymmetry
+Science/1620 Physics/1950 Particle Physics/General/23. Vacuum_energy
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/1. Spin
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/2. Baryon_number
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/3. Lepton_number
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/4. Color_charge
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/5. Flavour
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/6. Strangeness
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/7. Isospin
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/8. Weak_isospin
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/9. Hypercharge
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/10. Weak_hypercharge
+Science/1620 Physics/1950 Particle Physics/Quantum numbers/11./ Chirality
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/1. Boson
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/2. Gauge_boson
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/2.1 Photon
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/2.2 Gluon
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/2.3 W_and_Z_bosons
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/2.4 Graviton
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/3. Higgs_boson
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/4. Meson
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/4.1 Pion
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/4.2 Kaon
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/4.3 J_psi_meson
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Bosons/5. Tetraquark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/1. Fermion
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2. Lepton
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.1 Electron
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.2 Muon
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.3 Tau
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.4 Neutrino
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.4.1 Electron_neutrino
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.4.2 Muon_neutrino
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/2.4.3 Tau_neutrino
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3. Quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3.1 Up_quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3.2 Down_quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3.3 Strange_quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3.4 Charm_quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3.5 Bottom_quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/3.6 Top_quark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/4. Baryon
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/4.1 Neutron
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/4.2 Proton
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/4.3 Hyperon
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/Fermions/5. Pentaquark
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/1. Subatomic_particle
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/2. Elementary_particle
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/3. Force_carrier
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/4. List_of_particles
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/5. Hadron
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/6. Massless_particle
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/7. Virtual_particle
+Science/1620 Physics/1950 Particle Physics/Subatomic particles/General/8. Tachyon
+Science/1620 Physics/1950- Georg_Bednorz
+Science/1620 Physics/1950- Robert_B._Laughlin
+Science/1620 Physics/1950- Russell_Alan_Hulse
+Science/1620 Physics/1951- Carl_Wieman
+Science/1620 Physics/1951- Duncan_Haldane
+Science/1620 Physics/1951- Edward_Witten
+Science/1620 Physics/1951- Frank_Wilczek
+Science/1620 Physics/1954- Lawrence_Krauss
+Science/1620 Physics/1957- Wolfgang_Ketterle
+Science/1620 Physics/1958- Andre_Geim
+Science/1620 Physics/1959- Donna_Strickland
+Science/1620 Physics/1959- Takaaki_Kajita
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/1. Condensed_matter_physics
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/2. Solid-state_physics
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/3. Mesoscopic_physics
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/4. Einstein_solid
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/5. Electronic_band_structure
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/5.1 Band_gap
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/5.2 Valence_and_conduction_bands
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/6. Free_electron_model
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/7. Electron_hole
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/8. Soft_matter
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/9. Bonding_in_solids
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/10. Rock_magnetism
+Science/1620 Physics/1960 Condensed Matter Physics/Basics/11. Bloch's_theorem
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography_(28_articles)
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/1. Crystallography
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/2. Crystal
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/3. Crystallization
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/3.1 Crystal_growth
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/3.2 Grain_growth
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4. Crystal_structure
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1 Crystal_system
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1.1 Triclinic_crystal_system
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1.2 Monoclinic_crystal_system
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1.3 Orthorhombic_crystal_system
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1.4 Tetragonal_crystal_system
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1.5 Hexagonal_crystal_family
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.1.6 Cubic_crystal_system
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/4.2 Bravais_lattice
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/5. Crystal_optics
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/6. Crystallographic_defect
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/6.1 Grain_boundary
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/6.2 Dislocation
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/6.3 Misorientation
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/6.4 Vacancy_defect
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/7. Crystal_twinning
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/8. Miller_index
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/9. Atomic_packing_factor
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/10. Coordination_number
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/11. Polymorphism_(materials_science)
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/12. X-ray_crystallography
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/13. Crystal_engineering
+Science/1620 Physics/1960 Condensed Matter Physics/Crystallography/14. Unit_cell
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/1. Phase_transition
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/2. Phase
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/3. Phase_diagram
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/4. Boiling
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/4.1 Boiling_point
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/5. Melting
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/5.1 Melting_point
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/6. Freezing
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/7. Evaporation
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/8. Condensation
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/9. Vaporization
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/10. Ionization
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/11. Plasma_recombination
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/12. Sublimation
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/13. Deposition
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/14. Critical_point
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/15. Triple_point
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/16. Miscibility
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/17. Metallic_hydrogen
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/18. Curie_temperature
+Science/1620 Physics/1960 Condensed Matter Physics/Phase transitions/19. Phase_rule
+Science/1620 Physics/1960 Condensed Matter Physics/Phase_transitions_(21_articles)
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/1. State_of_matter
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/2. Solid
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/2.1 Amorphous_solid
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/3. Liquid
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/4. Gas
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/4.1 Vapor
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/5. Plasma
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/6. Degenerate_matter
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/6.1 Bose_gas
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/6.2 Fermi_gas
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/7. Bose–Einstein_condensate
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/8. Superfluidity
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/9. Supercritical_fluid
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/10. Supersolid
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/11. Liquid_crystal
+Science/1620 Physics/1960 Condensed Matter Physics/States of matter/12. Quasiparticle
+Science/1620 Physics/1960 Condensed Matter Physics/States_of_matter_(16_articles)
+Science/1620 Physics/1961- Eric_Allin_Cornell
+Science/1620 Physics/1966- Sean_M._Carroll
+Science/1620 Physics/1967- Max_Tegmark
+Science/1620 Physics/1974- Konstantin_Novoselov
+Science/1620 Physics/1976- Sabine_Hossenfelder
+Science/1620 Physics/General/1. Physics
+Science/1620 Physics/General/2. Outline_of_physics
+Science/1620 Physics/General/3. Physical_property
+Science/1620 Physics/General/4. Physical_quantity
+Science/1620 Physics/General/5. Energy
+Science/1620 Physics/General/5.1 Conservation_of_energy
+Science/1620 Physics/General/5.2 Energy_density
+Science/1620 Physics/General/6. Matter
+Science/1620 Physics/General/6.1 Exotic_matter
+Science/1620 Physics/General/7. Vacuum
+Science/1620 Physics/General/8. Fundamental_interaction
+Science/1620 Physics/General/8.1 Gravity
+Science/1620 Physics/General/8.2 Electromagnetism
+Science/1620 Physics/General/8.3 Strong_interaction
+Science/1620 Physics/General/8.4 Weak_interaction
+Science/1620 Physics/General/8.5 Fifth_force
+Science/1620 Physics/General/9. Spacetime
+Science/1620 Physics/General/9.1 Space
+Science/1620 Physics/General/9.2 Time
+Science/1620 Physics/General/9.2.1 Time_in_physics
+Science/1620 Physics/General/10. Mass–energy_equivalence
+Science/1620 Physics/General/11. Conservation_law
+Science/1620 Physics/General/12. Hysteresis
+Science/1620 Physics/General/13. Transport_phenomena
+Science/1620 Physics/General/14. Radiation
+Science/1620 Physics/General/14.1 Ionizing_radiation
+Science/1620 Physics/General/14.2 Background_radiation
+Science/1620 Physics/General/15. Scalar
+Science/1620 Physics/General/16. Field
+Science/1620 Physics/General/16.1 Flux
+Science/1620 Physics/General/17. Gauge_theory
+Science/1620 Physics/General/17.1 Introduction_to_gauge_theory
+Science/1620 Physics/General/18. Symmetry
+Science/1620 Physics/General/19. Instability
+Science/1620 Physics/General/19.1 Metastability
+Science/1620 Physics/General/20. Classical_physics
+Science/1620 Physics/General/20.1 Classical_field_theory
+Science/1620 Physics/General/21. Theoretical_physics
+Science/1620 Physics/General/22. Experimental_physics
+Science/1620 Physics/General/23. Computational_physics
+Science/1620 Physics/General/24. Statistical_physics
+Science/1620 Physics/General/25. Atmospheric_physics
+Science/1620 Physics/General/26. Biophysics
+Science/1620 Physics/General/27. Chemical_physics
+Science/1620 Physics/General/28. Polymer_physics
+Science/1620 Physics/General/29. Mathematical_physics
+Science/1620 Physics/General/30. List_of_unsolved_problems_in_physics
+Science/1620 Physics/General/31. Scale_invariance
+Science/1620 Physics/General/32. Classical_limit
+Science/1620 Physics/General/33. Macroscopic_scale
+Science/1620 Physics/Molecular physics/1. Molecular_physics
+Science/1620 Physics/Molecular physics/2. Molecular_orbital
+Science/1620 Physics/Molecular physics/2.1 Molecular_orbital_theory
+Science/1620 Physics/Molecular physics/3. Rigid_rotor
+Science/1620 Physics/Molecular physics/4. Molecular_dynamics
+Science/1620 Physics/Molecular physics/5. Cross_section
+Science/1620 Physics/Molecular physics/6. Emission_spectrum
+Science/1620 Physics/Molecular physics/7. Rotational–vibrational_spectroscopy
+Science/1620 Physics/Molecular physics/7.1 Rotational_spectroscopy
+Science/1620 Physics/Nobel_Prize_in_Physics
+Science/1620 Physics/Physical constants/1. Physical_constant
+Science/1620 Physics/Physical constants/2. Bohr_magneton
+Science/1620 Physics/Physical constants/3. Bohr_radius
+Science/1620 Physics/Physical constants/4. Boltzmann_constant
+Science/1620 Physics/Physical constants/5. Electron_magnetic_moment
+Science/1620 Physics/Physical constants/6. Elementary_charge
+Science/1620 Physics/Physical constants/7. Fine-structure_constant
+Science/1620 Physics/Physical constants/8. Gravitational_constant
+Science/1620 Physics/Physical constants/9. Planck_constant
+Science/1620 Physics/Physical constants/10. Speed_of_light
+Science/1620 Physics/Physical constants/11. Vacuum_permeability
+Science/1620 Physics/Physical constants/12. Vacuum_permittivity
+Science/1620 Physics/Timeline_of_fundamental_physics_discoveries
+Science/1620 Physics/Waves/1. Wave
+Science/1620 Physics/Waves/1.1 Transverse_wave
+Science/1620 Physics/Waves/1.2 Longitudinal_wave
+Science/1620 Physics/Waves/2. Mechanical_wave
+Science/1620 Physics/Waves/3. Acoustics
+Science/1620 Physics/Waves/3.1 Sound
+Science/1620 Physics/Waves/3.1.1 Speed_of_sound
+Science/1620 Physics/Waves/3.1.2 Sonic_boom
+Science/1620 Physics/Waves/3.2 Ultrasound
+Science/1620 Physics/Waves/3.2.3 Sound_pressure
+Science/1620 Physics/Waves/3.3 Beat
+Science/1620 Physics/Waves/3.4 Echo
+Science/1620 Physics/Waves/3.5 Acoustic_resonance
+Science/1620 Physics/Waves/4. Amplitude
+Science/1620 Physics/Waves/5. Phase
+Science/1620 Physics/Waves/6. Frequency
+Science/1620 Physics/Waves/7. Wavelength
+Science/1620 Physics/Waves/8. Wavenumber
+Science/1620 Physics/Waves/9. Wave_vector
+Science/1620 Physics/Waves/10. Diffraction
+Science/1620 Physics/Waves/10.1 Diffraction-limited_system
+Science/1620 Physics/Waves/10.2 Fraunhofer_diffraction
+Science/1620 Physics/Waves/10.3 Huygens–Fresnel_principle
+Science/1620 Physics/Waves/10.3.1 Fermat's_principle
+Science/1620 Physics/Waves/10.4 Bragg's_law
+Science/1620 Physics/Waves/11. Doppler_effect
+Science/1620 Physics/Waves/11.1 Relativistic_Doppler_effect
+Science/1620 Physics/Waves/12. Wave_interference
+Science/1620 Physics/Waves/13. Noise
+Science/1620 Physics/Waves/14. Resonance
+Science/1620 Physics/Waves/15. Superposition_principle
+Science/1620 Physics/Waves/16. Wave_equation
+Science/1620 Physics/Waves/17. Node
+Science/1620 Physics/Waves/18. Radio_frequency
+Science/1620 Physics/Waves/19. Wavefront
+Science/1620 Physics/Waves/20. Harmonic
+Science/1620 Physics/Waves/21. Pulse
+Science/1620 Physics/Waves/22. Wave_propagation
+Science/1620 Physics/Waves/23. Group_velocity
+Science/1620 Physics/Waves/24. Phase_velocity
+Science/1620 Physics/Waves/25. Shock_wave
+Science/1620 Physics/Waves/26. Waveform
+Science/1620 Physics/Waves/27. Coherence
+Science/1620 Physics/Waves/28. Standing_wave
+Science/1620 Physics/Waves/29. Wave_packet
+Science/1620 Physics/Waves/30. Dispersion
+Science/1620 Physics/Waves/31. Plane_wave
